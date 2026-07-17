@@ -1316,6 +1316,20 @@
     "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Splatoon Raiders.", "es": "El lanzamiento previsto de Splatoon Raiders para Nintendo Switch 2.", "it": "L'uscita prevista di Splatoon Raiders per Nintendo Switch 2."}
   },
   {
+    "id": "final-fantasy-x-x-2-hd-remaster-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {"en": "Final Fantasy X/X-2 HD Remaster (Nintendo Switch 2)", "es": "Final Fantasy X/X-2 HD Remaster (Nintendo Switch 2)", "it": "Final Fantasy X/X-2 HD Remaster (Nintendo Switch 2)"},
+    "allDay": true,
+    "dueDate": "2026-07-23",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Final Fantasy X/X-2 HD Remaster.", "es": "El lanzamiento previsto de Final Fantasy X/X-2 HD Remaster para Nintendo Switch 2.", "it": "L'uscita prevista di Final Fantasy X/X-2 HD Remaster per Nintendo Switch 2."}
+  },
+  {
     "id": "xenoblade-chronicles-2-switch-2-2026",
     "category": "Game",
     "localizedNames": {"en": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition", "es": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition", "it": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition"},
@@ -1426,6 +1440,62 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of LEGO Batman: Legacy of the Dark Knight.", "es": "El lanzamiento previsto de LEGO Batman: Legacy of the Dark Knight para Nintendo Switch 2.", "it": "L'uscita prevista di LEGO Batman: Legacy of the Dark Knight per Nintendo Switch 2."}
+  },
+  {
+    "id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {"en": "Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition (Nintendo Switch 2)", "es": "Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva (Nintendo Switch 2)", "it": "Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva (Nintendo Switch 2)"},
+    "allDay": true,
+    "dueDate": "2026-09-24",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition.", "es": "El lanzamiento previsto de Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva para Nintendo Switch 2.", "it": "L'uscita prevista di Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva per Nintendo Switch 2."}
+  },
+  {
+    "id": "rayman-legends-retold-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {"en": "Rayman Legends Retold (Nintendo Switch 2)", "es": "Rayman Legends Retold (Nintendo Switch 2)", "it": "Rayman Legends Retold (Nintendo Switch 2)"},
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Rayman Legends Retold.", "es": "El lanzamiento previsto de Rayman Legends Retold para Nintendo Switch 2.", "it": "L'uscita prevista di Rayman Legends Retold per Nintendo Switch 2."}
+  },
+  {
+    "id": "ratatan-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {"en": "Ratatan (Nintendo Switch 2)", "es": "Ratatan (Nintendo Switch 2)", "it": "Ratatan (Nintendo Switch 2)"},
+    "allDay": true,
+    "dueDate": "2026-10-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Ratatan.", "es": "El lanzamiento previsto de Ratatan para Nintendo Switch 2.", "it": "L'uscita prevista di Ratatan per Nintendo Switch 2."}
+  },
+  {
+    "id": "toy-story-retro-roundup-toy-story-3-complete-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {"en": "Toy Story: Retro Roundup! & Toy Story 3: Complete Edition (Nintendo Switch 2)", "es": "Toy Story: Retro Roundup! y Toy Story 3: Complete Edition (Nintendo Switch 2)", "it": "Toy Story: Retro Roundup! e Toy Story 3: Complete Edition (Nintendo Switch 2)"},
+    "allDay": true,
+    "dueDate": "2026-10-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of the Toy Story: Retro Roundup! and Toy Story 3: Complete Edition collection.", "es": "El lanzamiento previsto para Nintendo Switch 2 de la colección Toy Story: Retro Roundup! y Toy Story 3: Complete Edition.", "it": "L'uscita prevista per Nintendo Switch 2 della raccolta Toy Story: Retro Roundup! e Toy Story 3: Complete Edition."}
   },
   {
     "id": "final-fantasy-resonance-switch-2-2026",
