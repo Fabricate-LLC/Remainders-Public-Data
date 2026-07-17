@@ -26,7 +26,10 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Verify dates and official names against reliable primary sources whenever practical.
 - Translate meaning naturally; do not merely preserve English phrasing in Spanish or Italian.
 - Avoid political advocacy, promotional copy, sensitive personal data, and speculative observances.
+- Avoid somewhat generic "days"" like "International Literacy Day" or "World Tourism Day".
 - Keep descriptions concise and factual.
+- Categorize events into the correct category (e.g. Video Game releases in "Games" or Movies in "Movies")
 - This repository is published publicly. Never add credentials, tokens, private URLs, or user information.
+- Clean up the file and remove sale singular events that are in the past.
 
 When the format itself must change, update the app decoder, JSON Schema, validator, documentation, and fallback data together before publishing the new format.
