@@ -748,28 +748,6 @@
     }
   },
   {
-    "id": "world-tourism-day-2027",
-    "category": "Vacation",
-    "localizedNames": {
-      "en": "World Tourism Day",
-      "es": "Día Mundial del Turismo",
-      "it": "Giornata mondiale del turismo"
-    },
-    "allDay": true,
-    "dueDate": "2027-09-27",
-    "icon": "airplane",
-    "color": "cyan",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A worldwide observance for travel, culture, and sustainable tourism.",
-      "es": "Una observancia mundial sobre viajes, cultura y turismo sostenible.",
-      "it": "Una ricorrenza mondiale per viaggi, cultura e turismo sostenibile."
-    }
-  },
-  {
     "id": "world-mental-health-day-2027",
     "category": "Special Event",
     "localizedNames": {
