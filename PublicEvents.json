@@ -438,5 +438,335 @@
       "es": "Un día mundial centrado en la protección y el aprecio por los océanos.",
       "it": "Una giornata globale dedicata alla protezione e valorizzazione degli oceani."
     }
+  },
+  {
+    "id": "world-emoji-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Emoji Day",
+      "es": "Día Mundial del Emoji",
+      "it": "Giornata mondiale delle emoji"
+    },
+    "allDay": true,
+    "dueDate": "2027-07-17",
+    "icon": "party.popper.fill",
+    "color": "yellow",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A lighthearted day celebrating emoji and digital expression.",
+      "es": "Un día alegre para celebrar los emoji y la expresión digital.",
+      "it": "Una giornata leggera per celebrare emoji ed espressione digitale."
+    }
+  },
+  {
+    "id": "international-friendship-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "International Day of Friendship",
+      "es": "Día Internacional de la Amistad",
+      "it": "Giornata internazionale dell'amicizia"
+    },
+    "allDay": true,
+    "dueDate": "2027-07-30",
+    "icon": "heart.fill",
+    "color": "pink",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A United Nations observance for friendship among people and cultures.",
+      "es": "Una observancia de las Naciones Unidas sobre la amistad entre personas y culturas.",
+      "it": "Una ricorrenza delle Nazioni Unite dedicata all'amicizia tra persone e culture."
+    }
+  },
+  {
+    "id": "world-indigenous-peoples-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "International Day of the World's Indigenous Peoples",
+      "es": "Día Internacional de los Pueblos Indígenas",
+      "it": "Giornata internazionale dei popoli indigeni"
+    },
+    "allDay": true,
+    "dueDate": "2027-08-09",
+    "icon": "globe.americas.fill",
+    "color": "brown",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A global observance honoring Indigenous peoples, cultures, and rights.",
+      "es": "Una observancia mundial que honra a los pueblos indígenas, sus culturas y derechos.",
+      "it": "Una ricorrenza globale che onora popoli indigeni, culture e diritti."
+    }
+  },
+  {
+    "id": "world-humanitarian-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Humanitarian Day",
+      "es": "Día Mundial de la Asistencia Humanitaria",
+      "it": "Giornata mondiale dell'aiuto umanitario"
+    },
+    "allDay": true,
+    "dueDate": "2027-08-19",
+    "icon": "heart.fill",
+    "color": "red",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A day recognizing humanitarian workers and people affected by crises.",
+      "es": "Un día para reconocer a quienes trabajan en asistencia humanitaria y a las personas afectadas por crisis.",
+      "it": "Una giornata per riconoscere operatori umanitari e persone colpite dalle crisi."
+    }
+  },
+  {
+    "id": "international-literacy-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "International Literacy Day",
+      "es": "Día Internacional de la Alfabetización",
+      "it": "Giornata internazionale dell'alfabetizzazione"
+    },
+    "allDay": true,
+    "dueDate": "2027-09-08",
+    "icon": "bookmark.fill",
+    "color": "blue",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A UNESCO observance focused on literacy and learning.",
+      "es": "Una observancia de la UNESCO centrada en la alfabetización y el aprendizaje.",
+      "it": "Una ricorrenza UNESCO dedicata ad alfabetizzazione e apprendimento."
+    }
+  },
+  {
+    "id": "international-day-of-peace-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "International Day of Peace",
+      "es": "Día Internacional de la Paz",
+      "it": "Giornata internazionale della pace"
+    },
+    "allDay": true,
+    "dueDate": "2027-09-21",
+    "icon": "globe.europe.africa.fill",
+    "color": "mint",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A United Nations day devoted to strengthening the ideals of peace.",
+      "es": "Un día de las Naciones Unidas dedicado a fortalecer los ideales de paz.",
+      "it": "Una giornata delle Nazioni Unite dedicata a rafforzare gli ideali di pace."
+    }
+  },
+  {
+    "id": "world-tourism-day-2027",
+    "category": "Vacation",
+    "localizedNames": {
+      "en": "World Tourism Day",
+      "es": "Día Mundial del Turismo",
+      "it": "Giornata mondiale del turismo"
+    },
+    "allDay": true,
+    "dueDate": "2027-09-27",
+    "icon": "airplane",
+    "color": "cyan",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A worldwide observance for travel, culture, and sustainable tourism.",
+      "es": "Una observancia mundial sobre viajes, cultura y turismo sostenible.",
+      "it": "Una ricorrenza mondiale per viaggi, cultura e turismo sostenibile."
+    }
+  },
+  {
+    "id": "world-mental-health-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Mental Health Day",
+      "es": "Día Mundial de la Salud Mental",
+      "it": "Giornata mondiale della salute mentale"
+    },
+    "allDay": true,
+    "dueDate": "2027-10-10",
+    "icon": "waveform.path.ecg.rectangle.fill",
+    "color": "green",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A global reminder to support mental health awareness and care.",
+      "es": "Un recordatorio mundial para apoyar la conciencia y el cuidado de la salud mental.",
+      "it": "Un promemoria globale per sostenere consapevolezza e cura della salute mentale."
+    }
+  },
+  {
+    "id": "world-kindness-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Kindness Day",
+      "es": "Día Mundial de la Bondad",
+      "it": "Giornata mondiale della gentilezza"
+    },
+    "allDay": true,
+    "dueDate": "2027-11-13",
+    "icon": "gift.fill",
+    "color": "pink",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A day to notice and practice kindness in everyday life.",
+      "es": "Un día para notar y practicar la bondad en la vida cotidiana.",
+      "it": "Una giornata per riconoscere e praticare la gentilezza nella vita quotidiana."
+    }
+  },
+  {
+    "id": "human-rights-day-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Human Rights Day",
+      "es": "Día de los Derechos Humanos",
+      "it": "Giornata dei diritti umani"
+    },
+    "allDay": true,
+    "dueDate": "2027-12-10",
+    "icon": "person.3.fill",
+    "color": "indigo",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A United Nations day marking the Universal Declaration of Human Rights.",
+      "es": "Un día de las Naciones Unidas que conmemora la Declaración Universal de los Derechos Humanos.",
+      "it": "Una giornata delle Nazioni Unite che ricorda la Dichiarazione universale dei diritti umani."
+    }
+  },
+  {
+    "id": "christmas-day-2027",
+    "category": "Holiday",
+    "localizedNames": {
+      "en": "Christmas Day",
+      "es": "Navidad",
+      "it": "Natale"
+    },
+    "allDay": true,
+    "dueDate": "2027-12-25",
+    "icon": "gift.fill",
+    "color": "red",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A widely observed Christian holiday and cultural celebration.",
+      "es": "Una festividad cristiana y celebración cultural ampliamente observada.",
+      "it": "Una festività cristiana e celebrazione culturale ampiamente osservata."
+    }
+  },
+  {
+    "id": "new-years-day-2028",
+    "category": "Holiday",
+    "localizedNames": {
+      "en": "New Year's Day",
+      "es": "Año Nuevo",
+      "it": "Capodanno"
+    },
+    "allDay": true,
+    "dueDate": "2028-01-01",
+    "icon": "fireworks",
+    "color": "purple",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The first day of the Gregorian calendar year.",
+      "es": "El primer día del año del calendario gregoriano.",
+      "it": "Il primo giorno dell'anno nel calendario gregoriano."
+    }
+  },
+  {
+    "id": "international-womens-day-2028",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "International Women's Day",
+      "es": "Día Internacional de la Mujer",
+      "it": "Giornata internazionale della donna"
+    },
+    "allDay": true,
+    "dueDate": "2028-03-08",
+    "icon": "star.fill",
+    "color": "purple",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A global day celebrating women's achievements and equality.",
+      "es": "Un día mundial para celebrar los logros de las mujeres y la igualdad.",
+      "it": "Una giornata globale per celebrare i risultati delle donne e l'uguaglianza."
+    }
+  },
+  {
+    "id": "earth-day-2028",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Earth Day",
+      "es": "Día de la Tierra",
+      "it": "Giornata della Terra"
+    },
+    "allDay": true,
+    "dueDate": "2028-04-22",
+    "icon": "leaf.fill",
+    "color": "green",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A worldwide day for environmental awareness and action.",
+      "es": "Un día mundial de conciencia y acción ambiental.",
+      "it": "Una giornata mondiale per consapevolezza e azione ambientale."
+    }
+  },
+  {
+    "id": "world-oceans-day-2028",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Oceans Day",
+      "es": "Día Mundial de los Océanos",
+      "it": "Giornata mondiale degli oceani"
+    },
+    "allDay": true,
+    "dueDate": "2028-06-08",
+    "icon": "sailboat.fill",
+    "color": "teal",
+    "repeatEvent": "Every Year",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "A global day focused on ocean protection and appreciation.",
+      "es": "Un día mundial centrado en la protección y el aprecio por los océanos.",
+      "it": "Una giornata globale dedicata alla protezione e valorizzazione degli oceani."
+    }
   }
 ]
