@@ -29,6 +29,7 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Avoid somewhat generic "days"" like "International Literacy Day" or "World Tourism Day".
 - Keep descriptions concise and factual.
 - Categorize events using the app's exact singular raw values (for example, video game releases use `Game` and movie releases use `Movie`).
+- For video game events, use only the game's official base title in every `localizedNames` value. Do not append gaming platforms or platform-specific qualifiers such as `(Nintendo Switch 2)`, `(PlayStation 5)`, `(Xbox Series X|S)`, or `(PC)`. Put platform availability in `localizedNotes` only when it is relevant and verified.
 - This repository is published publicly. Never add credentials, tokens, private URLs, or user information.
 - Clean up the file and remove sale singular events that are in the past.
 
