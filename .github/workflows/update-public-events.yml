@@ -2,7 +2,7 @@ name: Update public events
 
 on:
   schedule:
-    - cron: "0 13 * * 1"
+    - cron: "0 13 * * 3"
   workflow_dispatch:
 
 permissions:
@@ -23,6 +23,11 @@ jobs:
 
       - name: Pull latest changes
         run: git pull --ff-only origin "${GITHUB_REF_NAME}"
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
 
       - name: Update PublicEvents.json
         run: python3 scripts/update_public_events.py
