@@ -23,7 +23,7 @@
   },
   {
     "id": "halo-campaign-evolved-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Halo: Campaign Evolved",
       "es": "Halo: Campaign Evolved",
@@ -111,7 +111,7 @@
   },
   {
     "id": "orbitals-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Orbitals",
       "es": "Orbitals",
@@ -155,7 +155,7 @@
   },
   {
     "id": "marvels-wolverine-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Marvel's Wolverine",
       "es": "Marvel's Wolverine",
@@ -199,7 +199,7 @@
   },
   {
     "id": "control-resonant-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "CONTROL Resonant",
       "es": "CONTROL Resonant",
@@ -243,7 +243,7 @@
   },
   {
     "id": "star-wars-galactic-racer-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Star Wars: Galactic Racer",
       "es": "Star Wars: Galactic Racer",
@@ -331,7 +331,7 @@
   },
   {
     "id": "grand-theft-auto-vi-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Grand Theft Auto VI",
       "es": "Grand Theft Auto VI",
@@ -485,7 +485,7 @@
   },
   {
     "id": "tomb-raider-legacy-of-atlantis-2027",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Tomb Raider: Legacy of Atlantis",
       "es": "Tomb Raider: Legacy of Atlantis",
@@ -507,7 +507,7 @@
   },
   {
     "id": "fable-2027",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Fable",
       "es": "Fable",
@@ -947,7 +947,7 @@
   },
   {
     "id": "spider-man-brand-new-day-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Spider-Man: Brand New Day", "es": "Spider-Man: Brand New Day", "it": "Spider-Man: Brand New Day"},
     "allDay": true,
     "dueDate": "2026-07-31",
@@ -961,7 +961,7 @@
   },
   {
     "id": "paw-patrol-the-dino-movie-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "PAW Patrol: The Dino Movie", "es": "PAW Patrol: The Dino Movie", "it": "PAW Patrol: The Dino Movie"},
     "allDay": true,
     "dueDate": "2026-08-14",
@@ -975,7 +975,7 @@
   },
   {
     "id": "insidious-out-of-the-further-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Insidious: Out of the Further", "es": "Insidious: Out of the Further", "it": "Insidious: Out of the Further"},
     "allDay": true,
     "dueDate": "2026-08-21",
@@ -989,7 +989,7 @@
   },
   {
     "id": "clayface-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Clayface", "es": "Clayface", "it": "Clayface"},
     "allDay": true,
     "dueDate": "2026-09-11",
@@ -1003,7 +1003,7 @@
   },
   {
     "id": "resident-evil-movie-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Resident Evil", "es": "Resident Evil", "it": "Resident Evil"},
     "allDay": true,
     "dueDate": "2026-09-18",
@@ -1017,7 +1017,7 @@
   },
   {
     "id": "forgotten-island-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Forgotten Island", "es": "Forgotten Island", "it": "Forgotten Island"},
     "allDay": true,
     "dueDate": "2026-09-25",
@@ -1031,7 +1031,7 @@
   },
   {
     "id": "digger-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Digger", "es": "Digger", "it": "Digger"},
     "allDay": true,
     "dueDate": "2026-10-02",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": "the-social-reckoning-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "The Social Reckoning", "es": "The Social Reckoning", "it": "The Social Reckoning"},
     "allDay": true,
     "dueDate": "2026-10-09",
@@ -1059,7 +1059,7 @@
   },
   {
     "id": "sense-and-sensibility-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Sense and Sensibility", "es": "Sentido y sensibilidad", "it": "Ragione e sentimento"},
     "allDay": true,
     "dueDate": "2026-10-16",
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "the-cat-in-the-hat-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "The Cat in the Hat", "es": "El gato con sombrero", "it": "Il gatto col cappello"},
     "allDay": true,
     "dueDate": "2026-11-06",
@@ -1087,7 +1087,7 @@
   },
   {
     "id": "the-hunger-games-sunrise-on-the-reaping-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "The Hunger Games: Sunrise on the Reaping", "es": "Los juegos del hambre: Amanecer en la cosecha", "it": "Hunger Games: L'alba sulla mietitura"},
     "allDay": true,
     "dueDate": "2026-11-20",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "violent-night-2-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Violent Night 2", "es": "Noche de paz 2", "it": "Una notte violenta 2"},
     "allDay": true,
     "dueDate": "2026-12-04",
@@ -1115,7 +1115,7 @@
   },
   {
     "id": "avengers-doomsday-2026",
-    "category": "Special Event",
+    "category": "Movie",
     "localizedNames": {"en": "Avengers: Doomsday", "es": "Vengadores: Doomsday", "it": "Avengers: Doomsday"},
     "allDay": true,
     "dueDate": "2026-12-18",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "beast-of-reincarnation-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Beast of Reincarnation (PlayStation 5)", "es": "Beast of Reincarnation (PlayStation 5)", "it": "Beast of Reincarnation (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-08-04",
@@ -1143,7 +1143,7 @@
   },
   {
     "id": "big-walk-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Big Walk (PlayStation 5)", "es": "Big Walk (PlayStation 5)", "it": "Big Walk (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-08-04",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": "marvel-tokon-fighting-souls-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "MARVEL Tōkon: Fighting Souls (PlayStation 5)", "es": "MARVEL Tōkon: Fighting Souls (PlayStation 5)", "it": "MARVEL Tōkon: Fighting Souls (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-08-06",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "metal-gear-solid-master-collection-vol-2-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)", "es": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)", "it": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-08-27",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "resonance-a-plague-tale-legacy-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Resonance: A Plague Tale Legacy (PlayStation 5)", "es": "Resonance: A Plague Tale Legacy (PlayStation 5)", "it": "Resonance: A Plague Tale Legacy (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-08-27",
@@ -1199,7 +1199,7 @@
   },
   {
     "id": "star-wars-zero-company-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Star Wars Zero Company (PlayStation 5)", "es": "Star Wars Zero Company (PlayStation 5)", "it": "Star Wars Zero Company (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-08-27",
@@ -1213,7 +1213,7 @@
   },
   {
     "id": "the-blood-of-dawnwalker-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "The Blood of Dawnwalker (PlayStation 5)", "es": "The Blood of Dawnwalker (PlayStation 5)", "it": "The Blood of Dawnwalker (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-09-03",
@@ -1227,7 +1227,7 @@
   },
   {
     "id": "onimusha-way-of-the-sword-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Onimusha: Way of the Sword (PlayStation 5)", "es": "Onimusha: Way of the Sword (PlayStation 5)", "it": "Onimusha: Way of the Sword (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-09-04",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "silent-hill-townfall-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Silent Hill: Townfall (PlayStation 5)", "es": "Silent Hill: Townfall (PlayStation 5)", "it": "Silent Hill: Townfall (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-09-24",
@@ -1255,7 +1255,7 @@
   },
   {
     "id": "rayman-legends-retold-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Rayman Legends Retold (PlayStation 5)", "es": "Rayman Legends Retold (PlayStation 5)", "it": "Rayman Legends Retold (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-10-01",
@@ -1269,7 +1269,7 @@
   },
   {
     "id": "ace-combat-8-wings-of-theve-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Ace Combat 8: Wings of Theve (PlayStation 5)", "es": "Ace Combat 8: Wings of Theve (PlayStation 5)", "it": "Ace Combat 8: Wings of Theve (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-10-02",
@@ -1283,7 +1283,7 @@
   },
   {
     "id": "castlevania-belmonts-curse-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Castlevania: Belmont's Curse (PlayStation 5)", "es": "Castlevania: Belmont's Curse (PlayStation 5)", "it": "Castlevania: Belmont's Curse (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-10-15",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": "call-of-duty-modern-warfare-4-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Call of Duty: Modern Warfare 4 (PlayStation 5)", "es": "Call of Duty: Modern Warfare 4 (PlayStation 5)", "it": "Call of Duty: Modern Warfare 4 (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-10-23",
@@ -1311,7 +1311,7 @@
   },
   {
     "id": "phantom-blade-zero-ps5-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Phantom Blade Zero (PlayStation 5)", "es": "Phantom Blade Zero (PlayStation 5)", "it": "Phantom Blade Zero (PlayStation 5)"},
     "allDay": true,
     "dueDate": "2026-10-29",
@@ -1325,7 +1325,7 @@
   },
   {
     "id": "splatoon-raiders-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Splatoon Raiders (Nintendo Switch 2)", "es": "Splatoon Raiders (Nintendo Switch 2)", "it": "Splatoon Raiders (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-07-23",
@@ -1339,7 +1339,7 @@
   },
   {
     "id": "xenoblade-chronicles-2-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition", "es": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition", "it": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition"},
     "allDay": true,
     "dueDate": "2026-07-30",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": "big-walk-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Big Walk (Nintendo Switch 2)", "es": "Big Walk (Nintendo Switch 2)", "it": "Big Walk (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-08-04",
@@ -1367,7 +1367,7 @@
   },
   {
     "id": "the-elder-scrolls-iv-oblivion-remastered-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "The Elder Scrolls IV: Oblivion Remastered (Nintendo Switch 2)", "es": "The Elder Scrolls IV: Oblivion Remastered (Nintendo Switch 2)", "it": "The Elder Scrolls IV: Oblivion Remastered (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-08-11",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "metal-gear-solid-master-collection-vol-2-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Metal Gear Solid: Master Collection Vol. 2 (Nintendo Switch 2)", "es": "Metal Gear Solid: Master Collection Vol. 2 (Nintendo Switch 2)", "it": "Metal Gear Solid: Master Collection Vol. 2 (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-08-27",
@@ -1395,7 +1395,7 @@
   },
   {
     "id": "elden-ring-tarnished-edition-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Elden Ring: Tarnished Edition (Nintendo Switch 2)", "es": "Elden Ring: Tarnished Edition (Nintendo Switch 2)", "it": "Elden Ring: Tarnished Edition (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-08-28",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": "valheim-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Valheim (Nintendo Switch 2)", "es": "Valheim (Nintendo Switch 2)", "it": "Valheim (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-09-09",
@@ -1423,7 +1423,7 @@
   },
   {
     "id": "fire-emblem-fortunes-weave-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Fire Emblem: Fortune's Weave (Nintendo Switch 2)", "es": "Fire Emblem: Fortune's Weave (Nintendo Switch 2)", "it": "Fire Emblem: Fortune's Weave (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-09-17",
@@ -1437,7 +1437,7 @@
   },
   {
     "id": "lego-batman-legacy-of-the-dark-knight-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)", "es": "LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)", "it": "LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-09-18",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": "final-fantasy-resonance-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Final Fantasy Resonance (Nintendo Switch 2)", "es": "Final Fantasy Resonance (Nintendo Switch 2)", "it": "Final Fantasy Resonance (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-10-22",
@@ -1465,7 +1465,7 @@
   },
   {
     "id": "nintendo-switch-sports-resort-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Nintendo Switch Sports Resort", "es": "Nintendo Switch Sports Resort", "it": "Nintendo Switch Sports Resort"},
     "allDay": true,
     "dueDate": "2026-10-22",
@@ -1479,7 +1479,7 @@
   },
   {
     "id": "call-of-duty-modern-warfare-4-switch-2-2026",
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {"en": "Call of Duty: Modern Warfare 4 (Nintendo Switch 2)", "es": "Call of Duty: Modern Warfare 4 (Nintendo Switch 2)", "it": "Call of Duty: Modern Warfare 4 (Nintendo Switch 2)"},
     "allDay": true,
     "dueDate": "2026-10-23",
@@ -1497,7 +1497,7 @@
     "localizedNames": {"en": "FIFA World Cup 2026 Final", "es": "Final de la Copa Mundial de la FIFA 2026", "it": "Finale della Coppa del Mondo FIFA 2026"},
     "allDay": true,
     "dueDate": "2026-07-19",
-    "icon": "soccerball",
+    "icon": "sportscourt.fill",
     "color": "green",
     "repeatEvent": "Never",
     "notifications": false,
@@ -1511,7 +1511,7 @@
     "localizedNames": {"en": "Super Bowl LXI", "es": "Super Bowl LXI", "it": "Super Bowl LXI"},
     "allDay": true,
     "dueDate": "2027-02-14",
-    "icon": "football.fill",
+    "icon": "sportscourt.fill",
     "color": "green",
     "repeatEvent": "Never",
     "notifications": false,
@@ -1525,7 +1525,7 @@
     "localizedNames": {"en": "FIFA Women's World Cup 2027 Begins", "es": "Comienza la Copa Mundial Femenina de la FIFA 2027", "it": "Inizia la Coppa del Mondo femminile FIFA 2027"},
     "allDay": true,
     "dueDate": "2027-06-24",
-    "icon": "soccerball",
+    "icon": "sportscourt.fill",
     "color": "green",
     "repeatEvent": "Never",
     "notifications": false,

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import math
 import re
 import sys
 from datetime import date
@@ -15,19 +16,42 @@ REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 EVENTS_PATH = REPOSITORY_ROOT / "PublicEvents.json"
 SCHEMA_PATH = REPOSITORY_ROOT / "PublicEvents.schema.json"
 REQUIRED_LOCALES = {"en", "es", "it"}
+MAXIMUM_CATALOG_BYTE_COUNT = 1_048_576
 IDENTIFIER_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*-([0-9]{4})$")
-ICON_PATTERN = re.compile(r"^[a-z0-9.]+$")
+
+
+def reject_duplicate_keys(pairs: list[tuple[str, Any]]) -> dict[str, Any]:
+    """Build a JSON object while rejecting duplicate field names."""
+    result: dict[str, Any] = {}
+    for key, value in pairs:
+        if key in result:
+            raise ValueError(f"duplicate JSON key {key!r}")
+        result[key] = value
+    return result
+
+
+def reject_nonstandard_number(value: str) -> None:
+    """Reject non-standard JSON constants such as NaN and Infinity."""
+    raise ValueError(f"non-standard JSON number {value!r}")
 
 
 def load_json(path: Path) -> Any:
-    """Load one UTF-8 JSON file and return its decoded value."""
+    """Load strict UTF-8 JSON without duplicate keys or non-standard numbers."""
     with path.open("r", encoding="utf-8") as input_file:
-        return json.load(input_file)
+        return json.load(
+            input_file,
+            object_pairs_hook=reject_duplicate_keys,
+            parse_constant=reject_nonstandard_number,
+        )
 
 
 def is_number_or_none(value: Any) -> bool:
-    """Return whether a reminder value is null or a non-Boolean number."""
-    return value is None or (isinstance(value, (int, float)) and not isinstance(value, bool))
+    """Return whether a reminder value is null or a finite, non-Boolean number."""
+    return value is None or (
+        isinstance(value, (int, float))
+        and not isinstance(value, bool)
+        and math.isfinite(value)
+    )
 
 
 def validate_localized_text(value: Any, field_path: str, errors: list[str]) -> None:
@@ -100,7 +124,7 @@ def validate_event(
             )
 
     properties = event_schema["properties"]
-    for field_name in ("category", "color", "repeatEvent"):
+    for field_name in ("category", "icon", "color", "repeatEvent"):
         allowed_values = properties[field_name]["enum"]
         if event[field_name] not in allowed_values:
             errors.append(
@@ -116,13 +140,9 @@ def validate_event(
     if not isinstance(event["notifications"], bool):
         errors.append(f"{event_path}.notifications must be a Boolean")
 
-    icon = event["icon"]
-    if not isinstance(icon, str) or ICON_PATTERN.fullmatch(icon) is None:
-        errors.append(f"{event_path}.icon must be a lowercase SF Symbol raw value")
-
     for reminder_field in ("primaryReminderSeconds", "secondaryReminderSeconds"):
         if not is_number_or_none(event[reminder_field]):
-            errors.append(f"{event_path}.{reminder_field} must be numeric or null")
+            errors.append(f"{event_path}.{reminder_field} must be finite numeric or null")
 
 
 def main() -> int:
@@ -133,9 +153,18 @@ def main() -> int:
 
     events_path = Path(sys.argv[1]) if len(sys.argv) == 2 else EVENTS_PATH
     try:
+        catalog_byte_count = events_path.stat().st_size
+        if catalog_byte_count > MAXIMUM_CATALOG_BYTE_COUNT:
+            print(
+                f"PublicEvents.json is {catalog_byte_count} bytes; "
+                f"the app limit is {MAXIMUM_CATALOG_BYTE_COUNT} bytes",
+                file=sys.stderr,
+            )
+            return 1
+
         events = load_json(events_path)
         schema = load_json(SCHEMA_PATH)
-    except (OSError, json.JSONDecodeError) as error:
+    except (OSError, ValueError) as error:
         print(f"Unable to load repository data: {error}", file=sys.stderr)
         return 1
 

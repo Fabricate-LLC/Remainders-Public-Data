@@ -17,7 +17,7 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Ensure the year suffix in `id` matches the year in `dueDate`.
 - Provide nonempty `en`, `es`, and `it` values in both `localizedNames` and `localizedNotes`.
 - Use only category, color, and recurrence values accepted by `PublicEvents.schema.json`.
-- Use an SF Symbol raw value supported by the Remainders `AppSymbols` enum. Unsupported symbols fall back to the calendar icon in the app.
+- Use only an SF Symbol raw value listed in **Valid event symbols** below. A symbol may exist in SF Symbols but still be unsupported by Remainders. One unsupported value invalidates its record and causes the app to reject the entire downloaded catalog.
 - Reminder values are seconds before the event and must be numeric or `null`.
 - Do not add JSON comments, duplicate fields, or undocumented properties.
 
@@ -28,8 +28,108 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Avoid political advocacy, promotional copy, sensitive personal data, and speculative observances.
 - Avoid somewhat generic "days"" like "International Literacy Day" or "World Tourism Day".
 - Keep descriptions concise and factual.
-- Categorize events into the correct category (e.g. Video Game releases in "Games" or Movies in "Movies")
+- Categorize events using the app's exact singular raw values (for example, video game releases use `Game` and movie releases use `Movie`).
 - This repository is published publicly. Never add credentials, tokens, private URLs, or user information.
 - Clean up the file and remove sale singular events that are in the past.
+
+## Valid event symbols
+
+The `icon` field must exactly match one of these raw values from the Remainders `AppSymbols` enum:
+
+```text
+clock.fill
+clock.badge.questionmark.fill
+clock.badge.questionmark
+alarm.fill
+calendar
+party.popper.fill
+balloon.2.fill
+wineglass.fill
+birthday.cake.fill
+figure.walk
+airplane
+graduationcap.fill
+car.fill
+bus
+tram.fill
+cablecar.fill
+ferry.fill
+sailboat.fill
+bicycle
+box.truck.fill
+bed.double.fill
+beach.umbrella.fill
+pills.fill
+testtube.2
+hare.fill
+tortoise.fill
+ladybug.fill
+fish.fill
+lizard.fill
+bird.fill
+leaf.fill
+mountain.2.fill
+tree.fill
+camera
+gamecontroller.fill
+popcorn.fill
+film.fill
+paintpalette.fill
+fork.knife
+waveform.path.ecg.rectangle.fill
+trash.fill
+folder.fill
+bookmark.fill
+ticket.fill
+person.circle.fill
+power.circle.fill
+globe.americas.fill
+globe.europe.africa.fill
+globe.central.south.asia.fill
+globe.asia.australia.fill
+sun.and.horizon.fill
+sun.max.fill
+moon.stars.fill
+cloud.rain.fill
+snowflake
+play.circle.fill
+mic.fill
+heart.fill
+star.fill
+flag.fill
+location.fill
+bell.fill
+bolt.fill
+eye.fill
+tshirt.fill
+phone.fill
+video.fill
+gear
+bag.fill
+gift.fill
+cart.fill
+creditcard.fill
+hammer.fill
+briefcase.fill
+list.bullet.rectangle.fill
+rectangle.inset.filled.and.person.filled
+person.3.fill
+house.fill
+tent.fill
+sportscourt.fill
+mappin.and.ellipse
+desktopcomputer
+laptopcomputer
+iphone
+ipad.landscape
+vision.pro
+applewatch
+camera.macro
+ipod
+fireworks
+laser.burst
+```
+
+Use `film.fill` or `popcorn.fill` for movies, `gamecontroller.fill` for video games, and `sportscourt.fill` for sporting events. Do not substitute sport-specific symbols such as `soccerball` or `football.fill` unless those raw values are first added to the app's `AppSymbols` enum and released to users. When `AppSymbols` changes, update this allowlist, the JSON Schema, the validator, and fallback data together.
 
 When the format itself must change, update the app decoder, JSON Schema, validator, documentation, and fallback data together before publishing the new format.
