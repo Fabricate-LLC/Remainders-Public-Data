@@ -1108,7 +1108,7 @@
   {
     "id": "beast-of-reincarnation-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Beast of Reincarnation (PlayStation 5)", "es": "Beast of Reincarnation (PlayStation 5)", "it": "Beast of Reincarnation (PlayStation 5)"},
+    "localizedNames": {"en": "Beast of Reincarnation", "es": "Beast of Reincarnation", "it": "Beast of Reincarnation"},
     "allDay": true,
     "dueDate": "2026-08-04",
     "icon": "gamecontroller.fill",
@@ -1122,7 +1122,7 @@
   {
     "id": "big-walk-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Big Walk (PlayStation 5)", "es": "Big Walk (PlayStation 5)", "it": "Big Walk (PlayStation 5)"},
+    "localizedNames": {"en": "Big Walk", "es": "Big Walk", "it": "Big Walk"},
     "allDay": true,
     "dueDate": "2026-08-04",
     "icon": "gamecontroller.fill",
@@ -1131,12 +1131,12 @@
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled PlayStation 5 release of Big Walk.", "es": "El lanzamiento previsto de Big Walk para PlayStation 5.", "it": "L'uscita prevista di Big Walk per PlayStation 5."}
+    "localizedNotes": {"en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Big Walk.", "es": "El lanzamiento previsto de Big Walk para PlayStation 5 y Nintendo Switch 2.", "it": "L'uscita prevista di Big Walk per PlayStation 5 e Nintendo Switch 2."}
   },
   {
     "id": "marvel-tokon-fighting-souls-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "MARVEL Tōkon: Fighting Souls (PlayStation 5)", "es": "MARVEL Tōkon: Fighting Souls (PlayStation 5)", "it": "MARVEL Tōkon: Fighting Souls (PlayStation 5)"},
+    "localizedNames": {"en": "MARVEL Tōkon: Fighting Souls", "es": "MARVEL Tōkon: Fighting Souls", "it": "MARVEL Tōkon: Fighting Souls"},
     "allDay": true,
     "dueDate": "2026-08-06",
     "icon": "gamecontroller.fill",
@@ -1150,7 +1150,7 @@
   {
     "id": "metal-gear-solid-master-collection-vol-2-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)", "es": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)", "it": "Metal Gear Solid: Master Collection Vol. 2 (PlayStation 5)"},
+    "localizedNames": {"en": "Metal Gear Solid: Master Collection Vol. 2", "es": "Metal Gear Solid: Master Collection Vol. 2", "it": "Metal Gear Solid: Master Collection Vol. 2"},
     "allDay": true,
     "dueDate": "2026-08-27",
     "icon": "gamecontroller.fill",
@@ -1159,12 +1159,12 @@
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled PlayStation 5 release of Metal Gear Solid: Master Collection Vol. 2.", "es": "El lanzamiento previsto de Metal Gear Solid: Master Collection Vol. 2 para PlayStation 5.", "it": "L'uscita prevista di Metal Gear Solid: Master Collection Vol. 2 per PlayStation 5."}
+    "localizedNotes": {"en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Metal Gear Solid: Master Collection Vol. 2.", "es": "El lanzamiento previsto de Metal Gear Solid: Master Collection Vol. 2 para PlayStation 5 y Nintendo Switch 2.", "it": "L'uscita prevista di Metal Gear Solid: Master Collection Vol. 2 per PlayStation 5 e Nintendo Switch 2."}
   },
   {
     "id": "resonance-a-plague-tale-legacy-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Resonance: A Plague Tale Legacy (PlayStation 5)", "es": "Resonance: A Plague Tale Legacy (PlayStation 5)", "it": "Resonance: A Plague Tale Legacy (PlayStation 5)"},
+    "localizedNames": {"en": "Resonance: A Plague Tale Legacy", "es": "Resonance: A Plague Tale Legacy", "it": "Resonance: A Plague Tale Legacy"},
     "allDay": true,
     "dueDate": "2026-08-27",
     "icon": "gamecontroller.fill",
@@ -1178,7 +1178,7 @@
   {
     "id": "star-wars-zero-company-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Star Wars Zero Company (PlayStation 5)", "es": "Star Wars Zero Company (PlayStation 5)", "it": "Star Wars Zero Company (PlayStation 5)"},
+    "localizedNames": {"en": "Star Wars Zero Company", "es": "Star Wars Zero Company", "it": "Star Wars Zero Company"},
     "allDay": true,
     "dueDate": "2026-08-27",
     "icon": "gamecontroller.fill",
@@ -1192,7 +1192,7 @@
   {
     "id": "the-blood-of-dawnwalker-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "The Blood of Dawnwalker (PlayStation 5)", "es": "The Blood of Dawnwalker (PlayStation 5)", "it": "The Blood of Dawnwalker (PlayStation 5)"},
+    "localizedNames": {"en": "The Blood of Dawnwalker", "es": "The Blood of Dawnwalker", "it": "The Blood of Dawnwalker"},
     "allDay": true,
     "dueDate": "2026-09-03",
     "icon": "gamecontroller.fill",
@@ -1206,7 +1206,7 @@
   {
     "id": "onimusha-way-of-the-sword-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Onimusha: Way of the Sword (PlayStation 5)", "es": "Onimusha: Way of the Sword (PlayStation 5)", "it": "Onimusha: Way of the Sword (PlayStation 5)"},
+    "localizedNames": {"en": "Onimusha: Way of the Sword", "es": "Onimusha: Way of the Sword", "it": "Onimusha: Way of the Sword"},
     "allDay": true,
     "dueDate": "2026-09-04",
     "icon": "gamecontroller.fill",
@@ -1220,7 +1220,7 @@
   {
     "id": "silent-hill-townfall-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Silent Hill: Townfall (PlayStation 5)", "es": "Silent Hill: Townfall (PlayStation 5)", "it": "Silent Hill: Townfall (PlayStation 5)"},
+    "localizedNames": {"en": "Silent Hill: Townfall", "es": "Silent Hill: Townfall", "it": "Silent Hill: Townfall"},
     "allDay": true,
     "dueDate": "2026-09-24",
     "icon": "gamecontroller.fill",
@@ -1234,7 +1234,7 @@
   {
     "id": "rayman-legends-retold-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Rayman Legends Retold (PlayStation 5)", "es": "Rayman Legends Retold (PlayStation 5)", "it": "Rayman Legends Retold (PlayStation 5)"},
+    "localizedNames": {"en": "Rayman Legends Retold", "es": "Rayman Legends Retold", "it": "Rayman Legends Retold"},
     "allDay": true,
     "dueDate": "2026-10-01",
     "icon": "gamecontroller.fill",
@@ -1243,12 +1243,12 @@
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled PlayStation 5 release of Rayman Legends Retold.", "es": "El lanzamiento previsto de Rayman Legends Retold para PlayStation 5.", "it": "L'uscita prevista di Rayman Legends Retold per PlayStation 5."}
+    "localizedNotes": {"en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Rayman Legends Retold.", "es": "El lanzamiento previsto de Rayman Legends Retold para PlayStation 5 y Nintendo Switch 2.", "it": "L'uscita prevista di Rayman Legends Retold per PlayStation 5 e Nintendo Switch 2."}
   },
   {
     "id": "ace-combat-8-wings-of-theve-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Ace Combat 8: Wings of Theve (PlayStation 5)", "es": "Ace Combat 8: Wings of Theve (PlayStation 5)", "it": "Ace Combat 8: Wings of Theve (PlayStation 5)"},
+    "localizedNames": {"en": "Ace Combat 8: Wings of Theve", "es": "Ace Combat 8: Wings of Theve", "it": "Ace Combat 8: Wings of Theve"},
     "allDay": true,
     "dueDate": "2026-10-02",
     "icon": "gamecontroller.fill",
@@ -1262,7 +1262,7 @@
   {
     "id": "castlevania-belmonts-curse-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Castlevania: Belmont's Curse (PlayStation 5)", "es": "Castlevania: Belmont's Curse (PlayStation 5)", "it": "Castlevania: Belmont's Curse (PlayStation 5)"},
+    "localizedNames": {"en": "Castlevania: Belmont's Curse", "es": "Castlevania: Belmont's Curse", "it": "Castlevania: Belmont's Curse"},
     "allDay": true,
     "dueDate": "2026-10-15",
     "icon": "gamecontroller.fill",
@@ -1276,7 +1276,7 @@
   {
     "id": "call-of-duty-modern-warfare-4-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Call of Duty: Modern Warfare 4 (PlayStation 5)", "es": "Call of Duty: Modern Warfare 4 (PlayStation 5)", "it": "Call of Duty: Modern Warfare 4 (PlayStation 5)"},
+    "localizedNames": {"en": "Call of Duty: Modern Warfare 4", "es": "Call of Duty: Modern Warfare 4", "it": "Call of Duty: Modern Warfare 4"},
     "allDay": true,
     "dueDate": "2026-10-23",
     "icon": "gamecontroller.fill",
@@ -1285,12 +1285,12 @@
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled PlayStation 5 release of Call of Duty: Modern Warfare 4.", "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para PlayStation 5.", "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per PlayStation 5."}
+    "localizedNotes": {"en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Call of Duty: Modern Warfare 4.", "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para PlayStation 5 y Nintendo Switch 2.", "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per PlayStation 5 e Nintendo Switch 2."}
   },
   {
     "id": "phantom-blade-zero-ps5-2026",
     "category": "Game",
-    "localizedNames": {"en": "Phantom Blade Zero (PlayStation 5)", "es": "Phantom Blade Zero (PlayStation 5)", "it": "Phantom Blade Zero (PlayStation 5)"},
+    "localizedNames": {"en": "Phantom Blade Zero", "es": "Phantom Blade Zero", "it": "Phantom Blade Zero"},
     "allDay": true,
     "dueDate": "2026-10-29",
     "icon": "gamecontroller.fill",
@@ -1304,7 +1304,7 @@
   {
     "id": "splatoon-raiders-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Splatoon Raiders (Nintendo Switch 2)", "es": "Splatoon Raiders (Nintendo Switch 2)", "it": "Splatoon Raiders (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Splatoon Raiders", "es": "Splatoon Raiders", "it": "Splatoon Raiders"},
     "allDay": true,
     "dueDate": "2026-07-23",
     "icon": "gamecontroller.fill",
@@ -1318,7 +1318,7 @@
   {
     "id": "final-fantasy-x-x-2-hd-remaster-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Final Fantasy X/X-2 HD Remaster (Nintendo Switch 2)", "es": "Final Fantasy X/X-2 HD Remaster (Nintendo Switch 2)", "it": "Final Fantasy X/X-2 HD Remaster (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Final Fantasy X/X-2 HD Remaster", "es": "Final Fantasy X/X-2 HD Remaster", "it": "Final Fantasy X/X-2 HD Remaster"},
     "allDay": true,
     "dueDate": "2026-07-23",
     "icon": "gamecontroller.fill",
@@ -1332,7 +1332,7 @@
   {
     "id": "xenoblade-chronicles-2-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition", "es": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition", "it": "Xenoblade Chronicles 2 – Nintendo Switch 2 Edition"},
+    "localizedNames": {"en": "Xenoblade Chronicles 2", "es": "Xenoblade Chronicles 2", "it": "Xenoblade Chronicles 2"},
     "allDay": true,
     "dueDate": "2026-07-30",
     "icon": "gamecontroller.fill",
@@ -1344,23 +1344,9 @@
     "localizedNotes": {"en": "The scheduled release of Xenoblade Chronicles 2 – Nintendo Switch 2 Edition.", "es": "El lanzamiento previsto de Xenoblade Chronicles 2 – Nintendo Switch 2 Edition.", "it": "L'uscita prevista di Xenoblade Chronicles 2 – Nintendo Switch 2 Edition."}
   },
   {
-    "id": "big-walk-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {"en": "Big Walk (Nintendo Switch 2)", "es": "Big Walk (Nintendo Switch 2)", "it": "Big Walk (Nintendo Switch 2)"},
-    "allDay": true,
-    "dueDate": "2026-08-04",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Big Walk.", "es": "El lanzamiento previsto de Big Walk para Nintendo Switch 2.", "it": "L'uscita prevista di Big Walk per Nintendo Switch 2."}
-  },
-  {
     "id": "the-elder-scrolls-iv-oblivion-remastered-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "The Elder Scrolls IV: Oblivion Remastered (Nintendo Switch 2)", "es": "The Elder Scrolls IV: Oblivion Remastered (Nintendo Switch 2)", "it": "The Elder Scrolls IV: Oblivion Remastered (Nintendo Switch 2)"},
+    "localizedNames": {"en": "The Elder Scrolls IV: Oblivion Remastered", "es": "The Elder Scrolls IV: Oblivion Remastered", "it": "The Elder Scrolls IV: Oblivion Remastered"},
     "allDay": true,
     "dueDate": "2026-08-11",
     "icon": "gamecontroller.fill",
@@ -1372,23 +1358,9 @@
     "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of The Elder Scrolls IV: Oblivion Remastered.", "es": "El lanzamiento previsto de The Elder Scrolls IV: Oblivion Remastered para Nintendo Switch 2.", "it": "L'uscita prevista di The Elder Scrolls IV: Oblivion Remastered per Nintendo Switch 2."}
   },
   {
-    "id": "metal-gear-solid-master-collection-vol-2-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {"en": "Metal Gear Solid: Master Collection Vol. 2 (Nintendo Switch 2)", "es": "Metal Gear Solid: Master Collection Vol. 2 (Nintendo Switch 2)", "it": "Metal Gear Solid: Master Collection Vol. 2 (Nintendo Switch 2)"},
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Metal Gear Solid: Master Collection Vol. 2.", "es": "El lanzamiento previsto de Metal Gear Solid: Master Collection Vol. 2 para Nintendo Switch 2.", "it": "L'uscita prevista di Metal Gear Solid: Master Collection Vol. 2 per Nintendo Switch 2."}
-  },
-  {
     "id": "elden-ring-tarnished-edition-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Elden Ring: Tarnished Edition (Nintendo Switch 2)", "es": "Elden Ring: Tarnished Edition (Nintendo Switch 2)", "it": "Elden Ring: Tarnished Edition (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Elden Ring: Tarnished Edition", "es": "Elden Ring: Tarnished Edition", "it": "Elden Ring: Tarnished Edition"},
     "allDay": true,
     "dueDate": "2026-08-28",
     "icon": "gamecontroller.fill",
@@ -1402,7 +1374,7 @@
   {
     "id": "valheim-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Valheim (Nintendo Switch 2)", "es": "Valheim (Nintendo Switch 2)", "it": "Valheim (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Valheim", "es": "Valheim", "it": "Valheim"},
     "allDay": true,
     "dueDate": "2026-09-09",
     "icon": "gamecontroller.fill",
@@ -1416,7 +1388,7 @@
   {
     "id": "fire-emblem-fortunes-weave-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Fire Emblem: Fortune's Weave (Nintendo Switch 2)", "es": "Fire Emblem: Fortune's Weave (Nintendo Switch 2)", "it": "Fire Emblem: Fortune's Weave (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Fire Emblem: Fortune's Weave", "es": "Fire Emblem: Fortune's Weave", "it": "Fire Emblem: Fortune's Weave"},
     "allDay": true,
     "dueDate": "2026-09-17",
     "icon": "gamecontroller.fill",
@@ -1430,7 +1402,7 @@
   {
     "id": "lego-batman-legacy-of-the-dark-knight-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)", "es": "LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)", "it": "LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)"},
+    "localizedNames": {"en": "LEGO Batman: Legacy of the Dark Knight", "es": "LEGO Batman: Legacy of the Dark Knight", "it": "LEGO Batman: Legacy of the Dark Knight"},
     "allDay": true,
     "dueDate": "2026-09-18",
     "icon": "gamecontroller.fill",
@@ -1444,7 +1416,7 @@
   {
     "id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition (Nintendo Switch 2)", "es": "Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva (Nintendo Switch 2)", "it": "Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition", "es": "Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva", "it": "Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva"},
     "allDay": true,
     "dueDate": "2026-09-24",
     "icon": "gamecontroller.fill",
@@ -1456,23 +1428,9 @@
     "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition.", "es": "El lanzamiento previsto de Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva para Nintendo Switch 2.", "it": "L'uscita prevista di Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva per Nintendo Switch 2."}
   },
   {
-    "id": "rayman-legends-retold-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {"en": "Rayman Legends Retold (Nintendo Switch 2)", "es": "Rayman Legends Retold (Nintendo Switch 2)", "it": "Rayman Legends Retold (Nintendo Switch 2)"},
-    "allDay": true,
-    "dueDate": "2026-10-01",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Rayman Legends Retold.", "es": "El lanzamiento previsto de Rayman Legends Retold para Nintendo Switch 2.", "it": "L'uscita prevista di Rayman Legends Retold per Nintendo Switch 2."}
-  },
-  {
     "id": "ratatan-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Ratatan (Nintendo Switch 2)", "es": "Ratatan (Nintendo Switch 2)", "it": "Ratatan (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Ratatan", "es": "Ratatan", "it": "Ratatan"},
     "allDay": true,
     "dueDate": "2026-10-15",
     "icon": "gamecontroller.fill",
@@ -1486,7 +1444,7 @@
   {
     "id": "toy-story-retro-roundup-toy-story-3-complete-edition-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Toy Story: Retro Roundup! & Toy Story 3: Complete Edition (Nintendo Switch 2)", "es": "Toy Story: Retro Roundup! y Toy Story 3: Complete Edition (Nintendo Switch 2)", "it": "Toy Story: Retro Roundup! e Toy Story 3: Complete Edition (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Toy Story: Retro Roundup! & Toy Story 3: Complete Edition", "es": "Toy Story: Retro Roundup! y Toy Story 3: Complete Edition", "it": "Toy Story: Retro Roundup! e Toy Story 3: Complete Edition"},
     "allDay": true,
     "dueDate": "2026-10-15",
     "icon": "gamecontroller.fill",
@@ -1500,7 +1458,7 @@
   {
     "id": "final-fantasy-resonance-switch-2-2026",
     "category": "Game",
-    "localizedNames": {"en": "Final Fantasy Resonance (Nintendo Switch 2)", "es": "Final Fantasy Resonance (Nintendo Switch 2)", "it": "Final Fantasy Resonance (Nintendo Switch 2)"},
+    "localizedNames": {"en": "Final Fantasy Resonance", "es": "Final Fantasy Resonance", "it": "Final Fantasy Resonance"},
     "allDay": true,
     "dueDate": "2026-10-22",
     "icon": "gamecontroller.fill",
@@ -1524,20 +1482,6 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Nintendo Switch Sports Resort.", "es": "El lanzamiento previsto de Nintendo Switch Sports Resort para Nintendo Switch 2.", "it": "L'uscita prevista di Nintendo Switch Sports Resort per Nintendo Switch 2."}
-  },
-  {
-    "id": "call-of-duty-modern-warfare-4-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {"en": "Call of Duty: Modern Warfare 4 (Nintendo Switch 2)", "es": "Call of Duty: Modern Warfare 4 (Nintendo Switch 2)", "it": "Call of Duty: Modern Warfare 4 (Nintendo Switch 2)"},
-    "allDay": true,
-    "dueDate": "2026-10-23",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {"en": "The scheduled Nintendo Switch 2 release of Call of Duty: Modern Warfare 4.", "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para Nintendo Switch 2.", "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per Nintendo Switch 2."}
   },
   {
     "id": "fifa-world-cup-final-2026",
