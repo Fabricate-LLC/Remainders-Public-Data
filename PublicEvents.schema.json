@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://fabricate-llc.github.io/Remainders-Public-Data/PublicEvents.schema.json",
+  "title": "Remainders Public Events",
+  "description": "Public event suggestions consumed by the Remainders app.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "$ref": "#/$defs/event"
+  },
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en", "es", "it"],
+      "properties": {
+        "en": { "type": "string", "minLength": 1 },
+        "es": { "type": "string", "minLength": 1 },
+        "it": { "type": "string", "minLength": 1 }
+      }
+    },
+    "event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "category",
+        "localizedNames",
+        "allDay",
+        "dueDate",
+        "icon",
+        "color",
+        "repeatEvent",
+        "notifications",
+        "primaryReminderSeconds",
+        "secondaryReminderSeconds",
+        "localizedNotes"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*-[0-9]{4}$"
+        },
+        "category": {
+          "type": "string",
+          "enum": ["Holiday", "Special Event", "Vacation"]
+        },
+        "localizedNames": {
+          "$ref": "#/$defs/localizedText"
+        },
+        "allDay": {
+          "type": "boolean"
+        },
+        "dueDate": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "icon": {
+          "type": "string",
+          "pattern": "^[a-z0-9.]+$"
+        },
+        "color": {
+          "type": "string",
+          "enum": [
+            "orange",
+            "yellow",
+            "green",
+            "mint",
+            "teal",
+            "cyan",
+            "blue",
+            "indigo",
+            "purple",
+            "pink",
+            "red",
+            "brown",
+            "gray"
+          ]
+        },
+        "repeatEvent": {
+          "type": "string",
+          "enum": [
+            "Never",
+            "Every Day",
+            "Every Week",
+            "Every 2 Weeks",
+            "Every Month",
+            "Every Year"
+          ]
+        },
+        "notifications": {
+          "type": "boolean"
+        },
+        "primaryReminderSeconds": {
+          "type": ["number", "null"]
+        },
+        "secondaryReminderSeconds": {
+          "type": ["number", "null"]
+        },
+        "localizedNotes": {
+          "$ref": "#/$defs/localizedText"
+        }
+      }
+    }
+  }
+}
