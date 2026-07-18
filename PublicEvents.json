@@ -1178,7 +1178,7 @@
   {
     "id": "fifa-world-cup-final-2026",
     "category": "Special Event",
-    "localizedNames": {"en": "FIFA World Cup 2026 Final", "es": "Final de la Copa Mundial de la FIFA 2026", "it": "Finale della Coppa del Mondo FIFA 2026"},
+    "localizedNames": {"en": "FIFA World Cup Final", "es": "Final de la Copa Mundial de la FIFA", "it": "Finale della Coppa del Mondo FIFA"},
     "allDay": true,
     "dueDate": "2026-07-19",
     "icon": "sportscourt.fill",
@@ -1206,7 +1206,7 @@
   {
     "id": "masters-tournament-2027",
     "category": "Special Event",
-    "localizedNames": {"en": "Masters Tournament 2027", "es": "Masters de Augusta 2027", "it": "Masters di Augusta 2027"},
+    "localizedNames": {"en": "Masters", "es": "Masters de Augusta", "it": "Masters di Augusta"},
     "allDay": true,
     "dueDate": "2027-04-08",
     "icon": "sportscourt.fill",
@@ -1220,7 +1220,7 @@
   {
     "id": "kentucky-derby-2027",
     "category": "Special Event",
-    "localizedNames": {"en": "Kentucky Derby 2027", "es": "Derbi de Kentucky 2027", "it": "Kentucky Derby 2027"},
+    "localizedNames": {"en": "Kentucky Derby", "es": "Derbi de Kentucky", "it": "Kentucky Derby"},
     "allDay": true,
     "dueDate": "2027-05-01",
     "icon": "sportscourt.fill",
@@ -1234,7 +1234,7 @@
   {
     "id": "fifa-womens-world-cup-opening-2027",
     "category": "Special Event",
-    "localizedNames": {"en": "FIFA Women's World Cup 2027 Begins", "es": "Comienza la Copa Mundial Femenina de la FIFA 2027", "it": "Inizia la Coppa del Mondo femminile FIFA 2027"},
+    "localizedNames": {"en": "FIFA Women's World Cup Begins", "es": "Comienza la Copa Mundial Femenina de la FIFA", "it": "Inizia la Coppa del Mondo femminile FIFA"},
     "allDay": true,
     "dueDate": "2027-06-24",
     "icon": "sportscourt.fill",
@@ -1248,7 +1248,7 @@
   {
     "id": "wimbledon-championships-2027",
     "category": "Special Event",
-    "localizedNames": {"en": "The Championships, Wimbledon 2027", "es": "Campeonato de Wimbledon 2027", "it": "Campionati di Wimbledon 2027"},
+    "localizedNames": {"en": "The Championships, Wimbledon", "es": "Campeonato de Wimbledon", "it": "Campionati di Wimbledon"},
     "allDay": true,
     "dueDate": "2027-06-28",
     "icon": "sportscourt.fill",
