@@ -26,7 +26,10 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Verify dates and official names against reliable primary sources whenever practical.
 - Translate meaning naturally; do not merely preserve English phrasing in Spanish or Italian.
 - Avoid political advocacy, promotional copy, sensitive personal data, and speculative observances.
-- Avoid somewhat generic "days"" like "International Literacy Day" or "World Tourism Day".
+- Use `Other` for generic awareness and observance events, including names such as "International Day of X", "World X Day", and similar non-holiday observances. Reserve `Special Event` for distinct scheduled happenings such as tournaments, championships, launches, or ceremonies.
+- For a fixed-date annual historical holiday or observance with an authoritative founding or declaration year, set `dueDate` to the observed month and day in that historical year (for example, `1776-07-04` for American Independence Day), set `repeatEvent` to `Every Year`, and suffix the `id` with that historical year.
+- Keep only one record for a fixed-date annual event. If no authoritative founding or declaration year exists, use one verified occurrence date rather than inventing a historical year.
+- Keep moving holidays whose dates cannot be represented by the supported recurrence values as occurrence-specific records with `repeatEvent` set to `Never`.
 - Keep descriptions concise and factual.
 - Categorize events using the app's exact singular raw values (for example, video game releases use `Game` and movie releases use `Movie`).
 - For video game events, use only the game's official base title in every `localizedNames` value. Do not append gaming platforms or platform-specific qualifiers such as `(Nintendo Switch 2)`, `(PlayStation 5)`, `(Xbox Series X|S)`, or `(PC)`. Put platform availability in `localizedNotes` only when it is relevant and verified.
