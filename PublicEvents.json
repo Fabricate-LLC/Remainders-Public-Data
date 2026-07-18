@@ -1,14 +1,14 @@
 [
   {
-    "id": "world-emoji-day-2026",
-    "category": "Special Event",
+    "id": "world-emoji-day-2014",
+    "category": "Other",
     "localizedNames": {
       "en": "World Emoji Day",
       "es": "Día Mundial del Emoji",
       "it": "Giornata mondiale delle emoji"
     },
     "allDay": true,
-    "dueDate": "2026-07-17",
+    "dueDate": "2014-07-17",
     "icon": "party.popper.fill",
     "color": "yellow",
     "repeatEvent": "Every Year",
@@ -44,15 +44,15 @@
     }
   },
   {
-    "id": "international-friendship-day-2026",
-    "category": "Special Event",
+    "id": "international-friendship-day-2011",
+    "category": "Other",
     "localizedNames": {
       "en": "International Day of Friendship",
       "es": "Día Internacional de la Amistad",
       "it": "Giornata internazionale dell'amicizia"
     },
     "allDay": true,
-    "dueDate": "2026-07-30",
+    "dueDate": "2011-07-30",
     "icon": "heart.fill",
     "color": "pink",
     "repeatEvent": "Every Year",
@@ -66,15 +66,15 @@
     }
   },
   {
-    "id": "world-indigenous-peoples-day-2026",
-    "category": "Special Event",
+    "id": "world-indigenous-peoples-day-1994",
+    "category": "Other",
     "localizedNames": {
       "en": "International Day of the World's Indigenous Peoples",
       "es": "Día Internacional de los Pueblos Indígenas",
       "it": "Giornata internazionale dei popoli indigeni"
     },
     "allDay": true,
-    "dueDate": "2026-08-09",
+    "dueDate": "1994-08-09",
     "icon": "globe.americas.fill",
     "color": "brown",
     "repeatEvent": "Every Year",
@@ -88,15 +88,15 @@
     }
   },
   {
-    "id": "world-humanitarian-day-2026",
-    "category": "Special Event",
+    "id": "world-humanitarian-day-2008",
+    "category": "Other",
     "localizedNames": {
       "en": "World Humanitarian Day",
       "es": "Día Mundial de la Asistencia Humanitaria",
       "it": "Giornata mondiale dell'aiuto umanitario"
     },
     "allDay": true,
-    "dueDate": "2026-08-19",
+    "dueDate": "2008-08-19",
     "icon": "heart.fill",
     "color": "red",
     "repeatEvent": "Every Year",
@@ -132,15 +132,15 @@
     }
   },
   {
-    "id": "international-literacy-day-2026",
-    "category": "Special Event",
+    "id": "international-literacy-day-1966",
+    "category": "Other",
     "localizedNames": {
       "en": "International Literacy Day",
       "es": "Día Internacional de la Alfabetización",
       "it": "Giornata internazionale dell'alfabetizzazione"
     },
     "allDay": true,
-    "dueDate": "2026-09-08",
+    "dueDate": "1966-09-08",
     "icon": "bookmark.fill",
     "color": "blue",
     "repeatEvent": "Every Year",
@@ -176,15 +176,15 @@
     }
   },
   {
-    "id": "international-day-of-peace-2026",
-    "category": "Special Event",
+    "id": "international-day-of-peace-2001",
+    "category": "Other",
     "localizedNames": {
       "en": "International Day of Peace",
       "es": "Día Internacional de la Paz",
       "it": "Giornata internazionale della pace"
     },
     "allDay": true,
-    "dueDate": "2026-09-21",
+    "dueDate": "2001-09-21",
     "icon": "globe.europe.africa.fill",
     "color": "mint",
     "repeatEvent": "Every Year",
@@ -220,15 +220,15 @@
     }
   },
   {
-    "id": "world-tourism-day-2026",
-    "category": "Vacation",
+    "id": "world-tourism-day-1979",
+    "category": "Other",
     "localizedNames": {
       "en": "World Tourism Day",
       "es": "Día Mundial del Turismo",
       "it": "Giornata mondiale del turismo"
     },
     "allDay": true,
-    "dueDate": "2026-09-27",
+    "dueDate": "1979-09-27",
     "icon": "airplane",
     "color": "cyan",
     "repeatEvent": "Every Year",
@@ -264,15 +264,15 @@
     }
   },
   {
-    "id": "world-mental-health-day-2026",
-    "category": "Special Event",
+    "id": "world-mental-health-day-1992",
+    "category": "Other",
     "localizedNames": {
       "en": "World Mental Health Day",
       "es": "Día Mundial de la Salud Mental",
       "it": "Giornata mondiale della salute mentale"
     },
     "allDay": true,
-    "dueDate": "2026-10-10",
+    "dueDate": "1992-10-10",
     "icon": "waveform.path.ecg.rectangle.fill",
     "color": "green",
     "repeatEvent": "Every Year",
@@ -308,15 +308,15 @@
     }
   },
   {
-    "id": "world-kindness-day-2026",
-    "category": "Special Event",
+    "id": "world-kindness-day-1998",
+    "category": "Other",
     "localizedNames": {
       "en": "World Kindness Day",
       "es": "Día Mundial de la Bondad",
       "it": "Giornata mondiale della gentilezza"
     },
     "allDay": true,
-    "dueDate": "2026-11-13",
+    "dueDate": "1998-11-13",
     "icon": "gift.fill",
     "color": "pink",
     "repeatEvent": "Every Year",
@@ -374,15 +374,15 @@
     }
   },
   {
-    "id": "human-rights-day-2026",
-    "category": "Special Event",
+    "id": "human-rights-day-1950",
+    "category": "Other",
     "localizedNames": {
       "en": "Human Rights Day",
       "es": "Día de los Derechos Humanos",
       "it": "Giornata dei diritti umani"
     },
     "allDay": true,
-    "dueDate": "2026-12-10",
+    "dueDate": "1950-12-10",
     "icon": "person.3.fill",
     "color": "indigo",
     "repeatEvent": "Every Year",
@@ -528,15 +528,15 @@
     }
   },
   {
-    "id": "international-womens-day-2027",
-    "category": "Special Event",
+    "id": "international-womens-day-1975",
+    "category": "Other",
     "localizedNames": {
       "en": "International Women's Day",
       "es": "Día Internacional de la Mujer",
       "it": "Giornata internazionale della donna"
     },
     "allDay": true,
-    "dueDate": "2027-03-08",
+    "dueDate": "1975-03-08",
     "icon": "star.fill",
     "color": "purple",
     "repeatEvent": "Every Year",
@@ -572,15 +572,15 @@
     }
   },
   {
-    "id": "earth-day-2027",
-    "category": "Special Event",
+    "id": "earth-day-1970",
+    "category": "Other",
     "localizedNames": {
       "en": "Earth Day",
       "es": "Día de la Tierra",
       "it": "Giornata della Terra"
     },
     "allDay": true,
-    "dueDate": "2027-04-22",
+    "dueDate": "1970-04-22",
     "icon": "leaf.fill",
     "color": "green",
     "repeatEvent": "Every Year",
@@ -594,323 +594,15 @@
     }
   },
   {
-    "id": "world-oceans-day-2027",
-    "category": "Special Event",
+    "id": "world-oceans-day-2008",
+    "category": "Other",
     "localizedNames": {
       "en": "World Oceans Day",
       "es": "Día Mundial de los Océanos",
       "it": "Giornata mondiale degli oceani"
     },
     "allDay": true,
-    "dueDate": "2027-06-08",
-    "icon": "sailboat.fill",
-    "color": "teal",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A global day focused on ocean protection and appreciation.",
-      "es": "Un día mundial centrado en la protección y el aprecio por los océanos.",
-      "it": "Una giornata globale dedicata alla protezione e valorizzazione degli oceani."
-    }
-  },
-  {
-    "id": "world-emoji-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "World Emoji Day",
-      "es": "Día Mundial del Emoji",
-      "it": "Giornata mondiale delle emoji"
-    },
-    "allDay": true,
-    "dueDate": "2027-07-17",
-    "icon": "party.popper.fill",
-    "color": "yellow",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A lighthearted day celebrating emoji and digital expression.",
-      "es": "Un día alegre para celebrar los emoji y la expresión digital.",
-      "it": "Una giornata leggera per celebrare emoji ed espressione digitale."
-    }
-  },
-  {
-    "id": "international-friendship-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "International Day of Friendship",
-      "es": "Día Internacional de la Amistad",
-      "it": "Giornata internazionale dell'amicizia"
-    },
-    "allDay": true,
-    "dueDate": "2027-07-30",
-    "icon": "heart.fill",
-    "color": "pink",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A United Nations observance for friendship among people and cultures.",
-      "es": "Una observancia de las Naciones Unidas sobre la amistad entre personas y culturas.",
-      "it": "Una ricorrenza delle Nazioni Unite dedicata all'amicizia tra persone e culture."
-    }
-  },
-  {
-    "id": "world-indigenous-peoples-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "International Day of the World's Indigenous Peoples",
-      "es": "Día Internacional de los Pueblos Indígenas",
-      "it": "Giornata internazionale dei popoli indigeni"
-    },
-    "allDay": true,
-    "dueDate": "2027-08-09",
-    "icon": "globe.americas.fill",
-    "color": "brown",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A global observance honoring Indigenous peoples, cultures, and rights.",
-      "es": "Una observancia mundial que honra a los pueblos indígenas, sus culturas y derechos.",
-      "it": "Una ricorrenza globale che onora popoli indigeni, culture e diritti."
-    }
-  },
-  {
-    "id": "world-humanitarian-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "World Humanitarian Day",
-      "es": "Día Mundial de la Asistencia Humanitaria",
-      "it": "Giornata mondiale dell'aiuto umanitario"
-    },
-    "allDay": true,
-    "dueDate": "2027-08-19",
-    "icon": "heart.fill",
-    "color": "red",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A day recognizing humanitarian workers and people affected by crises.",
-      "es": "Un día para reconocer a quienes trabajan en asistencia humanitaria y a las personas afectadas por crisis.",
-      "it": "Una giornata per riconoscere operatori umanitari e persone colpite dalle crisi."
-    }
-  },
-  {
-    "id": "international-literacy-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "International Literacy Day",
-      "es": "Día Internacional de la Alfabetización",
-      "it": "Giornata internazionale dell'alfabetizzazione"
-    },
-    "allDay": true,
-    "dueDate": "2027-09-08",
-    "icon": "bookmark.fill",
-    "color": "blue",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A UNESCO observance focused on literacy and learning.",
-      "es": "Una observancia de la UNESCO centrada en la alfabetización y el aprendizaje.",
-      "it": "Una ricorrenza UNESCO dedicata ad alfabetizzazione e apprendimento."
-    }
-  },
-  {
-    "id": "international-day-of-peace-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "International Day of Peace",
-      "es": "Día Internacional de la Paz",
-      "it": "Giornata internazionale della pace"
-    },
-    "allDay": true,
-    "dueDate": "2027-09-21",
-    "icon": "globe.europe.africa.fill",
-    "color": "mint",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A United Nations day devoted to strengthening the ideals of peace.",
-      "es": "Un día de las Naciones Unidas dedicado a fortalecer los ideales de paz.",
-      "it": "Una giornata delle Nazioni Unite dedicata a rafforzare gli ideali di pace."
-    }
-  },
-  {
-    "id": "world-mental-health-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "World Mental Health Day",
-      "es": "Día Mundial de la Salud Mental",
-      "it": "Giornata mondiale della salute mentale"
-    },
-    "allDay": true,
-    "dueDate": "2027-10-10",
-    "icon": "waveform.path.ecg.rectangle.fill",
-    "color": "green",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A global reminder to support mental health awareness and care.",
-      "es": "Un recordatorio mundial para apoyar la conciencia y el cuidado de la salud mental.",
-      "it": "Un promemoria globale per sostenere consapevolezza e cura della salute mentale."
-    }
-  },
-  {
-    "id": "world-kindness-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "World Kindness Day",
-      "es": "Día Mundial de la Bondad",
-      "it": "Giornata mondiale della gentilezza"
-    },
-    "allDay": true,
-    "dueDate": "2027-11-13",
-    "icon": "gift.fill",
-    "color": "pink",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A day to notice and practice kindness in everyday life.",
-      "es": "Un día para notar y practicar la bondad en la vida cotidiana.",
-      "it": "Una giornata per riconoscere e praticare la gentilezza nella vita quotidiana."
-    }
-  },
-  {
-    "id": "human-rights-day-2027",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Human Rights Day",
-      "es": "Día de los Derechos Humanos",
-      "it": "Giornata dei diritti umani"
-    },
-    "allDay": true,
-    "dueDate": "2027-12-10",
-    "icon": "person.3.fill",
-    "color": "indigo",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A United Nations day marking the Universal Declaration of Human Rights.",
-      "es": "Un día de las Naciones Unidas que conmemora la Declaración Universal de los Derechos Humanos.",
-      "it": "Una giornata delle Nazioni Unite che ricorda la Dichiarazione universale dei diritti umani."
-    }
-  },
-  {
-    "id": "christmas-day-2027",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "Christmas Day",
-      "es": "Navidad",
-      "it": "Natale"
-    },
-    "allDay": true,
-    "dueDate": "2027-12-25",
-    "icon": "gift.fill",
-    "color": "red",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A widely observed Christian holiday and cultural celebration.",
-      "es": "Una festividad cristiana y celebración cultural ampliamente observada.",
-      "it": "Una festività cristiana e celebrazione culturale ampiamente osservata."
-    }
-  },
-  {
-    "id": "new-years-day-2028",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "New Year's Day",
-      "es": "Año Nuevo",
-      "it": "Capodanno"
-    },
-    "allDay": true,
-    "dueDate": "2028-01-01",
-    "icon": "fireworks",
-    "color": "purple",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The first day of the Gregorian calendar year.",
-      "es": "El primer día del año del calendario gregoriano.",
-      "it": "Il primo giorno dell'anno nel calendario gregoriano."
-    }
-  },
-  {
-    "id": "international-womens-day-2028",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "International Women's Day",
-      "es": "Día Internacional de la Mujer",
-      "it": "Giornata internazionale della donna"
-    },
-    "allDay": true,
-    "dueDate": "2028-03-08",
-    "icon": "star.fill",
-    "color": "purple",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A global day celebrating women's achievements and equality.",
-      "es": "Un día mundial para celebrar los logros de las mujeres y la igualdad.",
-      "it": "Una giornata globale per celebrare i risultati delle donne e l'uguaglianza."
-    }
-  },
-  {
-    "id": "earth-day-2028",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Earth Day",
-      "es": "Día de la Tierra",
-      "it": "Giornata della Terra"
-    },
-    "allDay": true,
-    "dueDate": "2028-04-22",
-    "icon": "leaf.fill",
-    "color": "green",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A worldwide day for environmental awareness and action.",
-      "es": "Un día mundial de conciencia y acción ambiental.",
-      "it": "Una giornata mondiale per consapevolezza e azione ambientale."
-    }
-  },
-  {
-    "id": "world-oceans-day-2028",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "World Oceans Day",
-      "es": "Día Mundial de los Océanos",
-      "it": "Giornata mondiale degli oceani"
-    },
-    "allDay": true,
-    "dueDate": "2028-06-08",
+    "dueDate": "2008-06-08",
     "icon": "sailboat.fill",
     "color": "teal",
     "repeatEvent": "Every Year",
@@ -1512,6 +1204,34 @@
     "localizedNotes": {"en": "The NFL championship game for the 2026 season at SoFi Stadium.", "es": "El partido de campeonato de la NFL de la temporada 2026 en el SoFi Stadium.", "it": "La finale NFL della stagione 2026 al SoFi Stadium."}
   },
   {
+    "id": "masters-tournament-2027",
+    "category": "Special Event",
+    "localizedNames": {"en": "Masters Tournament 2027", "es": "Masters de Augusta 2027", "it": "Masters di Augusta 2027"},
+    "allDay": true,
+    "dueDate": "2027-04-08",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The 2027 Masters Tournament rounds at Augusta National Golf Club run from April 8 through April 11.", "es": "Las rondas del Masters de Augusta 2027 en el Augusta National Golf Club se disputan del 8 al 11 de abril.", "it": "I turni del Masters di Augusta 2027 all'Augusta National Golf Club si disputano dall'8 all'11 aprile."}
+  },
+  {
+    "id": "kentucky-derby-2027",
+    "category": "Special Event",
+    "localizedNames": {"en": "Kentucky Derby 2027", "es": "Derbi de Kentucky 2027", "it": "Kentucky Derby 2027"},
+    "allDay": true,
+    "dueDate": "2027-05-01",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The 153rd Kentucky Derby at Churchill Downs in Louisville, Kentucky.", "es": "La 153.ª edición del Derbi de Kentucky en Churchill Downs, Louisville, Kentucky.", "it": "La 153ª edizione del Kentucky Derby a Churchill Downs, Louisville, Kentucky."}
+  },
+  {
     "id": "fifa-womens-world-cup-opening-2027",
     "category": "Special Event",
     "localizedNames": {"en": "FIFA Women's World Cup 2027 Begins", "es": "Comienza la Copa Mundial Femenina de la FIFA 2027", "it": "Inizia la Coppa del Mondo femminile FIFA 2027"},
@@ -1524,5 +1244,19 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {"en": "The opening day of the 2027 FIFA Women's World Cup in Brazil.", "es": "La jornada inaugural de la Copa Mundial Femenina de la FIFA 2027 en Brasil.", "it": "La giornata inaugurale della Coppa del Mondo femminile FIFA 2027 in Brasile."}
+  },
+  {
+    "id": "wimbledon-championships-2027",
+    "category": "Special Event",
+    "localizedNames": {"en": "The Championships, Wimbledon 2027", "es": "Campeonato de Wimbledon 2027", "it": "Campionati di Wimbledon 2027"},
+    "allDay": true,
+    "dueDate": "2027-06-28",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {"en": "The 2027 Wimbledon Championships at the All England Lawn Tennis Club run from June 28 through July 11.", "es": "El Campeonato de Wimbledon 2027 en el All England Lawn Tennis Club se disputa del 28 de junio al 11 de julio.", "it": "I Campionati di Wimbledon 2027 all'All England Lawn Tennis Club si disputano dal 28 giugno all'11 luglio."}
   }
 ]
