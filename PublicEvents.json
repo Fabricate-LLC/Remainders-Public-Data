@@ -1386,7 +1386,7 @@
     "id": "q126912601-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Disgaea Mayhem",
       "es": "Disgaea Mayhem",
@@ -1401,9 +1401,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Disgaea Mayhem.",
-      "es": "El lanzamiento previsto de Disgaea Mayhem para PlayStation.",
-      "it": "L'uscita prevista di Disgaea Mayhem per PlayStation."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Disgaea Mayhem.",
+      "es": "El lanzamiento previsto de Disgaea Mayhem para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Disgaea Mayhem per PlayStation 5 e Nintendo Switch 2."
     },
     "id": "disgaea-mayhem-2026"
   },
@@ -1782,7 +1782,7 @@
     "id": "q140310842-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Truxton Extreme",
       "es": "Truxton Extreme",
@@ -1797,9 +1797,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Truxton Extreme.",
-      "es": "El lanzamiento previsto de Truxton Extreme para PlayStation.",
-      "it": "L'uscita prevista di Truxton Extreme per PlayStation."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Truxton Extreme.",
+      "es": "El lanzamiento previsto de Truxton Extreme para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Truxton Extreme per PlayStation 5 e Nintendo Switch 2."
     },
     "id": "truxton-extreme-2026"
   },
@@ -1890,5 +1890,423 @@
       "it": "L'uscita prevista di Montabi per Nintendo."
     },
     "id": "montabi-2026"
+  },
+  {
+    "id": "the-end-of-oak-street-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The End of Oak Street",
+      "es": "The End of Oak Street",
+      "it": "The End of Oak Street"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-14",
+    "icon": "film.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The North American theatrical release of David Robert Mitchell's science-fiction thriller.",
+      "es": "El estreno en cines de Norteamérica del thriller de ciencia ficción de David Robert Mitchell.",
+      "it": "L'uscita nelle sale nordamericane del thriller di fantascienza di David Robert Mitchell."
+    }
+  },
+  {
+    "id": "practical-magic-2-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Practical Magic 2",
+      "es": "Practical Magic 2",
+      "it": "Practical Magic 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-11",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The North American theatrical release of the fantasy sequel starring Sandra Bullock and Nicole Kidman.",
+      "es": "El estreno en cines de Norteamérica de la secuela fantástica protagonizada por Sandra Bullock y Nicole Kidman.",
+      "it": "L'uscita nelle sale nordamericane del seguito fantasy con Sandra Bullock e Nicole Kidman."
+    }
+  },
+  {
+    "id": "street-fighter-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Street Fighter",
+      "es": "Street Fighter",
+      "it": "Street Fighter"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "film.fill",
+    "color": "orange",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The theatrical release of Legendary and Capcom's live-action video-game adaptation.",
+      "es": "El estreno en cines de la adaptación de acción real del videojuego producida por Legendary y Capcom.",
+      "it": "L'uscita nelle sale dell'adattamento live action del videogioco prodotto da Legendary e Capcom."
+    }
+  },
+  {
+    "id": "godzilla-minus-zero-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Godzilla Minus Zero",
+      "es": "Godzilla Minus Zero",
+      "it": "Godzilla Minus Zero"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-06",
+    "icon": "film.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The wide North American theatrical release of Takashi Yamazaki's Godzilla sequel.",
+      "es": "El estreno amplio en cines de Norteamérica de la secuela de Godzilla de Takashi Yamazaki.",
+      "it": "L'uscita cinematografica su larga scala in Nord America del seguito di Godzilla di Takashi Yamazaki."
+    }
+  },
+  {
+    "id": "focker-in-law-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Focker-In-Law",
+      "es": "Focker-In-Law",
+      "it": "Focker-In-Law"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "yellow",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The theatrical release of the new Meet the Parents comedy starring Robert De Niro and Ben Stiller.",
+      "es": "El estreno en cines de la nueva comedia de la saga Meet the Parents protagonizada por Robert De Niro y Ben Stiller.",
+      "it": "L'uscita nelle sale della nuova commedia della serie Meet the Parents con Robert De Niro e Ben Stiller."
+    }
+  },
+  {
+    "id": "dune-part-three-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Dune: Part Three",
+      "es": "Dune: Part Three",
+      "it": "Dune: Part Three"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-18",
+    "icon": "film.fill",
+    "color": "orange",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The theatrical release of Denis Villeneuve's third Dune film.",
+      "es": "El estreno en cines de la tercera película de Dune dirigida por Denis Villeneuve.",
+      "it": "L'uscita nelle sale del terzo film di Dune diretto da Denis Villeneuve."
+    }
+  },
+  {
+    "id": "jumanji-open-world-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Jumanji: Open World",
+      "es": "Jumanji: Open World",
+      "it": "Jumanji: Open World"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-25",
+    "icon": "film.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The theatrical release of the next Jumanji adventure starring Dwayne Johnson, Jack Black, Kevin Hart, and Karen Gillan.",
+      "es": "El estreno en cines de la nueva aventura de Jumanji protagonizada por Dwayne Johnson, Jack Black, Kevin Hart y Karen Gillan.",
+      "it": "L'uscita nelle sale della nuova avventura di Jumanji con Dwayne Johnson, Jack Black, Kevin Hart e Karen Gillan."
+    }
+  },
+  {
+    "id": "werwulf-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Werwulf",
+      "es": "Werwulf",
+      "it": "Werwulf"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-25",
+    "icon": "film.fill",
+    "color": "brown",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The theatrical release of Robert Eggers' medieval horror film.",
+      "es": "El estreno en cines de la película de terror medieval de Robert Eggers.",
+      "it": "L'uscita nelle sale del film horror medievale di Robert Eggers."
+    }
+  },
+  {
+    "id": "xenoblade-chronicles-definitive-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Xenoblade Chronicles: Definitive Edition",
+      "es": "Xenoblade Chronicles: Definitive Edition",
+      "it": "Xenoblade Chronicles: Definitive Edition"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Xenoblade Chronicles: Definitive Edition.",
+      "es": "El lanzamiento previsto de Xenoblade Chronicles: Definitive Edition para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Xenoblade Chronicles: Definitive Edition per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "lies-of-p-complete-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Lies of P: Complete Edition",
+      "es": "Lies of P: Complete Edition",
+      "it": "Lies of P: Complete Edition"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-06",
+    "icon": "gamecontroller.fill",
+    "color": "brown",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled digital release of Lies of P: Complete Edition for Nintendo Switch 2.",
+      "es": "El lanzamiento digital previsto de Lies of P: Complete Edition para Nintendo Switch 2.",
+      "it": "L'uscita digitale prevista di Lies of P: Complete Edition per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "duskfade-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Duskfade",
+      "es": "Duskfade",
+      "it": "Duskfade"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-13",
+    "icon": "gamecontroller.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Weird Beluga's action platformer.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de plataformas y acción de Weird Beluga.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del platform d'azione di Weird Beluga."
+    }
+  },
+  {
+    "id": "the-witchs-bakery-switch-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Witch's Bakery",
+      "es": "The Witch's Bakery",
+      "it": "The Witch's Bakery"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "gamecontroller.fill",
+    "color": "pink",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch release of Sunny Lab's adventure RPG.",
+      "es": "El lanzamiento previsto para Nintendo Switch del juego de rol y aventura de Sunny Lab.",
+      "it": "L'uscita prevista per Nintendo Switch del gioco di ruolo e avventura di Sunny Lab."
+    }
+  },
+  {
+    "id": "brigandine-abyss-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Brigandine: Abyss",
+      "es": "Brigandine: Abyss",
+      "it": "Brigandine: Abyss"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-27",
+    "icon": "gamecontroller.fill",
+    "color": "indigo",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of NIS America's strategy RPG.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol estratégico de NIS America.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo strategico di NIS America."
+    }
+  },
+  {
+    "id": "onimusha-way-of-the-sword-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Onimusha: Way of the Sword",
+      "es": "Onimusha: Way of the Sword",
+      "it": "Onimusha: Way of the Sword"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-25",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Capcom's sword-fighting action game.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de acción y combate con espadas de Capcom.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco d'azione e combattimento con la spada di Capcom."
+    }
+  },
+  {
+    "id": "the-legend-of-heroes-trails-from-zero-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Legend of Heroes: Trails from Zero",
+      "es": "The Legend of Heroes: Trails from Zero",
+      "it": "The Legend of Heroes: Trails from Zero"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of NIS America's role-playing game.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol de NIS America.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo di NIS America."
+    }
+  },
+  {
+    "id": "the-legend-of-heroes-trails-to-azure-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Legend of Heroes: Trails to Azure",
+      "es": "The Legend of Heroes: Trails to Azure",
+      "it": "The Legend of Heroes: Trails to Azure"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "gamecontroller.fill",
+    "color": "cyan",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of NIS America's role-playing sequel.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 de la secuela de rol de NIS America.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del seguito di ruolo di NIS America."
+    }
+  },
+  {
+    "id": "runescape-dragonwilds-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "RuneScape: Dragonwilds",
+      "es": "RuneScape: Dragonwilds",
+      "it": "RuneScape: Dragonwilds"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-15",
+    "icon": "gamecontroller.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Jagex's cooperative survival adventure.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 de la aventura cooperativa de supervivencia de Jagex.",
+      "it": "L'uscita prevista per Nintendo Switch 2 dell'avventura cooperativa di sopravvivenza di Jagex."
+    }
+  },
+  {
+    "id": "uefa-champions-league-final-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "UEFA Champions League Final",
+      "es": "Final de la Liga de Campeones de la UEFA",
+      "it": "Finale di UEFA Champions League"
+    },
+    "allDay": true,
+    "dueDate": "2027-06-05",
+    "icon": "sportscourt.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The 2026–27 UEFA Champions League final at Estadio Metropolitano in Madrid.",
+      "es": "La final de la Liga de Campeones de la UEFA 2026–27 en el Estadio Metropolitano de Madrid.",
+      "it": "La finale della UEFA Champions League 2026–27 allo Stadio Metropolitano di Madrid."
+    }
+  },
+  {
+    "id": "world-athletics-championships-opening-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Athletics Championships Begin",
+      "es": "Comienzo del Campeonato Mundial de Atletismo",
+      "it": "Inizio dei Campionati mondiali di atletica"
+    },
+    "allDay": true,
+    "dueDate": "2027-09-11",
+    "icon": "sportscourt.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Opening day of the World Athletics Championships in Beijing, scheduled for September 11–19.",
+      "es": "Día inaugural del Campeonato Mundial de Atletismo en Pekín, previsto del 11 al 19 de septiembre.",
+      "it": "Giornata inaugurale dei Campionati mondiali di atletica a Pechino, in programma dall'11 al 19 settembre."
+    }
   }
 ]
