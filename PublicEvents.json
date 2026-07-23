@@ -1364,28 +1364,6 @@
     }
   },
   {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q126912601",
-      "es": "Q126912601",
-      "it": "Q126912601"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-22",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q126912601.",
-      "es": "El lanzamiento previsto de Q126912601 para PlayStation.",
-      "it": "L'uscita prevista di Q126912601 per PlayStation."
-    },
-    "id": "q126912601-2026"
-  },
-  {
     "category": "Game",
     "localizedNames": {
       "en": "Disgaea Mayhem",
@@ -1428,50 +1406,6 @@
       "it": "L'uscita prevista di Gurei per PlayStation."
     },
     "id": "gurei-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: Memorial Vacation",
-      "es": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: Memorial Vacation",
-      "it": "Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: Memorial Vacation"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: Memorial Vacation.",
-      "es": "El lanzamiento previsto de Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: Memorial Vacation para Nintendo.",
-      "it": "L'uscita prevista di Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken: Memorial Vacation per Nintendo."
-    },
-    "id": "otonari-no-tenshi-sama-ni-itsu-no-ma-ni-ka-dame-ningen-ni-sareteita-ken-memorial-vacation-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q135025418",
-      "es": "Q135025418",
-      "it": "Q135025418"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q135025418.",
-      "es": "El lanzamiento previsto de Q135025418 para PlayStation.",
-      "it": "L'uscita prevista di Q135025418 per PlayStation."
-    },
-    "id": "q135025418-2026"
   },
   {
     "category": "Special Event",
@@ -1560,28 +1494,6 @@
       "it": "L'uscita prevista di Go North per Nintendo."
     },
     "id": "go-north-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q136629290",
-      "es": "Q136629290",
-      "it": "Q136629290"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-28",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q136629290.",
-      "es": "El lanzamiento previsto de Q136629290 para PlayStation.",
-      "it": "L'uscita prevista di Q136629290 per PlayStation."
-    },
-    "id": "q136629290-2026"
   },
   {
     "category": "Special Event",
@@ -1696,28 +1608,6 @@
   {
     "category": "Special Event",
     "localizedNames": {
-      "en": "Hono Gurashi no Niwa",
-      "es": "Hono Gurashi no Niwa",
-      "it": "Hono Gurashi no Niwa"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-30",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Hono Gurashi no Niwa.",
-      "es": "El lanzamiento previsto de Hono Gurashi no Niwa para PlayStation.",
-      "it": "L'uscita prevista di Hono Gurashi no Niwa per PlayStation."
-    },
-    "id": "hono-gurashi-no-niwa-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
       "en": "Kusan: City of Wolves",
       "es": "Kusan: City of Wolves",
       "it": "Kusan: City of Wolves"
@@ -1736,50 +1626,6 @@
       "it": "L'uscita prevista di Kusan: City of Wolves per PlayStation."
     },
     "id": "kusan-city-of-wolves-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q135055652",
-      "es": "Q135055652",
-      "it": "Q135055652"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-30",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q135055652.",
-      "es": "El lanzamiento previsto de Q135055652 para PlayStation.",
-      "it": "L'uscita prevista di Q135055652 per PlayStation."
-    },
-    "id": "q135055652-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140310842",
-      "es": "Q140310842",
-      "it": "Q140310842"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-30",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q140310842.",
-      "es": "El lanzamiento previsto de Q140310842 para PlayStation.",
-      "it": "L'uscita prevista di Q140310842 per PlayStation."
-    },
-    "id": "q140310842-2026"
   },
   {
     "category": "Game",
