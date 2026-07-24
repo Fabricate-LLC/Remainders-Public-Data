@@ -1320,50 +1320,6 @@
     }
   },
   {
-    "id": "christmas-day-2027",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "Christmas Day",
-      "es": "Navidad",
-      "it": "Natale"
-    },
-    "allDay": true,
-    "dueDate": "2027-12-25",
-    "icon": "gift.fill",
-    "color": "red",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A widely observed Christian holiday and cultural celebration.",
-      "es": "Una festividad cristiana y celebración cultural ampliamente observada.",
-      "it": "Una festività cristiana e celebrazione culturale ampiamente osservata."
-    }
-  },
-  {
-    "id": "new-years-day-2028",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "New Year's Day",
-      "es": "Año Nuevo",
-      "it": "Capodanno"
-    },
-    "allDay": true,
-    "dueDate": "2028-01-01",
-    "icon": "fireworks",
-    "color": "purple",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The first day of the Gregorian calendar year.",
-      "es": "El primer día del año del calendario gregoriano.",
-      "it": "Il primo giorno dell'anno nel calendario gregoriano."
-    }
-  },
-  {
     "category": "Game",
     "localizedNames": {
       "en": "Disgaea Mayhem",
