@@ -24,6 +24,7 @@ This repository publishes the public event suggestions used by Remainders. Treat
 ## Content standards
 
 - Verify dates and official names against reliable primary sources whenever practical.
+- Do not add an event unless a verified official English title is available. Reject database identifiers and label fallbacks such as `Q126912601`, as well as untranslated or romanized-only titles that have no official English release title; do not invent a translation. Numbers remain allowed when they are intrinsic to a verified title.
 - Translate meaning naturally; do not merely preserve English phrasing in Spanish or Italian.
 - Avoid political advocacy, promotional copy, sensitive personal data, and speculative observances.
 - Use `Other` for generic awareness and observance events, including names such as "International Day of X", "World X Day", and similar non-holiday observances. Reserve `Special Event` for distinct scheduled happenings such as tournaments, championships, launches, or ceremonies.
