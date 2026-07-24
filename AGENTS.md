@@ -33,7 +33,7 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Keep moving holidays whose dates cannot be represented by the supported recurrence values as occurrence-specific records with `repeatEvent` set to `Never`.
 - Keep descriptions concise and factual.
 - Do not include calendar dates or occurrence years in `localizedNames`. Use the base event title, such as `Masters` instead of `Masters Tournament 2027` and `Kentucky Derby` instead of `Kentucky Derby 2027`; record the occurrence in `dueDate`, the `id` year suffix, and `localizedNotes`. Preserve numbers only when they are intrinsic to the official base title, such as a movie or game title or a numbered event like `Super Bowl LXI`.
-- Categorize events using the app's exact singular raw values (for example, video game releases use `Game` and movie releases use `Movie`).
+- Categorize events using the app's exact singular raw values. Assign video game releases only to `Game` and movie releases only to `Movie`; never categorize either as `Special Event`.
 - For video game events, use only the game's official base title in every `localizedNames` value. Do not append gaming platforms or platform-specific qualifiers such as `(Nintendo Switch 2)`, `(PlayStation 5)`, `(Xbox Series X|S)`, or `(PC)`. Put platform availability in `localizedNotes` only when it is relevant and verified.
 - This repository is published publicly. Never add credentials, tokens, private URLs, or user information.
 - Clean up the file and remove sale singular events that are in the past.
