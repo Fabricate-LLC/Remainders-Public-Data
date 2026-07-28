@@ -946,50 +946,6 @@
     }
   },
   {
-    "id": "splatoon-raiders-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Splatoon Raiders",
-      "es": "Splatoon Raiders",
-      "it": "Splatoon Raiders"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Splatoon Raiders.",
-      "es": "El lanzamiento previsto de Splatoon Raiders para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Splatoon Raiders per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "final-fantasy-x-x-2-hd-remaster-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Final Fantasy X/X-2 HD Remaster",
-      "es": "Final Fantasy X/X-2 HD Remaster",
-      "it": "Final Fantasy X/X-2 HD Remaster"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Final Fantasy X/X-2 HD Remaster.",
-      "es": "El lanzamiento previsto de Final Fantasy X/X-2 HD Remaster para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Final Fantasy X/X-2 HD Remaster per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "xenoblade-chronicles-2-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1078,6 +1034,28 @@
     }
   },
   {
+    "id": "another-eden-begins-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Another Eden Begins",
+      "es": "Another Eden Begins",
+      "it": "Another Eden Begins"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of WRIGHT FLYER STUDIOS' time-travel RPG.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol con viajes en el tiempo de WRIGHT FLYER STUDIOS.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo sui viaggi nel tempo di WRIGHT FLYER STUDIOS."
+    }
+  },
+  {
     "id": "fire-emblem-fortunes-weave-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1097,6 +1075,28 @@
       "en": "The scheduled Nintendo Switch 2 release of Fire Emblem: Fortune's Weave.",
       "es": "El lanzamiento previsto de Fire Emblem: Fortune's Weave para Nintendo Switch 2.",
       "it": "L'uscita prevista di Fire Emblem: Fortune's Weave per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "trails-in-the-sky-2nd-chapter-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Trails in the Sky 2nd Chapter",
+      "es": "Trails in the Sky 2nd Chapter",
+      "it": "Trails in the Sky 2nd Chapter"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Nihon Falcom's story RPG.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol narrativo de Nihon Falcom.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo narrativo di Nihon Falcom."
     }
   },
   {
@@ -1340,116 +1340,6 @@
       "es": "El Campeonato de Wimbledon 2027 en el All England Lawn Tennis Club se disputa del 28 de junio al 11 de julio.",
       "it": "I Campionati di Wimbledon 2027 all'All England Lawn Tennis Club si disputano dal 28 giugno all'11 luglio."
     }
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Disgaea Mayhem",
-      "es": "Disgaea Mayhem",
-      "it": "Disgaea Mayhem"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Disgaea Mayhem.",
-      "es": "El lanzamiento previsto de Disgaea Mayhem para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Disgaea Mayhem per PlayStation 5 e Nintendo Switch 2."
-    },
-    "id": "disgaea-mayhem-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Gurei",
-      "es": "Gurei",
-      "it": "Gurei"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Gurei.",
-      "es": "El lanzamiento previsto de Gurei para PlayStation.",
-      "it": "L'uscita prevista di Gurei per PlayStation."
-    },
-    "id": "gurei-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Yog-Sothoth’s Yard",
-      "es": "Yog-Sothoth’s Yard",
-      "it": "Yog-Sothoth’s Yard"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-23",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Yog-Sothoth’s Yard.",
-      "es": "El lanzamiento previsto de Yog-Sothoth’s Yard para Nintendo.",
-      "it": "L'uscita prevista di Yog-Sothoth’s Yard per Nintendo."
-    },
-    "id": "yog-sothoth-s-yard-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Kazuma Kaneko's Tsukuyomi",
-      "es": "Kazuma Kaneko's Tsukuyomi",
-      "it": "Kazuma Kaneko's Tsukuyomi"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-24",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Kazuma Kaneko's Tsukuyomi.",
-      "es": "El lanzamiento previsto de Kazuma Kaneko's Tsukuyomi para Nintendo.",
-      "it": "L'uscita prevista di Kazuma Kaneko's Tsukuyomi per Nintendo."
-    },
-    "id": "kazuma-kaneko-s-tsukuyomi-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Prelude: Dark Pain",
-      "es": "Prelude: Dark Pain",
-      "it": "Prelude: Dark Pain"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Prelude: Dark Pain.",
-      "es": "El lanzamiento previsto de Prelude: Dark Pain para PlayStation.",
-      "it": "L'uscita prevista di Prelude: Dark Pain per PlayStation."
-    },
-    "id": "prelude-dark-pain-2026"
   },
   {
     "category": "Game",
@@ -2131,6 +2021,28 @@
       "en": "Opening day of the World Athletics Championships in Beijing, scheduled for September 11–19.",
       "es": "Día inaugural del Campeonato Mundial de Atletismo en Pekín, previsto del 11 al 19 de septiembre.",
       "it": "Giornata inaugurale dei Campionati mondiali di atletica a Pechino, in programma dall'11 al 19 settembre."
+    }
+  },
+  {
+    "id": "mens-rugby-world-cup-opening-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Men's Rugby World Cup Begins",
+      "es": "Comienza la Copa Mundial de Rugby Masculina",
+      "it": "Inizia la Coppa del Mondo di rugby maschile"
+    },
+    "allDay": true,
+    "dueDate": "2027-10-01",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Opening day of the Men's Rugby World Cup in Australia, scheduled for October 1–November 13.",
+      "es": "Día inaugural de la Copa Mundial de Rugby Masculina en Australia, prevista del 1 de octubre al 13 de noviembre.",
+      "it": "Giornata inaugurale della Coppa del Mondo di rugby maschile in Australia, in programma dal 1º ottobre al 13 novembre."
     }
   }
 ]
