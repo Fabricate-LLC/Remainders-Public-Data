@@ -286,6 +286,28 @@
     }
   },
   {
+    "id": "god-of-war-laufey-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "God of War Laufey",
+      "es": "God of War Laufey",
+      "it": "God of War Laufey"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-16",
+    "icon": "gamecontroller.fill",
+    "color": "yellow",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The release of Santa Monica Studio's action-adventure for PlayStation 5, starring Faye.",
+      "es": "El lanzamiento de la aventura de acción de Santa Monica Studio para PlayStation 5, protagonizada por Faye.",
+      "it": "L'uscita dell'avventura d'azione di Santa Monica Studio per PlayStation 5, con Faye come protagonista."
+    }
+  },
+  {
     "id": "fable-2027",
     "category": "Game",
     "localizedNames": {
