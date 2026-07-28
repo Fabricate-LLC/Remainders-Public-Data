@@ -36,7 +36,7 @@ This repository publishes the public event suggestions used by Remainders. Treat
 - Categorize events using the app's exact singular raw values. Assign video game releases only to `Game` and movie releases only to `Movie`; never categorize either as `Special Event`.
 - For video game events, use only the game's official base title in every `localizedNames` value. Do not append gaming platforms or platform-specific qualifiers such as `(Nintendo Switch 2)`, `(PlayStation 5)`, `(Xbox Series X|S)`, or `(PC)`. Put platform availability in `localizedNotes` only when it is relevant and verified.
 - This repository is published publicly. Never add credentials, tokens, private URLs, or user information.
-- Clean up the file and remove sale singular events that are in the past.
+- Clean up the file and remove stale singular events that are in the past.
 
 ## Valid event symbols
 
