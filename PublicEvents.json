@@ -1,27 +1,5 @@
 [
   {
-    "id": "halo-campaign-evolved-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Halo: Campaign Evolved",
-      "es": "Halo: Campaign Evolved",
-      "it": "Halo: Campaign Evolved"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-28",
-    "icon": "gamecontroller.fill",
-    "color": "green",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The release of Halo Studios' expanded remake of the original Halo campaign.",
-      "es": "El lanzamiento del remake ampliado de Halo Studios de la campaña original de Halo.",
-      "it": "L'uscita del remake ampliato di Halo Studios della campagna originale di Halo."
-    }
-  },
-  {
     "id": "orbitals-2026",
     "category": "Game",
     "localizedNames": {
@@ -1344,28 +1322,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Go North",
-      "es": "Go North",
-      "it": "Go North"
-    },
-    "allDay": true,
-    "dueDate": "2026-07-28",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Go North.",
-      "es": "El lanzamiento previsto de Go North para Nintendo.",
-      "it": "L'uscita prevista di Go North per Nintendo."
-    },
-    "id": "go-north-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "Mistfall Hunter",
       "es": "Mistfall Hunter",
       "it": "Mistfall Hunter"
@@ -2021,6 +1977,798 @@
       "en": "Opening day of the World Athletics Championships in Beijing, scheduled for September 11–19.",
       "es": "Día inaugural del Campeonato Mundial de Atletismo en Pekín, previsto del 11 al 19 de septiembre.",
       "it": "Giornata inaugurale dei Campionati mondiali di atletica a Pechino, in programma dall'11 al 19 settembre."
+    }
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Above & Below",
+      "es": "Above & Below",
+      "it": "Above & Below"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Above & Below.",
+      "es": "El estreno cinematográfico previsto de Above & Below.",
+      "it": "L'uscita cinematografica prevista di Above & Below."
+    },
+    "id": "above-below-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Afternoon Affair",
+      "es": "Afternoon Affair",
+      "it": "Afternoon Affair"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Afternoon Affair.",
+      "es": "El estreno cinematográfico previsto de Afternoon Affair.",
+      "it": "L'uscita cinematografica prevista di Afternoon Affair."
+    },
+    "id": "afternoon-affair-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Spider-Man: Brand New Day",
+      "es": "Spider-Man: Brand New Day",
+      "it": "Spider-Man: Brand New Day"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Spider-Man: Brand New Day.",
+      "es": "El estreno cinematográfico previsto de Spider-Man: Brand New Day.",
+      "it": "L'uscita cinematografica prevista di Spider-Man: Brand New Day."
+    },
+    "id": "spider-man-brand-new-day-2-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Wild Inside",
+      "es": "Wild Inside",
+      "it": "Wild Inside"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Wild Inside.",
+      "es": "El estreno cinematográfico previsto de Wild Inside.",
+      "it": "L'uscita cinematografica prevista di Wild Inside."
+    },
+    "id": "wild-inside-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "2 cuori e 2 capanne",
+      "es": "2 cuori e 2 capanne",
+      "it": "2 cuori e 2 capanne"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of 2 cuori e 2 capanne.",
+      "es": "El estreno cinematográfico previsto de 2 cuori e 2 capanne.",
+      "it": "L'uscita cinematografica prevista di 2 cuori e 2 capanne."
+    },
+    "id": "2-cuori-e-2-capanne-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Bitter Christmas",
+      "es": "Bitter Christmas",
+      "it": "Bitter Christmas"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Bitter Christmas.",
+      "es": "El estreno cinematográfico previsto de Bitter Christmas.",
+      "it": "L'uscita cinematografica prevista di Bitter Christmas."
+    },
+    "id": "bitter-christmas-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Forbidden Fruits",
+      "es": "Forbidden Fruits",
+      "it": "Forbidden Fruits"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Forbidden Fruits.",
+      "es": "El estreno cinematográfico previsto de Forbidden Fruits.",
+      "it": "L'uscita cinematografica prevista di Forbidden Fruits."
+    },
+    "id": "forbidden-fruits-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Ghost in the Cell",
+      "es": "Ghost in the Cell",
+      "it": "Ghost in the Cell"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Ghost in the Cell.",
+      "es": "El estreno cinematográfico previsto de Ghost in the Cell.",
+      "it": "L'uscita cinematografica prevista di Ghost in the Cell."
+    },
+    "id": "ghost-in-the-cell-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Hono Gurashi no Niwa",
+      "es": "Hono Gurashi no Niwa",
+      "it": "Hono Gurashi no Niwa"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Hono Gurashi no Niwa.",
+      "es": "El lanzamiento previsto de Hono Gurashi no Niwa para PlayStation.",
+      "it": "L'uscita prevista di Hono Gurashi no Niwa per PlayStation."
+    },
+    "id": "hono-gurashi-no-niwa-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Leviticus",
+      "es": "Leviticus",
+      "it": "Leviticus"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Leviticus.",
+      "es": "El estreno cinematográfico previsto de Leviticus.",
+      "it": "L'uscita cinematografica prevista di Leviticus."
+    },
+    "id": "leviticus-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q135055652",
+      "es": "Q135055652",
+      "it": "Q135055652"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Q135055652.",
+      "es": "El lanzamiento previsto de Q135055652 para PlayStation.",
+      "it": "L'uscita prevista di Q135055652 per PlayStation."
+    },
+    "id": "q135055652-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q137806593",
+      "es": "Q137806593",
+      "it": "Q137806593"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Q137806593.",
+      "es": "El estreno cinematográfico previsto de Q137806593.",
+      "it": "L'uscita cinematografica prevista di Q137806593."
+    },
+    "id": "q137806593-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q140310842",
+      "es": "Q140310842",
+      "it": "Q140310842"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Q140310842.",
+      "es": "El lanzamiento previsto de Q140310842 para PlayStation.",
+      "it": "L'uscita prevista di Q140310842 per PlayStation."
+    },
+    "id": "q140310842-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "The Invite",
+      "es": "The Invite",
+      "it": "The Invite"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Invite.",
+      "es": "El estreno cinematográfico previsto de The Invite.",
+      "it": "L'uscita cinematografica prevista di The Invite."
+    },
+    "id": "the-invite-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Umamusume: Pretty Derby - Beginning of a New Era",
+      "es": "Umamusume: Pretty Derby - Beginning of a New Era",
+      "it": "Umamusume: Pretty Derby - Beginning of a New Era"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Umamusume: Pretty Derby - Beginning of a New Era.",
+      "es": "El estreno cinematográfico previsto de Umamusume: Pretty Derby - Beginning of a New Era.",
+      "it": "L'uscita cinematografica prevista di Umamusume: Pretty Derby - Beginning of a New Era."
+    },
+    "id": "umamusume-pretty-derby-beginning-of-a-new-era-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Crayon Shin-chan the Movie: Super Strange! My Yōkai Monster Vacation",
+      "es": "Crayon Shin-chan the Movie: Super Strange! My Yōkai Monster Vacation",
+      "it": "Crayon Shin-chan the Movie: Super Strange! My Yōkai Monster Vacation"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Crayon Shin-chan the Movie: Super Strange! My Yōkai Monster Vacation.",
+      "es": "El estreno cinematográfico previsto de Crayon Shin-chan the Movie: Super Strange! My Yōkai Monster Vacation.",
+      "it": "L'uscita cinematografica prevista di Crayon Shin-chan the Movie: Super Strange! My Yōkai Monster Vacation."
+    },
+    "id": "crayon-shin-chan-the-movie-super-strange-my-y-kai-monster-vacation-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Hanuman Ansh",
+      "es": "Hanuman Ansh",
+      "it": "Hanuman Ansh"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Hanuman Ansh.",
+      "es": "El estreno cinematográfico previsto de Hanuman Ansh.",
+      "it": "L'uscita cinematografica prevista di Hanuman Ansh."
+    },
+    "id": "hanuman-ansh-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "I Want Your Sex",
+      "es": "I Want Your Sex",
+      "it": "I Want Your Sex"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of I Want Your Sex.",
+      "es": "El estreno cinematográfico previsto de I Want Your Sex.",
+      "it": "L'uscita cinematografica prevista di I Want Your Sex."
+    },
+    "id": "i-want-your-sex-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Maaran",
+      "es": "Maaran",
+      "it": "Maaran"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Maaran.",
+      "es": "El estreno cinematográfico previsto de Maaran.",
+      "it": "L'uscita cinematografica prevista di Maaran."
+    },
+    "id": "maaran-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Moana",
+      "es": "Moana",
+      "it": "Moana"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Moana.",
+      "es": "El estreno cinematográfico previsto de Moana.",
+      "it": "L'uscita cinematografica prevista di Moana."
+    },
+    "id": "moana-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Paint Splatter!",
+      "es": "Paint Splatter!",
+      "it": "Paint Splatter!"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Paint Splatter!.",
+      "es": "El estreno cinematográfico previsto de Paint Splatter!.",
+      "it": "L'uscita cinematografica prevista di Paint Splatter!."
+    },
+    "id": "paint-splatter-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "The Relic: First Guardian",
+      "es": "The Relic: First Guardian",
+      "it": "The Relic: First Guardian"
+    },
+    "allDay": true,
+    "dueDate": "2026-07-31",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of The Relic: First Guardian.",
+      "es": "El lanzamiento previsto de The Relic: First Guardian para PlayStation.",
+      "it": "L'uscita prevista di The Relic: First Guardian per PlayStation."
+    },
+    "id": "the-relic-first-guardian-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q134739750",
+      "es": "Q134739750",
+      "it": "Q134739750"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Q134739750.",
+      "es": "El lanzamiento previsto de Q134739750 para PlayStation.",
+      "it": "L'uscita prevista di Q134739750 per PlayStation."
+    },
+    "id": "q134739750-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Cotton Rock With You",
+      "es": "Cotton Rock With You",
+      "it": "Cotton Rock With You"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-06",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Cotton Rock With You.",
+      "es": "El lanzamiento previsto de Cotton Rock With You para PlayStation.",
+      "it": "L'uscita prevista di Cotton Rock With You per PlayStation."
+    },
+    "id": "cotton-rock-with-you-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q134707731",
+      "es": "Q134707731",
+      "it": "Q134707731"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-06",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Q134707731.",
+      "es": "El lanzamiento previsto de Q134707731 para PlayStation.",
+      "it": "L'uscita prevista di Q134707731 per PlayStation."
+    },
+    "id": "q134707731-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Route-16R",
+      "es": "Route-16R",
+      "it": "Route-16R"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-06",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Route-16R.",
+      "es": "El lanzamiento previsto de Route-16R para Nintendo.",
+      "it": "L'uscita prevista di Route-16R per Nintendo."
+    },
+    "id": "route-16r-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q139998138",
+      "es": "Q139998138",
+      "it": "Q139998138"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-13",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Q139998138.",
+      "es": "El lanzamiento previsto de Q139998138 para Nintendo.",
+      "it": "L'uscita prevista di Q139998138 per Nintendo."
+    },
+    "id": "q139998138-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Grave Seasons",
+      "es": "Grave Seasons",
+      "it": "Grave Seasons"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-14",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Grave Seasons.",
+      "es": "El lanzamiento previsto de Grave Seasons para Nintendo.",
+      "it": "L'uscita prevista di Grave Seasons per Nintendo."
+    },
+    "id": "grave-seasons-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Backyard Baseball",
+      "es": "Backyard Baseball",
+      "it": "Backyard Baseball"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-18",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Backyard Baseball.",
+      "es": "El lanzamiento previsto de Backyard Baseball para Nintendo.",
+      "it": "L'uscita prevista di Backyard Baseball per Nintendo."
+    },
+    "id": "backyard-baseball-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "No Case Should Remain Unsolved",
+      "es": "No Case Should Remain Unsolved",
+      "it": "No Case Should Remain Unsolved"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-19",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of No Case Should Remain Unsolved.",
+      "es": "El lanzamiento previsto de No Case Should Remain Unsolved para Nintendo.",
+      "it": "L'uscita prevista di No Case Should Remain Unsolved per Nintendo."
+    },
+    "id": "no-case-should-remain-unsolved-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q140427639",
+      "es": "Q140427639",
+      "it": "Q140427639"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Q140427639.",
+      "es": "El lanzamiento previsto de Q140427639 para Nintendo.",
+      "it": "L'uscita prevista di Q140427639 per Nintendo."
+    },
+    "id": "q140427639-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Steins;Gate Re:Boot",
+      "es": "Steins;Gate Re:Boot",
+      "it": "Steins;Gate Re:Boot"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Steins;Gate Re:Boot.",
+      "es": "El lanzamiento previsto de Steins;Gate Re:Boot para Nintendo.",
+      "it": "L'uscita prevista di Steins;Gate Re:Boot per Nintendo."
+    },
+    "id": "steins-gate-re-boot-2026"
+  },
+  {
+    "id": "final-fantasy-xiv-online-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "FINAL FANTASY XIV Online",
+      "es": "FINAL FANTASY XIV Online",
+      "it": "FINAL FANTASY XIV Online"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-04",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Square Enix's online role-playing game.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol en línea de Square Enix.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo online di Square Enix."
+    }
+  },
+  {
+    "id": "dayz-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "DayZ",
+      "es": "DayZ",
+      "it": "DayZ"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Bohemia Interactive's survival game.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de supervivencia de Bohemia Interactive.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di sopravvivenza di Bohemia Interactive."
+    }
+  },
+  {
+    "id": "minecraft-dungeons-ii-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Minecraft Dungeons II",
+      "es": "Minecraft Dungeons II",
+      "it": "Minecraft Dungeons II"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-29",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 release of Mojang's dungeon-crawling sequel.",
+      "es": "El lanzamiento previsto para Nintendo Switch y Nintendo Switch 2 de la secuela de exploración de mazmorras de Mojang.",
+      "it": "L'uscita prevista per Nintendo Switch e Nintendo Switch 2 del seguito di esplorazione di sotterranei di Mojang."
+    }
+  },
+  {
+    "id": "the-crew-motorfest-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Crew Motorfest",
+      "es": "The Crew Motorfest",
+      "it": "The Crew Motorfest"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-08",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Ubisoft's open-world driving game.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de conducción de mundo abierto de Ubisoft.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di guida a mondo aperto di Ubisoft."
     }
   },
   {
