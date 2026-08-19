@@ -330,28 +330,6 @@
     }
   },
   {
-    "id": "paw-patrol-the-dino-movie-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "PAW Patrol: The Dino Movie",
-      "es": "PAW Patrol: The Dino Movie",
-      "it": "PAW Patrol: The Dino Movie"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-14",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of PAW Patrol: The Dino Movie.",
-      "es": "El estreno cinematográfico previsto de PAW Patrol: The Dino Movie.",
-      "it": "L'uscita cinematografica prevista di PAW Patrol: The Dino Movie."
-    }
-  },
-  {
     "id": "insidious-out-of-the-further-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1188,28 +1166,6 @@
     }
   },
   {
-    "id": "the-end-of-oak-street-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The End of Oak Street",
-      "es": "The End of Oak Street",
-      "it": "The End of Oak Street"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-14",
-    "icon": "film.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The North American theatrical release of David Robert Mitchell's science-fiction thriller.",
-      "es": "El estreno en cines de Norteamérica del thriller de ciencia ficción de David Robert Mitchell.",
-      "it": "L'uscita nelle sale nordamericane del thriller di fantascienza di David Robert Mitchell."
-    }
-  },
-  {
     "id": "practical-magic-2-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1361,28 +1317,6 @@
       "en": "The theatrical release of Robert Eggers' medieval horror film.",
       "es": "El estreno en cines de la película de terror medieval de Robert Eggers.",
       "it": "L'uscita nelle sale del film horror medievale di Robert Eggers."
-    }
-  },
-  {
-    "id": "duskfade-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Duskfade",
-      "es": "Duskfade",
-      "it": "Duskfade"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Weird Beluga's action platformer.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de plataformas y acción de Weird Beluga.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del platform d'azione di Weird Beluga."
     }
   },
   {
@@ -1560,72 +1494,6 @@
       "es": "Día inaugural del Campeonato Mundial de Atletismo en Pekín, previsto del 11 al 19 de septiembre.",
       "it": "Giornata inaugurale dei Campionati mondiali di atletica a Pechino, in programma dall'11 al 19 settembre."
     }
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q139998138",
-      "es": "Q139998138",
-      "it": "Q139998138"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q139998138.",
-      "es": "El lanzamiento previsto de Q139998138 para Nintendo.",
-      "it": "L'uscita prevista di Q139998138 per Nintendo."
-    },
-    "id": "q139998138-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Grave Seasons",
-      "es": "Grave Seasons",
-      "it": "Grave Seasons"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-14",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Grave Seasons.",
-      "es": "El lanzamiento previsto de Grave Seasons para Nintendo.",
-      "it": "L'uscita prevista di Grave Seasons per Nintendo."
-    },
-    "id": "grave-seasons-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Backyard Baseball",
-      "es": "Backyard Baseball",
-      "it": "Backyard Baseball"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-18",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Backyard Baseball.",
-      "es": "El lanzamiento previsto de Backyard Baseball para Nintendo.",
-      "it": "L'uscita prevista di Backyard Baseball per Nintendo."
-    },
-    "id": "backyard-baseball-2026"
   },
   {
     "category": "Special Event",
@@ -1828,160 +1696,6 @@
   {
     "category": "Special Event",
     "localizedNames": {
-      "en": "Hell Let Loose: Vietnam",
-      "es": "Hell Let Loose: Vietnam",
-      "it": "Hell Let Loose: Vietnam"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Hell Let Loose: Vietnam.",
-      "es": "El lanzamiento previsto de Hell Let Loose: Vietnam para PlayStation.",
-      "it": "L'uscita prevista di Hell Let Loose: Vietnam per PlayStation."
-    },
-    "id": "hell-let-loose-vietnam-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q133265977",
-      "es": "Q133265977",
-      "it": "Q133265977"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q133265977.",
-      "es": "El lanzamiento previsto de Q133265977 para PlayStation.",
-      "it": "L'uscita prevista di Q133265977 per PlayStation."
-    },
-    "id": "q133265977-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q133857864",
-      "es": "Q133857864",
-      "it": "Q133857864"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q133857864.",
-      "es": "El lanzamiento previsto de Q133857864 para PlayStation.",
-      "it": "L'uscita prevista di Q133857864 per PlayStation."
-    },
-    "id": "q133857864-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q137212316",
-      "es": "Q137212316",
-      "it": "Q137212316"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q137212316.",
-      "es": "El lanzamiento previsto de Q137212316 para PlayStation.",
-      "it": "L'uscita prevista di Q137212316 per PlayStation."
-    },
-    "id": "q137212316-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140561860",
-      "es": "Q140561860",
-      "it": "Q140561860"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-17",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q140561860.",
-      "es": "El lanzamiento previsto de Q140561860 para PlayStation.",
-      "it": "L'uscita prevista di Q140561860 per PlayStation."
-    },
-    "id": "q140561860-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q139690444",
-      "es": "Q139690444",
-      "it": "Q139690444"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-18",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q139690444.",
-      "es": "El lanzamiento previsto de Q139690444 para PlayStation.",
-      "it": "L'uscita prevista di Q139690444 per PlayStation."
-    },
-    "id": "q139690444-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Starsand Island",
-      "es": "Starsand Island",
-      "it": "Starsand Island"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-18",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Starsand Island.",
-      "es": "El lanzamiento previsto de Starsand Island para PlayStation.",
-      "it": "L'uscita prevista di Starsand Island per PlayStation."
-    },
-    "id": "starsand-island-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
       "en": "Q134723219",
       "es": "Q134723219",
       "it": "Q134723219"
@@ -2000,556 +1714,6 @@
       "it": "L'uscita prevista di Q134723219 per PlayStation."
     },
     "id": "q134723219-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Akatori",
-      "es": "Akatori",
-      "it": "Akatori"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-12",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Akatori.",
-      "es": "El lanzamiento previsto de Akatori para PlayStation.",
-      "it": "L'uscita prevista di Akatori per PlayStation."
-    },
-    "id": "akatori-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Okay! Madam 2",
-      "es": "Okay! Madam 2",
-      "it": "Okay! Madam 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-12",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Okay! Madam 2.",
-      "es": "El estreno cinematográfico previsto de Okay! Madam 2.",
-      "it": "L'uscita cinematografica prevista di Okay! Madam 2."
-    },
-    "id": "okay-madam-2-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Pro Jank Footy",
-      "es": "Pro Jank Footy",
-      "it": "Pro Jank Footy"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-12",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Pro Jank Footy.",
-      "es": "El lanzamiento previsto de Pro Jank Footy para PlayStation.",
-      "it": "L'uscita prevista di Pro Jank Footy per PlayStation."
-    },
-    "id": "pro-jank-footy-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140770607",
-      "es": "Q140770607",
-      "it": "Q140770607"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-12",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q140770607.",
-      "es": "El estreno cinematográfico previsto de Q140770607.",
-      "it": "L'uscita cinematografica prevista di Q140770607."
-    },
-    "id": "q140770607-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140770644",
-      "es": "Q140770644",
-      "it": "Q140770644"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-12",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q140770644.",
-      "es": "El estreno cinematográfico previsto de Q140770644.",
-      "it": "L'uscita cinematografica prevista di Q140770644."
-    },
-    "id": "q140770644-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "BlazBlue Entropy Effect X",
-      "es": "BlazBlue Entropy Effect X",
-      "it": "BlazBlue Entropy Effect X"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of BlazBlue Entropy Effect X.",
-      "es": "El lanzamiento previsto de BlazBlue Entropy Effect X para PlayStation.",
-      "it": "L'uscita prevista di BlazBlue Entropy Effect X per PlayStation."
-    },
-    "id": "blazblue-entropy-effect-x-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Cobra",
-      "es": "Cobra",
-      "it": "Cobra"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Cobra.",
-      "es": "El estreno cinematográfico previsto de Cobra.",
-      "it": "L'uscita cinematografica prevista di Cobra."
-    },
-    "id": "cobra-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Exit 8",
-      "es": "Exit 8",
-      "it": "Exit 8"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Exit 8.",
-      "es": "El estreno cinematográfico previsto de Exit 8.",
-      "it": "L'uscita cinematografica prevista di Exit 8."
-    },
-    "id": "exit-8-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Finding Connection",
-      "es": "Finding Connection",
-      "it": "Finding Connection"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Finding Connection.",
-      "es": "El estreno cinematográfico previsto de Finding Connection.",
-      "it": "L'uscita cinematografica prevista di Finding Connection."
-    },
-    "id": "finding-connection-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Funeral Casino Blues",
-      "es": "Funeral Casino Blues",
-      "it": "Funeral Casino Blues"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Funeral Casino Blues.",
-      "es": "El estreno cinematográfico previsto de Funeral Casino Blues.",
-      "it": "L'uscita cinematografica prevista di Funeral Casino Blues."
-    },
-    "id": "funeral-casino-blues-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Kuzma: Extremely Happy",
-      "es": "Kuzma: Extremely Happy",
-      "it": "Kuzma: Extremely Happy"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Kuzma: Extremely Happy.",
-      "es": "El estreno cinematográfico previsto de Kuzma: Extremely Happy.",
-      "it": "L'uscita cinematografica prevista di Kuzma: Extremely Happy."
-    },
-    "id": "kuzma-extremely-happy-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Let It Rain",
-      "es": "Let It Rain",
-      "it": "Let It Rain"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Let It Rain.",
-      "es": "El estreno cinematográfico previsto de Let It Rain.",
-      "it": "L'uscita cinematografica prevista di Let It Rain."
-    },
-    "id": "let-it-rain-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Menherarium",
-      "es": "Menherarium",
-      "it": "Menherarium"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Menherarium.",
-      "es": "El lanzamiento previsto de Menherarium para Nintendo.",
-      "it": "L'uscita prevista di Menherarium per Nintendo."
-    },
-    "id": "menherarium-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "One Night Only",
-      "es": "One Night Only",
-      "it": "One Night Only"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of One Night Only.",
-      "es": "El estreno cinematográfico previsto de One Night Only.",
-      "it": "L'uscita cinematografica prevista di One Night Only."
-    },
-    "id": "one-night-only-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Perumahan Laddaland",
-      "es": "Perumahan Laddaland",
-      "it": "Perumahan Laddaland"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Perumahan Laddaland.",
-      "es": "El estreno cinematográfico previsto de Perumahan Laddaland.",
-      "it": "L'uscita cinematografica prevista di Perumahan Laddaland."
-    },
-    "id": "perumahan-laddaland-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140395068",
-      "es": "Q140395068",
-      "it": "Q140395068"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q140395068.",
-      "es": "El estreno cinematográfico previsto de Q140395068.",
-      "it": "L'uscita cinematografica prevista di Q140395068."
-    },
-    "id": "q140395068-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q141016547",
-      "es": "Q141016547",
-      "it": "Q141016547"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q141016547.",
-      "es": "El estreno cinematográfico previsto de Q141016547.",
-      "it": "L'uscita cinematografica prevista di Q141016547."
-    },
-    "id": "q141016547-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Seni Merayu Tuhan",
-      "es": "Seni Merayu Tuhan",
-      "it": "Seni Merayu Tuhan"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Seni Merayu Tuhan.",
-      "es": "El estreno cinematográfico previsto de Seni Merayu Tuhan.",
-      "it": "L'uscita cinematografica prevista di Seni Merayu Tuhan."
-    },
-    "id": "seni-merayu-tuhan-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Skatesterre",
-      "es": "Skatesterre",
-      "it": "Skatesterre"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Skatesterre.",
-      "es": "El lanzamiento previsto de Skatesterre para PlayStation.",
-      "it": "L'uscita prevista di Skatesterre per PlayStation."
-    },
-    "id": "skatesterre-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Steckerlfischfiasko",
-      "es": "Steckerlfischfiasko",
-      "it": "Steckerlfischfiasko"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Steckerlfischfiasko.",
-      "es": "El estreno cinematográfico previsto de Steckerlfischfiasko.",
-      "it": "L'uscita cinematografica prevista di Steckerlfischfiasko."
-    },
-    "id": "steckerlfischfiasko-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Sunny Dancer",
-      "es": "Sunny Dancer",
-      "it": "Sunny Dancer"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Sunny Dancer.",
-      "es": "El estreno cinematográfico previsto de Sunny Dancer.",
-      "it": "L'uscita cinematografica prevista di Sunny Dancer."
-    },
-    "id": "sunny-dancer-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The End of Oak Street",
-      "es": "The End of Oak Street",
-      "it": "The End of Oak Street"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The End of Oak Street.",
-      "es": "El estreno cinematográfico previsto de The End of Oak Street.",
-      "it": "L'uscita cinematografica prevista di The End of Oak Street."
-    },
-    "id": "the-end-of-oak-street-2-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The Eyes of Others",
-      "es": "The Eyes of Others",
-      "it": "The Eyes of Others"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Eyes of Others.",
-      "es": "El estreno cinematográfico previsto de The Eyes of Others.",
-      "it": "L'uscita cinematografica prevista di The Eyes of Others."
-    },
-    "id": "the-eyes-of-others-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Class Reunion",
-      "es": "Class Reunion",
-      "it": "Class Reunion"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-14",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Class Reunion.",
-      "es": "El estreno cinematográfico previsto de Class Reunion.",
-      "it": "L'uscita cinematografica prevista di Class Reunion."
-    },
-    "id": "class-reunion-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Don't Say Good Luck",
-      "es": "Don't Say Good Luck",
-      "it": "Don't Say Good Luck"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-14",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Don't Say Good Luck.",
-      "es": "El estreno cinematográfico previsto de Don't Say Good Luck.",
-      "it": "L'uscita cinematografica prevista di Don't Say Good Luck."
-    },
-    "id": "don-t-say-good-luck-2026"
   },
   {
     "category": "Special Event",
@@ -2704,5 +1868,621 @@
       "it": "L'uscita prevista di Q140043279 per Nintendo."
     },
     "id": "q140043279-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Moana",
+      "es": "Moana",
+      "it": "Moana"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-19",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Moana.",
+      "es": "El estreno cinematográfico previsto de Moana.",
+      "it": "L'uscita cinematografica prevista di Moana."
+    },
+    "id": "moana-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Mrs. Lama",
+      "es": "Mrs. Lama",
+      "it": "Mrs. Lama"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-19",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Mrs. Lama.",
+      "es": "El estreno cinematográfico previsto de Mrs. Lama.",
+      "it": "L'uscita cinematografica prevista di Mrs. Lama."
+    },
+    "id": "mrs-lama-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q140770699",
+      "es": "Q140770699",
+      "it": "Q140770699"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-19",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Q140770699.",
+      "es": "El estreno cinematográfico previsto de Q140770699.",
+      "it": "L'uscita cinematografica prevista di Q140770699."
+    },
+    "id": "q140770699-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "1000xResist",
+      "es": "1000xResist",
+      "it": "1000xResist"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of 1000xResist.",
+      "es": "El lanzamiento previsto de 1000xResist para Nintendo.",
+      "it": "L'uscita prevista di 1000xResist per Nintendo."
+    },
+    "id": "1000xresist-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "All My Sisters",
+      "es": "All My Sisters",
+      "it": "All My Sisters"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of All My Sisters.",
+      "es": "El estreno cinematográfico previsto de All My Sisters.",
+      "it": "L'uscita cinematografica prevista di All My Sisters."
+    },
+    "id": "all-my-sisters-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Ayah, Aku Mau Cerita",
+      "es": "Ayah, Aku Mau Cerita",
+      "it": "Ayah, Aku Mau Cerita"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Ayah, Aku Mau Cerita.",
+      "es": "El estreno cinematográfico previsto de Ayah, Aku Mau Cerita.",
+      "it": "L'uscita cinematografica prevista di Ayah, Aku Mau Cerita."
+    },
+    "id": "ayah-aku-mau-cerita-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Chica Checa",
+      "es": "Chica Checa",
+      "it": "Chica Checa"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Chica Checa.",
+      "es": "El estreno cinematográfico previsto de Chica Checa.",
+      "it": "L'uscita cinematografica prevista di Chica Checa."
+    },
+    "id": "chica-checa-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Hiddensee",
+      "es": "Hiddensee",
+      "it": "Hiddensee"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Hiddensee.",
+      "es": "El estreno cinematográfico previsto de Hiddensee.",
+      "it": "L'uscita cinematografica prevista di Hiddensee."
+    },
+    "id": "hiddensee-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Insidious: Out of the Further",
+      "es": "Insidious: Out of the Further",
+      "it": "Insidious: Out of the Further"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Insidious: Out of the Further.",
+      "es": "El estreno cinematográfico previsto de Insidious: Out of the Further.",
+      "it": "L'uscita cinematografica prevista di Insidious: Out of the Further."
+    },
+    "id": "insidious-out-of-the-further-2-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Marsupilami",
+      "es": "Marsupilami",
+      "it": "Marsupilami"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Marsupilami.",
+      "es": "El estreno cinematográfico previsto de Marsupilami.",
+      "it": "L'uscita cinematografica prevista di Marsupilami."
+    },
+    "id": "marsupilami-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Miss Moxy",
+      "es": "Miss Moxy",
+      "it": "Miss Moxy"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Miss Moxy.",
+      "es": "El estreno cinematográfico previsto de Miss Moxy.",
+      "it": "L'uscita cinematografica prevista di Miss Moxy."
+    },
+    "id": "miss-moxy-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q140389922",
+      "es": "Q140389922",
+      "it": "Q140389922"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Q140389922.",
+      "es": "El estreno cinematográfico previsto de Q140389922.",
+      "it": "L'uscita cinematografica prevista di Q140389922."
+    },
+    "id": "q140389922-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Red Rue Express",
+      "es": "Red Rue Express",
+      "it": "Red Rue Express"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Red Rue Express.",
+      "es": "El estreno cinematográfico previsto de Red Rue Express.",
+      "it": "L'uscita cinematografica prevista di Red Rue Express."
+    },
+    "id": "red-rue-express-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Salt and Water",
+      "es": "Salt and Water",
+      "it": "Salt and Water"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Salt and Water.",
+      "es": "El estreno cinematográfico previsto de Salt and Water.",
+      "it": "L'uscita cinematografica prevista di Salt and Water."
+    },
+    "id": "salt-and-water-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Teenage Sex and Death at Camp Miasma",
+      "es": "Teenage Sex and Death at Camp Miasma",
+      "it": "Teenage Sex and Death at Camp Miasma"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Teenage Sex and Death at Camp Miasma.",
+      "es": "El estreno cinematográfico previsto de Teenage Sex and Death at Camp Miasma.",
+      "it": "L'uscita cinematografica prevista di Teenage Sex and Death at Camp Miasma."
+    },
+    "id": "teenage-sex-and-death-at-camp-miasma-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Inte ett riktigt jobb",
+      "es": "Inte ett riktigt jobb",
+      "it": "Inte ett riktigt jobb"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Inte ett riktigt jobb.",
+      "es": "El estreno cinematográfico previsto de Inte ett riktigt jobb.",
+      "it": "L'uscita cinematografica prevista di Inte ett riktigt jobb."
+    },
+    "id": "inte-ett-riktigt-jobb-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "It Ends",
+      "es": "It Ends",
+      "it": "It Ends"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of It Ends.",
+      "es": "El estreno cinematográfico previsto de It Ends.",
+      "it": "L'uscita cinematografica prevista di It Ends."
+    },
+    "id": "it-ends-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Mutiny",
+      "es": "Mutiny",
+      "it": "Mutiny"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Mutiny.",
+      "es": "El estreno cinematográfico previsto de Mutiny.",
+      "it": "L'uscita cinematografica prevista di Mutiny."
+    },
+    "id": "mutiny-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Shiranuhi",
+      "es": "Shiranuhi",
+      "it": "Shiranuhi"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Shiranuhi.",
+      "es": "El estreno cinematográfico previsto de Shiranuhi.",
+      "it": "L'uscita cinematografica prevista di Shiranuhi."
+    },
+    "id": "shiranuhi-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "When Joseph Returns...",
+      "es": "When Joseph Returns...",
+      "it": "When Joseph Returns..."
+    },
+    "allDay": true,
+    "dueDate": "2026-08-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of When Joseph Returns....",
+      "es": "El estreno cinematográfico previsto de When Joseph Returns....",
+      "it": "L'uscita cinematografica prevista di When Joseph Returns...."
+    },
+    "id": "when-joseph-returns-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Neptunia: Unlimited",
+      "es": "Neptunia: Unlimited",
+      "it": "Neptunia: Unlimited"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-27",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Neptunia: Unlimited.",
+      "es": "El lanzamiento previsto de Neptunia: Unlimited para Nintendo.",
+      "it": "L'uscita prevista di Neptunia: Unlimited per Nintendo."
+    },
+    "id": "neptunia-unlimited-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q135319563",
+      "es": "Q135319563",
+      "it": "Q135319563"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-27",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Q135319563.",
+      "es": "El lanzamiento previsto de Q135319563 para Nintendo.",
+      "it": "L'uscita prevista di Q135319563 per Nintendo."
+    },
+    "id": "q135319563-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Whisper of the House",
+      "es": "Whisper of the House",
+      "it": "Whisper of the House"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-27",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Whisper of the House.",
+      "es": "El lanzamiento previsto de Whisper of the House para Nintendo.",
+      "it": "L'uscita prevista di Whisper of the House per Nintendo."
+    },
+    "id": "whisper-of-the-house-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Captain Tsubasa II: World Fighters",
+      "es": "Captain Tsubasa II: World Fighters",
+      "it": "Captain Tsubasa II: World Fighters"
+    },
+    "allDay": true,
+    "dueDate": "2026-08-28",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Captain Tsubasa II: World Fighters.",
+      "es": "El lanzamiento previsto de Captain Tsubasa II: World Fighters para Nintendo.",
+      "it": "L'uscita prevista di Captain Tsubasa II: World Fighters per Nintendo."
+    },
+    "id": "captain-tsubasa-ii-world-fighters-2-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q139594681",
+      "es": "Q139594681",
+      "it": "Q139594681"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-01",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Q139594681.",
+      "es": "El lanzamiento previsto de Q139594681 para Nintendo.",
+      "it": "L'uscita prevista di Q139594681 per Nintendo."
+    },
+    "id": "q139594681-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q139620447",
+      "es": "Q139620447",
+      "it": "Q139620447"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-01",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Q139620447.",
+      "es": "El lanzamiento previsto de Q139620447 para Nintendo.",
+      "it": "L'uscita prevista di Q139620447 per Nintendo."
+    },
+    "id": "q139620447-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Q139880959",
+      "es": "Q139880959",
+      "it": "Q139880959"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-01",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Q139880959.",
+      "es": "El lanzamiento previsto de Q139880959 para Nintendo.",
+      "it": "L'uscita prevista di Q139880959 per Nintendo."
+    },
+    "id": "q139880959-2026"
+  },
+  {
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Angeline Era",
+      "es": "Angeline Era",
+      "it": "Angeline Era"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Angeline Era.",
+      "es": "El lanzamiento previsto de Angeline Era para Nintendo.",
+      "it": "L'uscita prevista di Angeline Era per Nintendo."
+    },
+    "id": "angeline-era-2026"
   }
 ]
