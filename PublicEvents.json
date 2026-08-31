@@ -338,7 +338,7 @@
       "it": "Clayface"
     },
     "allDay": true,
-    "dueDate": "2026-09-11",
+    "dueDate": "2026-10-23",
     "icon": "film.fill",
     "color": "purple",
     "repeatEvent": "Never",
@@ -566,9 +566,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Metal Gear Solid: Master Collection Vol. 2.",
-      "es": "El lanzamiento previsto de Metal Gear Solid: Master Collection Vol. 2 para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Metal Gear Solid: Master Collection Vol. 2 per PlayStation 5 e Nintendo Switch 2."
+      "en": "The scheduled PlayStation 5 release of Metal Gear Solid: Master Collection Vol. 2.",
+      "es": "El lanzamiento previsto de Metal Gear Solid: Master Collection Vol. 2 para PlayStation 5.",
+      "it": "L'uscita prevista di Metal Gear Solid: Master Collection Vol. 2 per PlayStation 5."
     }
   },
   {
@@ -1152,7 +1152,7 @@
       "it": "Practical Magic 2"
     },
     "allDay": true,
-    "dueDate": "2026-09-11",
+    "dueDate": "2026-09-10",
     "icon": "film.fill",
     "color": "purple",
     "repeatEvent": "Never",
@@ -1564,28 +1564,6 @@
   {
     "category": "Special Event",
     "localizedNames": {
-      "en": "Captain Tsubasa II: World Fighters",
-      "es": "Captain Tsubasa II: World Fighters",
-      "it": "Captain Tsubasa II: World Fighters"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Captain Tsubasa II: World Fighters.",
-      "es": "El lanzamiento previsto de Captain Tsubasa II: World Fighters para Nintendo.",
-      "it": "L'uscita prevista di Captain Tsubasa II: World Fighters per Nintendo."
-    },
-    "id": "captain-tsubasa-ii-world-fighters-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
       "en": "Q135579894",
       "es": "Q135579894",
       "it": "Q135579894"
@@ -1716,11 +1694,11 @@
     "id": "whisper-of-the-house-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
-      "en": "Captain Tsubasa II: World Fighters",
-      "es": "Captain Tsubasa II: World Fighters",
-      "it": "Captain Tsubasa II: World Fighters"
+      "en": "Captain Tsubasa 2: World Fighters",
+      "es": "Captain Tsubasa 2: World Fighters",
+      "it": "Captain Tsubasa 2: World Fighters"
     },
     "allDay": true,
     "dueDate": "2026-08-28",
@@ -1731,11 +1709,11 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Captain Tsubasa II: World Fighters.",
-      "es": "El lanzamiento previsto de Captain Tsubasa II: World Fighters para Nintendo.",
-      "it": "L'uscita prevista di Captain Tsubasa II: World Fighters per Nintendo."
+      "en": "The scheduled PlayStation 5 release of Captain Tsubasa 2: World Fighters.",
+      "es": "El lanzamiento previsto de Captain Tsubasa 2: World Fighters para PlayStation 5.",
+      "it": "L'uscita prevista di Captain Tsubasa 2: World Fighters per PlayStation 5."
     },
-    "id": "captain-tsubasa-ii-world-fighters-2-2026"
+    "id": "captain-tsubasa-2-world-fighters-ps5-2026"
   },
   {
     "category": "Special Event",
@@ -1826,14 +1804,14 @@
     "id": "angeline-era-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Brigandine: Abyss",
       "es": "Brigandine: Abyss",
       "it": "Brigandine: Abyss"
     },
     "allDay": true,
-    "dueDate": "2026-08-26",
+    "dueDate": "2026-08-27",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -1841,121 +1819,11 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Brigandine: Abyss.",
-      "es": "El lanzamiento previsto de Brigandine: Abyss para PlayStation.",
-      "it": "L'uscita prevista di Brigandine: Abyss per PlayStation."
+      "en": "The scheduled PlayStation 5 release of Brigandine: Abyss.",
+      "es": "El lanzamiento previsto de Brigandine: Abyss para PlayStation 5.",
+      "it": "L'uscita prevista di Brigandine: Abyss per PlayStation 5."
     },
-    "id": "brigandine-abyss-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Tad and the Magic Lamp",
-      "es": "Tad and the Magic Lamp",
-      "it": "Tad and the Magic Lamp"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-26",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Tad and the Magic Lamp.",
-      "es": "El estreno cinematográfico previsto de Tad and the Magic Lamp.",
-      "it": "L'uscita cinematografica prevista di Tad and the Magic Lamp."
-    },
-    "id": "tad-and-the-magic-lamp-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The Beloved",
-      "es": "The Beloved",
-      "it": "The Beloved"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-26",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Beloved.",
-      "es": "El estreno cinematográfico previsto de The Beloved.",
-      "it": "L'uscita cinematografica prevista di The Beloved."
-    },
-    "id": "the-beloved-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The Last Sunrise",
-      "es": "The Last Sunrise",
-      "it": "The Last Sunrise"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-26",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Last Sunrise.",
-      "es": "El estreno cinematográfico previsto de The Last Sunrise.",
-      "it": "L'uscita cinematografica prevista di The Last Sunrise."
-    },
-    "id": "the-last-sunrise-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The Unknown",
-      "es": "The Unknown",
-      "it": "The Unknown"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-26",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Unknown.",
-      "es": "El estreno cinematográfico previsto de The Unknown.",
-      "it": "L'uscita cinematografica prevista di The Unknown."
-    },
-    "id": "the-unknown-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Toxic: A Fairy Tale for Grown-Ups",
-      "es": "Toxic: A Fairy Tale for Grown-Ups",
-      "it": "Toxic: A Fairy Tale for Grown-Ups"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-26",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Toxic: A Fairy Tale for Grown-Ups.",
-      "es": "El estreno cinematográfico previsto de Toxic: A Fairy Tale for Grown-Ups.",
-      "it": "L'uscita cinematografica prevista di Toxic: A Fairy Tale for Grown-Ups."
-    },
-    "id": "toxic-a-fairy-tale-for-grown-ups-2026"
+    "id": "brigandine-abyss-ps5-2026"
   },
   {
     "category": "Special Event",
