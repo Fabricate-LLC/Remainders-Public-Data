@@ -18,6 +18,8 @@ SCHEMA_PATH = REPOSITORY_ROOT / "PublicEvents.schema.json"
 REQUIRED_LOCALES = {"en", "es", "it"}
 MAXIMUM_CATALOG_BYTE_COUNT = 1_048_576
 IDENTIFIER_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*-([0-9]{4})$")
+FALLBACK_TITLE_PATTERN = re.compile(r"^Q[0-9]+$")
+MOVIE_ICONS = {"film.fill", "popcorn.fill"}
 
 
 def reject_duplicate_keys(pairs: list[tuple[str, Any]]) -> dict[str, Any]:
@@ -54,7 +56,13 @@ def is_number_or_none(value: Any) -> bool:
     )
 
 
-def validate_localized_text(value: Any, field_path: str, errors: list[str]) -> None:
+def validate_localized_text(
+    value: Any,
+    field_path: str,
+    errors: list[str],
+    *,
+    reject_fallback_titles: bool = False,
+) -> None:
     """Validate exact English, Spanish, and Italian localized string entries."""
     if not isinstance(value, dict):
         errors.append(f"{field_path} must be an object")
@@ -70,6 +78,8 @@ def validate_localized_text(value: Any, field_path: str, errors: list[str]) -> N
     for locale, text in value.items():
         if not isinstance(text, str) or not text.strip():
             errors.append(f"{field_path}.{locale} must be a nonempty string")
+        elif reject_fallback_titles and FALLBACK_TITLE_PATTERN.fullmatch(text.strip()):
+            errors.append(f"{field_path}.{locale} must not be a Q-number fallback title")
 
 
 def validate_event(
@@ -132,8 +142,22 @@ def validate_event(
                 f"found {event[field_name]!r}"
             )
 
-    validate_localized_text(event["localizedNames"], f"{event_path}.localizedNames", errors)
+    validate_localized_text(
+        event["localizedNames"],
+        f"{event_path}.localizedNames",
+        errors,
+        reject_fallback_titles=True,
+    )
     validate_localized_text(event["localizedNotes"], f"{event_path}.localizedNotes", errors)
+
+    category = event["category"]
+    icon = event["icon"]
+    if category == "Game" and icon != "gamecontroller.fill":
+        errors.append(f"{event_path} Game records must use gamecontroller.fill")
+    if category == "Movie" and icon not in MOVIE_ICONS:
+        errors.append(f"{event_path} Movie records must use film.fill or popcorn.fill")
+    if category == "Special Event" and icon in {"gamecontroller.fill", *MOVIE_ICONS}:
+        errors.append(f"{event_path} Special Event records must not use game or movie icons")
 
     if not isinstance(event["allDay"], bool):
         errors.append(f"{event_path}.allDay must be a Boolean")

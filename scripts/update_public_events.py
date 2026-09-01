@@ -3,15 +3,14 @@
 
 The weekly GitHub Actions workflow runs this script after pulling the latest
 repository state. It is intentionally conservative: it removes stale one-off
-entries, extends yearly recurring entries, and uses public Wikidata lookups plus
-curated special-event rules to add dated future movies, PlayStation games,
-Nintendo games, and major special events. Entries without confirmed dates are
-skipped rather than guessed.
+entries, preserves single anchored yearly recurring entries, and uses public
+Wikidata lookups plus curated special-event rules to add dated future movies,
+PlayStation games, Nintendo games, and major special events. Entries without
+confirmed dates are skipped rather than guessed.
 """
 
 from __future__ import annotations
 
-import copy
 import datetime as dt
 import json
 import re
@@ -29,8 +28,8 @@ EVENTS_PATH = ROOT / "PublicEvents.json"
 HORIZON_DAYS = 365
 MAX_ITEMS_PER_MEDIA_KIND = 20
 USER_AGENT = "Remainders-Public-Data weekly updater (public GitHub Actions workflow)"
-YEAR_SUFFIX_RE = re.compile(r"^(?P<base>.+)-(?P<year>\d{4})$")
 NON_ID_CHARS_RE = re.compile(r"[^a-z0-9]+")
+FALLBACK_TITLE_RE = re.compile(r"^Q[0-9]+$")
 
 TRANSLATED_NOTES = {
     "movie": {
@@ -55,7 +54,7 @@ SPECIAL_EVENTS = [
         "id_base": "super-bowl-lxi",
         "name": "Super Bowl LXI",
         "date": "2027-02-14",
-        "icon": "football.fill",
+        "icon": "sportscourt.fill",
         "color": "green",
         "notes": {
             "en": "The NFL championship game for the 2026 season, scheduled for SoFi Stadium.",
@@ -67,7 +66,7 @@ SPECIAL_EVENTS = [
         "id_base": "fifa-world-cup-final",
         "name": "FIFA World Cup Final",
         "date": "2026-07-19",
-        "icon": "soccerball",
+        "icon": "sportscourt.fill",
         "color": "green",
         "notes": {
             "en": "The championship match of the 2026 FIFA World Cup.",
@@ -91,7 +90,7 @@ SPECIAL_EVENTS = [
         "id_base": "summer-olympics-opening-ceremony",
         "name": "Summer Olympics Opening Ceremony",
         "date": "2028-07-14",
-        "icon": "medal.fill",
+        "icon": "sportscourt.fill",
         "color": "orange",
         "notes": {
             "en": "The opening ceremony of the Los Angeles 2028 Olympic Games.",
@@ -116,17 +115,6 @@ def write_events(events: list[dict[str, Any]]) -> None:
         handle.write("\n")
 
 
-def event_base_id(event: dict[str, Any]) -> str:
-    match = YEAR_SUFFIX_RE.fullmatch(str(event["id"]))
-    if not match:
-        raise ValueError(f"Event id does not end with a four-digit year: {event['id']}")
-    return match.group("base")
-
-
-def replace_year_suffix(event_id: str, year: int) -> str:
-    return f"{event_base_id({'id': event_id})}-{year}"
-
-
 def slugify(value: str) -> str:
     slug = NON_ID_CHARS_RE.sub("-", value.lower()).strip("-")
     return slug or "event"
@@ -141,48 +129,6 @@ def unique_id(base: str, due_date: str, existing_ids: set[str]) -> str:
         suffix += 1
     existing_ids.add(candidate)
     return candidate
-
-
-def add_year(due_date: str) -> str | None:
-    date = dt.date.fromisoformat(due_date)
-    try:
-        return date.replace(year=date.year + 1).isoformat()
-    except ValueError:
-        return None
-
-
-def recurring_events_by_base(events: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
-    grouped: dict[str, list[dict[str, Any]]] = {}
-    for event in events:
-        if event.get("repeatEvent") == "Every Year":
-            grouped.setdefault(event_base_id(event), []).append(event)
-    for group in grouped.values():
-        group.sort(key=lambda item: item["dueDate"])
-    return grouped
-
-
-def build_future_recurring_events(events: list[dict[str, Any]], today: dt.date) -> list[dict[str, Any]]:
-    horizon = today + dt.timedelta(days=HORIZON_DAYS)
-    existing_ids = {event["id"] for event in events}
-    additions: list[dict[str, Any]] = []
-    for group in recurring_events_by_base(events).values():
-        latest = group[-1]
-        while dt.date.fromisoformat(latest["dueDate"]) < horizon:
-            next_due_date = add_year(latest["dueDate"])
-            if next_due_date is None:
-                break
-            next_id = replace_year_suffix(latest["id"], int(next_due_date[:4]))
-            if next_id in existing_ids:
-                latest = next(event for event in group if event["id"] == next_id)
-                continue
-            next_event = copy.deepcopy(latest)
-            next_event["id"] = next_id
-            next_event["dueDate"] = next_due_date
-            additions.append(next_event)
-            existing_ids.add(next_id)
-            group.append(next_event)
-            latest = next_event
-    return additions
 
 
 def sparql_query(query: str) -> list[dict[str, Any]]:
@@ -228,12 +174,15 @@ def build_media_events(today: dt.date) -> list[dict[str, Any]]:
     for kind in ("movie", "playstation_game", "nintendo_game"):
         time.sleep(1)
         for row in sparql_query(media_query(kind, today, horizon)):
-            title = row["itemLabel"]["value"]
+            title = row.get("itemLabel", {}).get("value", "").strip()
+            if not title or FALLBACK_TITLE_RE.fullmatch(title):
+                print(f"Skipping {kind} without a verified English title: {title or '<empty>'}")
+                continue
             due_date = row["date"]["value"][:10]
             notes = TRANSLATED_NOTES[kind]
             events.append({
                 "_id_base": title,
-                "category": "Special Event",
+                "category": "Movie" if kind == "movie" else "Game",
                 "localizedNames": {"en": title, "es": title, "it": title},
                 "allDay": True,
                 "dueDate": due_date,
@@ -273,7 +222,12 @@ def build_special_events(today: dt.date) -> list[dict[str, Any]]:
 
 
 def remove_stale_events(events: list[dict[str, Any]], today: dt.date) -> list[dict[str, Any]]:
-    return [event for event in events if dt.date.fromisoformat(event["dueDate"]) >= today]
+    return [
+        event
+        for event in events
+        if event.get("repeatEvent") != "Never"
+        or dt.date.fromisoformat(event["dueDate"]) >= today
+    ]
 
 
 def merge_new_events(events: list[dict[str, Any]], candidates: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -296,19 +250,17 @@ def main() -> int:
     events = load_events()
     before_count = len(events)
     events = remove_stale_events(events, today)
-    recurring_additions = build_future_recurring_events(events, today)
     media_candidates = build_media_events(today)
     special_candidates = build_special_events(today)
-    new_additions = merge_new_events(events + recurring_additions, media_candidates + special_candidates)
-    events.extend(recurring_additions)
+    new_additions = merge_new_events(events, media_candidates + special_candidates)
     events.extend(new_additions)
-    removed_count = before_count - (len(events) - len(recurring_additions) - len(new_additions))
-    if removed_count == 0 and not recurring_additions and not new_additions:
+    removed_count = before_count - (len(events) - len(new_additions))
+    if removed_count == 0 and not new_additions:
         print("PublicEvents.json is already current; no events changed.")
         return 0
     write_events(events)
     print(f"Removed {removed_count} stale event(s).")
-    print(f"Added {len(recurring_additions)} recurring event(s) and {len(new_additions)} discovered event(s).")
+    print(f"Added {len(new_additions)} discovered event(s).")
     return 0
 
 
