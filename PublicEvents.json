@@ -1956,5 +1956,71 @@
       "it": "L'uscita cinematografica prevista di Primetime."
     },
     "id": "primetime-2026"
+  },
+  {
+    "id": "state-of-play-september-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "State of Play",
+      "es": "State of Play",
+      "it": "State of Play"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "play.circle.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "PlayStation's global broadcast on September 3, 2026, scheduled for 6:00 a.m. Pacific Time.",
+      "es": "La emisión global de PlayStation del 3 de septiembre de 2026, prevista para las 6:00 a. m., hora del Pacífico.",
+      "it": "La trasmissione globale di PlayStation del 3 settembre 2026, in programma alle 6:00, ora del Pacifico."
+    }
+  },
+  {
+    "id": "state-of-play-japan-september-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "State of Play Japan",
+      "es": "State of Play Japan",
+      "it": "State of Play Japan"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "play.circle.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "PlayStation's Japan and Asia broadcast on September 3, 2026, scheduled immediately after State of Play.",
+      "es": "La emisión de PlayStation dedicada a Japón y Asia del 3 de septiembre de 2026, prevista inmediatamente después de State of Play.",
+      "it": "La trasmissione PlayStation dedicata al Giappone e all'Asia del 3 settembre 2026, in programma subito dopo State of Play."
+    }
+  },
+  {
+    "id": "apple-event-september-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Apple Event",
+      "es": "Evento de Apple",
+      "it": "Evento Apple"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "play.circle.fill",
+    "color": "indigo",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Apple's special event on September 9, 2026, scheduled for 10:00 a.m. Pacific Time.",
+      "es": "El evento especial de Apple del 9 de septiembre de 2026, previsto para las 10:00 a. m., hora del Pacífico.",
+      "it": "L'evento speciale Apple del 9 settembre 2026, in programma alle 10:00, ora del Pacifico."
+    }
   }
 ]
