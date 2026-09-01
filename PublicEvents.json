@@ -550,72 +550,6 @@
     }
   },
   {
-    "id": "metal-gear-solid-master-collection-vol-2-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Metal Gear Solid: Master Collection Vol. 2",
-      "es": "Metal Gear Solid: Master Collection Vol. 2",
-      "it": "Metal Gear Solid: Master Collection Vol. 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Metal Gear Solid: Master Collection Vol. 2.",
-      "es": "El lanzamiento previsto de Metal Gear Solid: Master Collection Vol. 2 para PlayStation 5.",
-      "it": "L'uscita prevista di Metal Gear Solid: Master Collection Vol. 2 per PlayStation 5."
-    }
-  },
-  {
-    "id": "resonance-a-plague-tale-legacy-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Resonance: A Plague Tale Legacy",
-      "es": "Resonance: A Plague Tale Legacy",
-      "it": "Resonance: A Plague Tale Legacy"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Resonance: A Plague Tale Legacy.",
-      "es": "El lanzamiento previsto de Resonance: A Plague Tale Legacy para PlayStation 5.",
-      "it": "L'uscita prevista di Resonance: A Plague Tale Legacy per PlayStation 5."
-    }
-  },
-  {
-    "id": "star-wars-zero-company-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Star Wars Zero Company",
-      "es": "Star Wars Zero Company",
-      "it": "Star Wars Zero Company"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Star Wars Zero Company.",
-      "es": "El lanzamiento previsto de Star Wars Zero Company para PlayStation 5.",
-      "it": "L'uscita prevista di Star Wars Zero Company per PlayStation 5."
-    }
-  },
-  {
     "id": "the-blood-of-dawnwalker-ps5-2026",
     "category": "Game",
     "localizedNames": {
@@ -792,28 +726,6 @@
     }
   },
   {
-    "id": "elden-ring-tarnished-edition-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Elden Ring: Tarnished Edition",
-      "es": "Elden Ring: Tarnished Edition",
-      "it": "Elden Ring: Tarnished Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-28",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Elden Ring: Tarnished Edition.",
-      "es": "El lanzamiento previsto de Elden Ring: Tarnished Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Elden Ring: Tarnished Edition per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "valheim-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -896,9 +808,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Nihon Falcom's story RPG.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol narrativo de Nihon Falcom.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo narrativo di Nihon Falcom."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Trails in the Sky 2nd Chapter.",
+      "es": "El lanzamiento previsto de Trails in the Sky 2nd Chapter para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Trails in the Sky 2nd Chapter per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1298,28 +1210,6 @@
     }
   },
   {
-    "id": "brigandine-abyss-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Brigandine: Abyss",
-      "es": "Brigandine: Abyss",
-      "it": "Brigandine: Abyss"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "indigo",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of NIS America's strategy RPG.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol estratégico de NIS America.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo strategico di NIS America."
-    }
-  },
-  {
     "id": "onimusha-way-of-the-sword-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1358,9 +1248,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of NIS America's role-playing game.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol de NIS America.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo di NIS America."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of The Legend of Heroes: Trails from Zero.",
+      "es": "El lanzamiento previsto de The Legend of Heroes: Trails from Zero para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di The Legend of Heroes: Trails from Zero per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1380,9 +1270,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of NIS America's role-playing sequel.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 de la secuela de rol de NIS America.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del seguito di ruolo di NIS America."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of The Legend of Heroes: Trails to Azure.",
+      "es": "El lanzamiento previsto de The Legend of Heroes: Trails to Azure para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di The Legend of Heroes: Trails to Azure per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1455,9 +1345,9 @@
     "id": "minecraft-dungeons-ii-switch-2-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Minecraft Dungeons II",
-      "es": "Minecraft Dungeons II",
-      "it": "Minecraft Dungeons II"
+      "en": "Minecraft Dungeons 2",
+      "es": "Minecraft Dungeons 2",
+      "it": "Minecraft Dungeons 2"
     },
     "allDay": true,
     "dueDate": "2026-09-29",
@@ -1468,9 +1358,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 release of Mojang's dungeon-crawling sequel.",
-      "es": "El lanzamiento previsto para Nintendo Switch y Nintendo Switch 2 de la secuela de exploración de mazmorras de Mojang.",
-      "it": "L'uscita prevista per Nintendo Switch e Nintendo Switch 2 del seguito di esplorazione di sotterranei di Mojang."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Minecraft Dungeons 2.",
+      "es": "El lanzamiento previsto de Minecraft Dungeons 2 para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Minecraft Dungeons 2 per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1518,271 +1408,7 @@
     }
   },
   {
-    "id": "christmas-day-2027",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "Christmas Day",
-      "es": "Navidad",
-      "it": "Natale"
-    },
-    "allDay": true,
-    "dueDate": "2027-12-25",
-    "icon": "gift.fill",
-    "color": "red",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A widely observed Christian holiday and cultural celebration.",
-      "es": "Una festividad cristiana y celebración cultural ampliamente observada.",
-      "it": "Una festività cristiana e celebrazione culturale ampiamente osservata."
-    }
-  },
-  {
-    "id": "new-years-day-2028",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "New Year's Day",
-      "es": "Año Nuevo",
-      "it": "Capodanno"
-    },
-    "allDay": true,
-    "dueDate": "2028-01-01",
-    "icon": "fireworks",
-    "color": "purple",
-    "repeatEvent": "Every Year",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The first day of the Gregorian calendar year.",
-      "es": "El primer día del año del calendario gregoriano.",
-      "it": "Il primo giorno dell'anno nel calendario gregoriano."
-    }
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q135579894",
-      "es": "Q135579894",
-      "it": "Q135579894"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q135579894.",
-      "es": "El lanzamiento previsto de Q135579894 para Nintendo.",
-      "it": "L'uscita prevista di Q135579894 per Nintendo."
-    },
-    "id": "q135579894-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q139547255",
-      "es": "Q139547255",
-      "it": "Q139547255"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q139547255.",
-      "es": "El lanzamiento previsto de Q139547255 para Nintendo.",
-      "it": "L'uscita prevista di Q139547255 per Nintendo."
-    },
-    "id": "q139547255-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140043279",
-      "es": "Q140043279",
-      "it": "Q140043279"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q140043279.",
-      "es": "El lanzamiento previsto de Q140043279 para Nintendo.",
-      "it": "L'uscita prevista di Q140043279 per Nintendo."
-    },
-    "id": "q140043279-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Neptunia: Unlimited",
-      "es": "Neptunia: Unlimited",
-      "it": "Neptunia: Unlimited"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Neptunia: Unlimited.",
-      "es": "El lanzamiento previsto de Neptunia: Unlimited para Nintendo.",
-      "it": "L'uscita prevista di Neptunia: Unlimited per Nintendo."
-    },
-    "id": "neptunia-unlimited-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q135319563",
-      "es": "Q135319563",
-      "it": "Q135319563"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q135319563.",
-      "es": "El lanzamiento previsto de Q135319563 para Nintendo.",
-      "it": "L'uscita prevista di Q135319563 per Nintendo."
-    },
-    "id": "q135319563-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Whisper of the House",
-      "es": "Whisper of the House",
-      "it": "Whisper of the House"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Whisper of the House.",
-      "es": "El lanzamiento previsto de Whisper of the House para Nintendo.",
-      "it": "L'uscita prevista di Whisper of the House per Nintendo."
-    },
-    "id": "whisper-of-the-house-2026"
-  },
-  {
     "category": "Game",
-    "localizedNames": {
-      "en": "Captain Tsubasa 2: World Fighters",
-      "es": "Captain Tsubasa 2: World Fighters",
-      "it": "Captain Tsubasa 2: World Fighters"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-28",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Captain Tsubasa 2: World Fighters.",
-      "es": "El lanzamiento previsto de Captain Tsubasa 2: World Fighters para PlayStation 5.",
-      "it": "L'uscita prevista di Captain Tsubasa 2: World Fighters per PlayStation 5."
-    },
-    "id": "captain-tsubasa-2-world-fighters-ps5-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q139594681",
-      "es": "Q139594681",
-      "it": "Q139594681"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-01",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q139594681.",
-      "es": "El lanzamiento previsto de Q139594681 para Nintendo.",
-      "it": "L'uscita prevista di Q139594681 per Nintendo."
-    },
-    "id": "q139594681-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q139620447",
-      "es": "Q139620447",
-      "it": "Q139620447"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-01",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q139620447.",
-      "es": "El lanzamiento previsto de Q139620447 para Nintendo.",
-      "it": "L'uscita prevista di Q139620447 per Nintendo."
-    },
-    "id": "q139620447-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q139880959",
-      "es": "Q139880959",
-      "it": "Q139880959"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-01",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q139880959.",
-      "es": "El lanzamiento previsto de Q139880959 para Nintendo.",
-      "it": "L'uscita prevista di Q139880959 per Nintendo."
-    },
-    "id": "q139880959-2026"
-  },
-  {
-    "category": "Special Event",
     "localizedNames": {
       "en": "Angeline Era",
       "es": "Angeline Era",
@@ -1806,490 +1432,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Brigandine: Abyss",
-      "es": "Brigandine: Abyss",
-      "it": "Brigandine: Abyss"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Brigandine: Abyss.",
-      "es": "El lanzamiento previsto de Brigandine: Abyss para PlayStation 5.",
-      "it": "L'uscita prevista di Brigandine: Abyss per PlayStation 5."
-    },
-    "id": "brigandine-abyss-ps5-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Becoming Kim",
-      "es": "Becoming Kim",
-      "it": "Becoming Kim"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Becoming Kim.",
-      "es": "El estreno cinematográfico previsto de Becoming Kim.",
-      "it": "L'uscita cinematografica prevista di Becoming Kim."
-    },
-    "id": "becoming-kim-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Chelot",
-      "es": "Chelot",
-      "it": "Chelot"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Chelot.",
-      "es": "El estreno cinematográfico previsto de Chelot.",
-      "it": "L'uscita cinematografica prevista di Chelot."
-    },
-    "id": "chelot-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "GHOST: 2 Big To Rig",
-      "es": "GHOST: 2 Big To Rig",
-      "it": "GHOST: 2 Big To Rig"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of GHOST: 2 Big To Rig.",
-      "es": "El estreno cinematográfico previsto de GHOST: 2 Big To Rig.",
-      "it": "L'uscita cinematografica prevista di GHOST: 2 Big To Rig."
-    },
-    "id": "ghost-2-big-to-rig-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Mind Diver",
-      "es": "Mind Diver",
-      "it": "Mind Diver"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Mind Diver.",
-      "es": "El lanzamiento previsto de Mind Diver para PlayStation.",
-      "it": "L'uscita prevista di Mind Diver per PlayStation."
-    },
-    "id": "mind-diver-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "One Night Only",
-      "es": "One Night Only",
-      "it": "One Night Only"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of One Night Only.",
-      "es": "El estreno cinematográfico previsto de One Night Only.",
-      "it": "L'uscita cinematografica prevista di One Night Only."
-    },
-    "id": "one-night-only-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Operasi Pesta Copet",
-      "es": "Operasi Pesta Copet",
-      "it": "Operasi Pesta Copet"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Operasi Pesta Copet.",
-      "es": "El estreno cinematográfico previsto de Operasi Pesta Copet.",
-      "it": "L'uscita cinematografica prevista di Operasi Pesta Copet."
-    },
-    "id": "operasi-pesta-copet-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Paket Santet",
-      "es": "Paket Santet",
-      "it": "Paket Santet"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Paket Santet.",
-      "es": "El estreno cinematográfico previsto de Paket Santet.",
-      "it": "L'uscita cinematografica prevista di Paket Santet."
-    },
-    "id": "paket-santet-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Prosecution",
-      "es": "Prosecution",
-      "it": "Prosecution"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Prosecution.",
-      "es": "El estreno cinematográfico previsto de Prosecution.",
-      "it": "L'uscita cinematografica prevista di Prosecution."
-    },
-    "id": "prosecution-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q134739548",
-      "es": "Q134739548",
-      "it": "Q134739548"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q134739548.",
-      "es": "El lanzamiento previsto de Q134739548 para PlayStation.",
-      "it": "L'uscita prevista di Q134739548 per PlayStation."
-    },
-    "id": "q134739548-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q137850120",
-      "es": "Q137850120",
-      "it": "Q137850120"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q137850120.",
-      "es": "El estreno cinematográfico previsto de Q137850120.",
-      "it": "L'uscita cinematografica prevista di Q137850120."
-    },
-    "id": "q137850120-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q138685400",
-      "es": "Q138685400",
-      "it": "Q138685400"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q138685400.",
-      "es": "El estreno cinematográfico previsto de Q138685400.",
-      "it": "L'uscita cinematografica prevista di Q138685400."
-    },
-    "id": "q138685400-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q138819148",
-      "es": "Q138819148",
-      "it": "Q138819148"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q138819148.",
-      "es": "El estreno cinematográfico previsto de Q138819148.",
-      "it": "L'uscita cinematografica prevista di Q138819148."
-    },
-    "id": "q138819148-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140737622",
-      "es": "Q140737622",
-      "it": "Q140737622"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Q140737622.",
-      "es": "El estreno cinematográfico previsto de Q140737622.",
-      "it": "L'uscita cinematografica prevista di Q140737622."
-    },
-    "id": "q140737622-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Schwarzers Kosmos",
-      "es": "Schwarzers Kosmos",
-      "it": "Schwarzers Kosmos"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Schwarzers Kosmos.",
-      "es": "El estreno cinematográfico previsto de Schwarzers Kosmos.",
-      "it": "L'uscita cinematografica prevista di Schwarzers Kosmos."
-    },
-    "id": "schwarzers-kosmos-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Sonnenstadt",
-      "es": "Sonnenstadt",
-      "it": "Sonnenstadt"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Sonnenstadt.",
-      "es": "El estreno cinematográfico previsto de Sonnenstadt.",
-      "it": "L'uscita cinematografica prevista di Sonnenstadt."
-    },
-    "id": "sonnenstadt-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The Con Artist",
-      "es": "The Con Artist",
-      "it": "The Con Artist"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-27",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Con Artist.",
-      "es": "El estreno cinematográfico previsto de The Con Artist.",
-      "it": "L'uscita cinematografica prevista di The Con Artist."
-    },
-    "id": "the-con-artist-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q64826862",
-      "es": "Q64826862",
-      "it": "Q64826862"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-28",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q64826862.",
-      "es": "El lanzamiento previsto de Q64826862 para PlayStation.",
-      "it": "L'uscita prevista di Q64826862 per PlayStation."
-    },
-    "id": "q64826862-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q138819611",
-      "es": "Q138819611",
-      "it": "Q138819611"
-    },
-    "allDay": true,
-    "dueDate": "2026-08-31",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q138819611.",
-      "es": "El lanzamiento previsto de Q138819611 para PlayStation.",
-      "it": "L'uscita prevista di Q138819611 per PlayStation."
-    },
-    "id": "q138819611-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q137213447",
-      "es": "Q137213447",
-      "it": "Q137213447"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-01",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q137213447.",
-      "es": "El lanzamiento previsto de Q137213447 para PlayStation.",
-      "it": "L'uscita prevista di Q137213447 per PlayStation."
-    },
-    "id": "q137213447-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q137922049",
-      "es": "Q137922049",
-      "it": "Q137922049"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-01",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q137922049.",
-      "es": "El lanzamiento previsto de Q137922049 para PlayStation.",
-      "it": "L'uscita prevista di Q137922049 per PlayStation."
-    },
-    "id": "q137922049-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q138238873",
-      "es": "Q138238873",
-      "it": "Q138238873"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-01",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Q138238873.",
-      "es": "El lanzamiento previsto de Q138238873 para PlayStation.",
-      "it": "L'uscita prevista di Q138238873 per PlayStation."
-    },
-    "id": "q138238873-2026"
-  },
-  {
-    "category": "Special Event",
-    "localizedNames": {
       "en": "Exstetra",
       "es": "Exstetra",
       "it": "Exstetra"
@@ -2310,11 +1452,11 @@
     "id": "exstetra-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
-      "en": "Hashire Hebereke: EX",
-      "es": "Hashire Hebereke: EX",
-      "it": "Hashire Hebereke: EX"
+      "en": "Hashire HEBEREKE: EX",
+      "es": "Hashire HEBEREKE: EX",
+      "it": "Hashire HEBEREKE: EX"
     },
     "allDay": true,
     "dueDate": "2026-09-03",
@@ -2325,14 +1467,14 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Hashire Hebereke: EX.",
-      "es": "El lanzamiento previsto de Hashire Hebereke: EX para Nintendo.",
-      "it": "L'uscita prevista di Hashire Hebereke: EX per Nintendo."
+      "en": "The scheduled Nintendo Switch 2 release of Hashire HEBEREKE: EX.",
+      "es": "El lanzamiento previsto de Hashire HEBEREKE: EX para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Hashire HEBEREKE: EX per Nintendo Switch 2."
     },
     "id": "hashire-hebereke-ex-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "SpeedRunners 2: King of Speed",
       "es": "SpeedRunners 2: King of Speed",
@@ -2354,7 +1496,7 @@
     "id": "speedrunners-2-king-of-speed-2026"
   },
   {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Isle of Reveries",
       "es": "Isle of Reveries",
@@ -2376,29 +1518,7 @@
     "id": "isle-of-reveries-2026"
   },
   {
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Q140142314",
-      "es": "Q140142314",
-      "it": "Q140142314"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Q140142314.",
-      "es": "El lanzamiento previsto de Q140142314 para Nintendo.",
-      "it": "L'uscita prevista di Q140142314 per Nintendo."
-    },
-    "id": "q140142314-2026"
-  },
-  {
-    "category": "Special Event",
+    "category": "Game",
     "localizedNames": {
       "en": "Hazard Pay",
       "es": "Hazard Pay",
@@ -2418,5 +1538,423 @@
       "it": "L'uscita prevista di Hazard Pay per Nintendo."
     },
     "id": "hazard-pay-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Moonlighter 2: The Endless Vault",
+      "es": "Moonlighter 2: The Endless Vault",
+      "it": "Moonlighter 2: The Endless Vault"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Moonlighter 2: The Endless Vault.",
+      "es": "El lanzamiento previsto de Moonlighter 2: The Endless Vault para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Moonlighter 2: The Endless Vault per PlayStation 5 e Nintendo Switch 2."
+    },
+    "id": "moonlighter-2-the-endless-vault-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "NBA 2K27",
+      "es": "NBA 2K27",
+      "it": "NBA 2K27"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-04",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of NBA 2K27.",
+      "es": "El lanzamiento previsto de NBA 2K27 para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di NBA 2K27 per PlayStation 5 e Nintendo Switch 2."
+    },
+    "id": "nba-2k27-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Halloween: The Game",
+      "es": "Halloween: The Game",
+      "it": "Halloween: The Game"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-08",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Halloween: The Game.",
+      "es": "El lanzamiento previsto de Halloween: The Game para PlayStation 5.",
+      "it": "L'uscita prevista di Halloween: The Game per PlayStation 5."
+    },
+    "id": "halloween-the-game-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Mewgenics",
+      "es": "Mewgenics",
+      "it": "Mewgenics"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-08",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Mewgenics.",
+      "es": "El lanzamiento previsto de Mewgenics para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Mewgenics per PlayStation 5 e Nintendo Switch 2."
+    },
+    "id": "mewgenics-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Hope",
+      "es": "Hope",
+      "it": "Hope"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Hope.",
+      "es": "El estreno cinematográfico previsto de Hope.",
+      "it": "L'uscita cinematografica prevista di Hope."
+    },
+    "id": "hope-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Train Sim World 7",
+      "es": "Train Sim World 7",
+      "it": "Train Sim World 7"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Train Sim World 7.",
+      "es": "El lanzamiento previsto de Train Sim World 7 para PlayStation 5.",
+      "it": "L'uscita prevista di Train Sim World 7 per PlayStation 5."
+    },
+    "id": "train-sim-world-7-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Destroy All Humans! 2 - Reprobed",
+      "es": "Destroy All Humans! 2 - Reprobed",
+      "it": "Destroy All Humans! 2 - Reprobed"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Destroy All Humans! 2 - Reprobed.",
+      "es": "El lanzamiento previsto de Destroy All Humans! 2 - Reprobed para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Destroy All Humans! 2 - Reprobed per Nintendo Switch 2."
+    },
+    "id": "destroy-all-humans-2-reprobed-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Aniimo",
+      "es": "Aniimo",
+      "it": "Aniimo"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Aniimo.",
+      "es": "El lanzamiento previsto de Aniimo para PlayStation 5.",
+      "it": "L'uscita prevista di Aniimo per PlayStation 5."
+    },
+    "id": "aniimo-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Woodo",
+      "es": "Woodo",
+      "it": "Woodo"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Woodo.",
+      "es": "El lanzamiento previsto de Woodo para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Woodo per Nintendo Switch 2."
+    },
+    "id": "woodo-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Endless Legend 2",
+      "es": "Endless Legend 2",
+      "it": "Endless Legend 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Endless Legend 2.",
+      "es": "El lanzamiento previsto de Endless Legend 2 para PlayStation 5.",
+      "it": "L'uscita prevista di Endless Legend 2 per PlayStation 5."
+    },
+    "id": "endless-legend-2-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Trine 6: Together in Time",
+      "es": "Trine 6: Together in Time",
+      "it": "Trine 6: Together in Time"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Trine 6: Together in Time.",
+      "es": "El lanzamiento previsto de Trine 6: Together in Time para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Trine 6: Together in Time per Nintendo Switch 2."
+    },
+    "id": "trine-6-together-in-time-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Moomintroll: Winter's Warmth",
+      "es": "Moomintroll: Winter's Warmth",
+      "it": "Moomintroll: Winter's Warmth"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-18",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Moomintroll: Winter's Warmth.",
+      "es": "El lanzamiento previsto de Moomintroll: Winter's Warmth para PlayStation 5.",
+      "it": "L'uscita prevista di Moomintroll: Winter's Warmth per PlayStation 5."
+    },
+    "id": "moomintroll-winters-warmth-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Walking Dead: Streets of Survival",
+      "es": "The Walking Dead: Streets of Survival",
+      "it": "The Walking Dead: Streets of Survival"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-18",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of The Walking Dead: Streets of Survival.",
+      "es": "El lanzamiento previsto de The Walking Dead: Streets of Survival para PlayStation 5.",
+      "it": "L'uscita prevista di The Walking Dead: Streets of Survival per PlayStation 5."
+    },
+    "id": "the-walking-dead-streets-of-survival-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Graveyard Keeper 2",
+      "es": "Graveyard Keeper 2",
+      "it": "Graveyard Keeper 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Graveyard Keeper 2.",
+      "es": "El lanzamiento previsto de Graveyard Keeper 2 para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Graveyard Keeper 2 per PlayStation 5 e Nintendo Switch 2."
+    },
+    "id": "graveyard-keeper-2-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Dune: Awakening",
+      "es": "Dune: Awakening",
+      "it": "Dune: Awakening"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Dune: Awakening.",
+      "es": "El lanzamiento previsto de Dune: Awakening para PlayStation 5.",
+      "it": "L'uscita prevista di Dune: Awakening per PlayStation 5."
+    },
+    "id": "dune-awakening-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "SHINOBI: Art of Vengeance",
+      "es": "SHINOBI: Art of Vengeance",
+      "it": "SHINOBI: Art of Vengeance"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-24",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of SHINOBI: Art of Vengeance.",
+      "es": "El lanzamiento previsto de SHINOBI: Art of Vengeance para Nintendo Switch 2.",
+      "it": "L'uscita prevista di SHINOBI: Art of Vengeance per Nintendo Switch 2."
+    },
+    "id": "shinobi-art-of-vengeance-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Harvest Moon: Echoes of the Valley",
+      "es": "Harvest Moon: Echoes of the Valley",
+      "it": "Harvest Moon: Echoes of the Valley"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-24",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Harvest Moon: Echoes of the Valley.",
+      "es": "El lanzamiento previsto de Harvest Moon: Echoes of the Valley para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Harvest Moon: Echoes of the Valley per Nintendo Switch 2."
+    },
+    "id": "harvest-moon-echoes-of-the-valley-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Avengers: Endgame Encore",
+      "es": "Avengers: Endgame Encore",
+      "it": "Avengers: Endgame Encore"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Avengers: Endgame Encore.",
+      "es": "El estreno cinematográfico previsto de Avengers: Endgame Encore.",
+      "it": "L'uscita cinematografica prevista di Avengers: Endgame Encore."
+    },
+    "id": "avengers-endgame-encore-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Primetime",
+      "es": "Primetime",
+      "it": "Primetime"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Primetime.",
+      "es": "El estreno cinematográfico previsto de Primetime.",
+      "it": "L'uscita cinematografica prevista di Primetime."
+    },
+    "id": "primetime-2026"
   }
 ]
