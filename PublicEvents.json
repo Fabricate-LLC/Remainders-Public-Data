@@ -588,9 +588,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Onimusha: Way of the Sword.",
-      "es": "El lanzamiento previsto de Onimusha: Way of the Sword para PlayStation 5.",
-      "it": "L'uscita prevista di Onimusha: Way of the Sword per PlayStation 5."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Onimusha: Way of the Sword.",
+      "es": "El lanzamiento previsto de Onimusha: Way of the Sword para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Onimusha: Way of the Sword per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -756,7 +756,7 @@
       "it": "Another Eden Begins"
     },
     "allDay": true,
-    "dueDate": "2026-09-17",
+    "dueDate": "2026-09-16",
     "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
@@ -1207,28 +1207,6 @@
       "en": "The theatrical release of Robert Eggers' medieval horror film.",
       "es": "El estreno en cines de la película de terror medieval de Robert Eggers.",
       "it": "L'uscita nelle sale del film horror medievale di Robert Eggers."
-    }
-  },
-  {
-    "id": "onimusha-way-of-the-sword-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Onimusha: Way of the Sword",
-      "es": "Onimusha: Way of the Sword",
-      "it": "Onimusha: Way of the Sword"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-25",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Capcom's sword-fighting action game.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de acción y combate con espadas de Capcom.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del gioco d'azione e combattimento con la spada di Capcom."
     }
   },
   {
@@ -2021,6 +1999,72 @@
       "en": "Apple's special event on September 9, 2026, scheduled for 10:00 a.m. Pacific Time.",
       "es": "El evento especial de Apple del 9 de septiembre de 2026, previsto para las 10:00 a. m., hora del Pacífico.",
       "it": "L'evento speciale Apple del 9 settembre 2026, in programma alle 10:00, ora del Pacifico."
+    }
+  },
+  {
+    "id": "fall-2-deadpoint-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Fall 2: Deadpoint",
+      "es": "Fall 2: Deadpoint",
+      "it": "Fall 2: Deadpoint"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of the survival thriller Fall 2: Deadpoint.",
+      "es": "El estreno cinematográfico previsto del thriller de supervivencia Fall 2: Deadpoint.",
+      "it": "L'uscita cinematografica prevista del thriller di sopravvivenza Fall 2: Deadpoint."
+    }
+  },
+  {
+    "id": "ea-sports-fc-27-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "EA SPORTS FC 27",
+      "es": "EA SPORTS FC 27",
+      "it": "EA SPORTS FC 27"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-25",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of EA SPORTS FC 27.",
+      "es": "El lanzamiento previsto de EA SPORTS FC 27 para Nintendo Switch 2.",
+      "it": "L'uscita prevista di EA SPORTS FC 27 per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "fifa-womens-world-cup-final-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "FIFA Women's World Cup Final",
+      "es": "Final de la Copa Mundial Femenina de la FIFA",
+      "it": "Finale della Coppa del Mondo femminile FIFA"
+    },
+    "allDay": true,
+    "dueDate": "2027-07-25",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The championship match of the 2027 FIFA Women's World Cup at Maracanã Stadium.",
+      "es": "El partido final de la Copa Mundial Femenina de la FIFA 2027 en el Estadio Maracaná.",
+      "it": "La finale della Coppa del Mondo femminile FIFA 2027 allo stadio Maracanã."
     }
   }
 ]

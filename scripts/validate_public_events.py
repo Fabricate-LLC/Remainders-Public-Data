@@ -158,6 +158,10 @@ def validate_event(
         errors.append(f"{event_path} Movie records must use film.fill or popcorn.fill")
     if category == "Special Event" and icon in {"gamecontroller.fill", *MOVIE_ICONS}:
         errors.append(f"{event_path} Special Event records must not use game or movie icons")
+    if category != "Special Event" and icon == "gamecontroller.fill" and category != "Game":
+        errors.append(f"{event_path} gamecontroller.fill records must use the Game category")
+    if category != "Special Event" and icon in MOVIE_ICONS and category != "Movie":
+        errors.append(f"{event_path} movie-icon records must use the Movie category")
 
     if not isinstance(event["allDay"], bool):
         errors.append(f"{event_path}.allDay must be a Boolean")
