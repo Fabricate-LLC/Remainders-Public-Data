@@ -2022,5 +2022,533 @@
       "es": "El evento especial de Apple del 9 de septiembre de 2026, previsto para las 10:00 a. m., hora del Pacífico.",
       "it": "L'evento speciale Apple del 9 settembre 2026, in programma alle 10:00, ora del Pacifico."
     }
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Bucking Fastard",
+      "es": "Bucking Fastard",
+      "it": "Bucking Fastard"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Bucking Fastard.",
+      "es": "El estreno cinematográfico previsto de Bucking Fastard.",
+      "it": "L'uscita cinematografica prevista di Bucking Fastard."
+    },
+    "id": "bucking-fastard-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Dear You",
+      "es": "Dear You",
+      "it": "Dear You"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Dear You.",
+      "es": "El estreno cinematográfico previsto de Dear You.",
+      "it": "L'uscita cinematografica prevista di Dear You."
+    },
+    "id": "dear-you-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Fall 2: Deadpoint",
+      "es": "Fall 2: Deadpoint",
+      "it": "Fall 2: Deadpoint"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Fall 2: Deadpoint.",
+      "es": "El estreno cinematográfico previsto de Fall 2: Deadpoint.",
+      "it": "L'uscita cinematografica prevista di Fall 2: Deadpoint."
+    },
+    "id": "fall-2-deadpoint-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Ink",
+      "es": "Ink",
+      "it": "Ink"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Ink.",
+      "es": "El estreno cinematográfico previsto de Ink.",
+      "it": "L'uscita cinematografica prevista di Ink."
+    },
+    "id": "ink-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Runner",
+      "es": "The Runner",
+      "it": "The Runner"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Runner.",
+      "es": "El estreno cinematográfico previsto de The Runner.",
+      "it": "L'uscita cinematografica prevista di The Runner."
+    },
+    "id": "the-runner-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Autopsy: Dead Body Can Talk",
+      "es": "Autopsy: Dead Body Can Talk",
+      "it": "Autopsy: Dead Body Can Talk"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Autopsy: Dead Body Can Talk.",
+      "es": "El estreno cinematográfico previsto de Autopsy: Dead Body Can Talk.",
+      "it": "L'uscita cinematografica prevista di Autopsy: Dead Body Can Talk."
+    },
+    "id": "autopsy-dead-body-can-talk-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "BioEden",
+      "es": "BioEden",
+      "it": "BioEden"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of BioEden.",
+      "es": "El lanzamiento previsto de BioEden para PlayStation.",
+      "it": "L'uscita prevista di BioEden per PlayStation."
+    },
+    "id": "bioeden-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Dissident",
+      "es": "Dissident",
+      "it": "Dissident"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Dissident.",
+      "es": "El estreno cinematográfico previsto de Dissident.",
+      "it": "L'uscita cinematografica prevista di Dissident."
+    },
+    "id": "dissident-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Dokonalý den",
+      "es": "Dokonalý den",
+      "it": "Dokonalý den"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Dokonalý den.",
+      "es": "El estreno cinematográfico previsto de Dokonalý den.",
+      "it": "L'uscita cinematografica prevista di Dokonalý den."
+    },
+    "id": "dokonal-den-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Ketticè",
+      "es": "Ketticè",
+      "it": "Ketticè"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Ketticè.",
+      "es": "El estreno cinematográfico previsto de Ketticè.",
+      "it": "L'uscita cinematografica prevista di Ketticè."
+    },
+    "id": "kettic-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Mr. Nelson, Did You Kill People?",
+      "es": "Mr. Nelson, Did You Kill People?",
+      "it": "Mr. Nelson, Did You Kill People?"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Mr. Nelson, Did You Kill People?.",
+      "es": "El estreno cinematográfico previsto de Mr. Nelson, Did You Kill People?.",
+      "it": "L'uscita cinematografica prevista di Mr. Nelson, Did You Kill People?."
+    },
+    "id": "mr-nelson-did-you-kill-people-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Onslaught",
+      "es": "Onslaught",
+      "it": "Onslaught"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Onslaught.",
+      "es": "El estreno cinematográfico previsto de Onslaught.",
+      "it": "L'uscita cinematografica prevista di Onslaught."
+    },
+    "id": "onslaught-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Rock Bottom",
+      "es": "Rock Bottom",
+      "it": "Rock Bottom"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Rock Bottom.",
+      "es": "El estreno cinematográfico previsto de Rock Bottom.",
+      "it": "L'uscita cinematografica prevista di Rock Bottom."
+    },
+    "id": "rock-bottom-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Same Sun",
+      "es": "Same Sun",
+      "it": "Same Sun"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Same Sun.",
+      "es": "El estreno cinematográfico previsto de Same Sun.",
+      "it": "L'uscita cinematografica prevista di Same Sun."
+    },
+    "id": "same-sun-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Where the Waves Took Her",
+      "es": "Where the Waves Took Her",
+      "it": "Where the Waves Took Her"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Where the Waves Took Her.",
+      "es": "El estreno cinematográfico previsto de Where the Waves Took Her.",
+      "it": "L'uscita cinematografica prevista di Where the Waves Took Her."
+    },
+    "id": "where-the-waves-took-her-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Who truly knows what a Life is?",
+      "es": "Who truly knows what a Life is?",
+      "it": "Who truly knows what a Life is?"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Who truly knows what a Life is?.",
+      "es": "El estreno cinematográfico previsto de Who truly knows what a Life is?.",
+      "it": "L'uscita cinematografica prevista di Who truly knows what a Life is?."
+    },
+    "id": "who-truly-knows-what-a-life-is-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Wild Horse Nine",
+      "es": "Wild Horse Nine",
+      "it": "Wild Horse Nine"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-03",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Wild Horse Nine.",
+      "es": "El estreno cinematográfico previsto de Wild Horse Nine.",
+      "it": "L'uscita cinematografica prevista di Wild Horse Nine."
+    },
+    "id": "wild-horse-nine-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Honeycomb: The World Beyond",
+      "es": "Honeycomb: The World Beyond",
+      "it": "Honeycomb: The World Beyond"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-08",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Honeycomb: The World Beyond.",
+      "es": "El lanzamiento previsto de Honeycomb: The World Beyond para PlayStation.",
+      "it": "L'uscita prevista di Honeycomb: The World Beyond per PlayStation."
+    },
+    "id": "honeycomb-the-world-beyond-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "TCG Card Shop Simulator",
+      "es": "TCG Card Shop Simulator",
+      "it": "TCG Card Shop Simulator"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of TCG Card Shop Simulator.",
+      "es": "El lanzamiento previsto de TCG Card Shop Simulator para Nintendo.",
+      "it": "L'uscita prevista di TCG Card Shop Simulator per Nintendo."
+    },
+    "id": "tcg-card-shop-simulator-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Fallen Tear: The Ascension",
+      "es": "Fallen Tear: The Ascension",
+      "it": "Fallen Tear: The Ascension"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Fallen Tear: The Ascension.",
+      "es": "El lanzamiento previsto de Fallen Tear: The Ascension para Nintendo.",
+      "it": "L'uscita prevista di Fallen Tear: The Ascension per Nintendo."
+    },
+    "id": "fallen-tear-the-ascension-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Little Witch in the Woods",
+      "es": "Little Witch in the Woods",
+      "it": "Little Witch in the Woods"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Little Witch in the Woods.",
+      "es": "El lanzamiento previsto de Little Witch in the Woods para Nintendo.",
+      "it": "L'uscita prevista di Little Witch in the Woods per Nintendo."
+    },
+    "id": "little-witch-in-the-woods-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "MONOWAVE",
+      "es": "MONOWAVE",
+      "it": "MONOWAVE"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of MONOWAVE.",
+      "es": "El lanzamiento previsto de MONOWAVE para Nintendo.",
+      "it": "L'uscita prevista di MONOWAVE per Nintendo."
+    },
+    "id": "monowave-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Roman Sands RE:Build",
+      "es": "Roman Sands RE:Build",
+      "it": "Roman Sands RE:Build"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Roman Sands RE:Build.",
+      "es": "El lanzamiento previsto de Roman Sands RE:Build para Nintendo.",
+      "it": "L'uscita prevista di Roman Sands RE:Build per Nintendo."
+    },
+    "id": "roman-sands-re-build-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Akiba Lost",
+      "es": "Akiba Lost",
+      "it": "Akiba Lost"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Akiba Lost.",
+      "es": "El lanzamiento previsto de Akiba Lost para Nintendo.",
+      "it": "L'uscita prevista di Akiba Lost per Nintendo."
+    },
+    "id": "akiba-lost-2026"
   }
 ]
