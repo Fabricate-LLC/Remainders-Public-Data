@@ -2176,5 +2176,49 @@
       "es": "El lanzamiento previsto de Final Fantasy VII Revelation para PlayStation 5.",
       "it": "L'uscita prevista di Final Fantasy VII Revelation per PlayStation 5."
     }
+  },
+  {
+    "id": "the-legend-of-zelda-40th-anniversary-direct-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "The Legend of Zelda 40th Anniversary Direct",
+      "es": "Nintendo Direct del 40.º aniversario de The Legend of Zelda",
+      "it": "Nintendo Direct per il 40º anniversario di The Legend of Zelda"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-08",
+    "icon": "play.circle.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Nintendo's approximately 30-minute presentation celebrating The Legend of Zelda's 40th anniversary, scheduled for 7:00 a.m. Pacific Time.",
+      "es": "La presentación de Nintendo de unos 30 minutos por el 40.º aniversario de The Legend of Zelda, prevista para las 7:00 a. m., hora del Pacífico.",
+      "it": "La presentazione Nintendo di circa 30 minuti per il 40º anniversario di The Legend of Zelda, in programma alle 7:00, ora del Pacifico."
+    }
+  },
+  {
+    "id": "nintendo-direct-september-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Nintendo Direct",
+      "es": "Nintendo Direct",
+      "it": "Nintendo Direct"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "play.circle.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Nintendo's approximately 45-minute presentation, scheduled for 7:00 a.m. Pacific Time.",
+      "es": "La presentación de Nintendo de unos 45 minutos, prevista para las 7:00 a. m., hora del Pacífico.",
+      "it": "La presentazione Nintendo di circa 45 minuti, in programma alle 7:00, ora del Pacifico."
+    }
   }
 ]
