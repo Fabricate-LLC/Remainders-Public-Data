@@ -1,27 +1,5 @@
 [
   {
-    "id": "orbitals-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Orbitals",
-      "es": "Orbitals",
-      "it": "Orbitals"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "gamecontroller.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The release of Shapefarm's intergalactic two-player cooperative adventure.",
-      "es": "El lanzamiento de la aventura cooperativa intergaláctica para dos jugadores de Shapefarm.",
-      "it": "L'uscita dell'avventura cooperativa intergalattica per due giocatori di Shapefarm."
-    }
-  },
-  {
     "id": "marvels-wolverine-2026",
     "category": "Game",
     "localizedNames": {
@@ -547,28 +525,6 @@
       "en": "The scheduled theatrical release of Marvel Studios' Avengers: Doomsday.",
       "es": "El estreno cinematográfico previsto de Vengadores: Doomsday, de Marvel Studios.",
       "it": "L'uscita cinematografica prevista di Avengers: Doomsday dei Marvel Studios."
-    }
-  },
-  {
-    "id": "the-blood-of-dawnwalker-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Blood of Dawnwalker",
-      "es": "The Blood of Dawnwalker",
-      "it": "The Blood of Dawnwalker"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of The Blood of Dawnwalker.",
-      "es": "El lanzamiento previsto de The Blood of Dawnwalker para PlayStation 5.",
-      "it": "L'uscita prevista di The Blood of Dawnwalker per PlayStation 5."
     }
   },
   {
@@ -1388,94 +1344,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Angeline Era",
-      "es": "Angeline Era",
-      "it": "Angeline Era"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-02",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Angeline Era.",
-      "es": "El lanzamiento previsto de Angeline Era para Nintendo.",
-      "it": "L'uscita prevista di Angeline Era per Nintendo."
-    },
-    "id": "angeline-era-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Exstetra",
-      "es": "Exstetra",
-      "it": "Exstetra"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Exstetra.",
-      "es": "El lanzamiento previsto de Exstetra para Nintendo.",
-      "it": "L'uscita prevista di Exstetra per Nintendo."
-    },
-    "id": "exstetra-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Hashire HEBEREKE: EX",
-      "es": "Hashire HEBEREKE: EX",
-      "it": "Hashire HEBEREKE: EX"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Hashire HEBEREKE: EX.",
-      "es": "El lanzamiento previsto de Hashire HEBEREKE: EX para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Hashire HEBEREKE: EX per Nintendo Switch 2."
-    },
-    "id": "hashire-hebereke-ex-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "SpeedRunners 2: King of Speed",
-      "es": "SpeedRunners 2: King of Speed",
-      "it": "SpeedRunners 2: King of Speed"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of SpeedRunners 2: King of Speed.",
-      "es": "El lanzamiento previsto de SpeedRunners 2: King of Speed para Nintendo.",
-      "it": "L'uscita prevista di SpeedRunners 2: King of Speed per Nintendo."
-    },
-    "id": "speedrunners-2-king-of-speed-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "Isle of Reveries",
       "es": "Isle of Reveries",
       "it": "Isle of Reveries"
@@ -1516,28 +1384,6 @@
       "it": "L'uscita prevista di Hazard Pay per Nintendo."
     },
     "id": "hazard-pay-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Moonlighter 2: The Endless Vault",
-      "es": "Moonlighter 2: The Endless Vault",
-      "it": "Moonlighter 2: The Endless Vault"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-02",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Moonlighter 2: The Endless Vault.",
-      "es": "El lanzamiento previsto de Moonlighter 2: The Endless Vault para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Moonlighter 2: The Endless Vault per PlayStation 5 e Nintendo Switch 2."
-    },
-    "id": "moonlighter-2-the-endless-vault-2026"
   },
   {
     "category": "Game",
@@ -1936,50 +1782,6 @@
     "id": "primetime-2026"
   },
   {
-    "id": "state-of-play-september-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "State of Play",
-      "es": "State of Play",
-      "it": "State of Play"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "play.circle.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "PlayStation's global broadcast on September 3, 2026, scheduled for 6:00 a.m. Pacific Time.",
-      "es": "La emisión global de PlayStation del 3 de septiembre de 2026, prevista para las 6:00 a. m., hora del Pacífico.",
-      "it": "La trasmissione globale di PlayStation del 3 settembre 2026, in programma alle 6:00, ora del Pacifico."
-    }
-  },
-  {
-    "id": "state-of-play-japan-september-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "State of Play Japan",
-      "es": "State of Play Japan",
-      "it": "State of Play Japan"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-03",
-    "icon": "play.circle.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "PlayStation's Japan and Asia broadcast on September 3, 2026, scheduled immediately after State of Play.",
-      "es": "La emisión de PlayStation dedicada a Japón y Asia del 3 de septiembre de 2026, prevista inmediatamente después de State of Play.",
-      "it": "La trasmissione PlayStation dedicata al Giappone e all'Asia del 3 settembre 2026, in programma subito dopo State of Play."
-    }
-  },
-  {
     "id": "apple-event-september-2026",
     "category": "Special Event",
     "localizedNames": {
@@ -1999,28 +1801,6 @@
       "en": "Apple's special event on September 9, 2026, scheduled for 10:00 a.m. Pacific Time.",
       "es": "El evento especial de Apple del 9 de septiembre de 2026, previsto para las 10:00 a. m., hora del Pacífico.",
       "it": "L'evento speciale Apple del 9 settembre 2026, in programma alle 10:00, ora del Pacifico."
-    }
-  },
-  {
-    "id": "fall-2-deadpoint-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Fall 2: Deadpoint",
-      "es": "Fall 2: Deadpoint",
-      "it": "Fall 2: Deadpoint"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-02",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of the survival thriller Fall 2: Deadpoint.",
-      "es": "El estreno cinematográfico previsto del thriller de supervivencia Fall 2: Deadpoint.",
-      "it": "L'uscita cinematografica prevista del thriller di sopravvivenza Fall 2: Deadpoint."
     }
   },
   {
@@ -2065,6 +1845,182 @@
       "en": "The championship match of the 2027 FIFA Women's World Cup at Maracanã Stadium.",
       "es": "El partido final de la Copa Mundial Femenina de la FIFA 2027 en el Estadio Maracaná.",
       "it": "La finale della Coppa del Mondo femminile FIFA 2027 allo stadio Maracanã."
+    }
+  },
+  {
+    "id": "truck-kun-is-supporting-me-from-another-world-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Truck-kun is Supporting Me from Another World?!",
+      "es": "Truck-kun is Supporting Me from Another World?!",
+      "it": "Truck-kun is Supporting Me from Another World?!"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-14",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Truck-kun is Supporting Me from Another World?! is scheduled for release on Nintendo Switch 2.",
+      "es": "Está previsto el lanzamiento de Truck-kun is Supporting Me from Another World?! para Nintendo Switch 2.",
+      "it": "È prevista l'uscita di Truck-kun is Supporting Me from Another World?! per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "well-dweller-switch-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Well Dweller",
+      "es": "Well Dweller",
+      "it": "Well Dweller"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch release of Well Dweller, playable on Nintendo Switch 2.",
+      "es": "El lanzamiento previsto de Well Dweller para Nintendo Switch, compatible con Nintendo Switch 2.",
+      "it": "L'uscita prevista di Well Dweller per Nintendo Switch, compatibile con Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "valor-mortis-ps5-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Valor Mortis",
+      "es": "Valor Mortis",
+      "it": "Valor Mortis"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-13",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Valor Mortis.",
+      "es": "El lanzamiento previsto de Valor Mortis para PlayStation 5.",
+      "it": "L'uscita prevista di Valor Mortis per PlayStation 5."
+    }
+  },
+  {
+    "id": "path-of-exile-2-ps5-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Path of Exile 2",
+      "es": "Path of Exile 2",
+      "it": "Path of Exile 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-11",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 launch of Path of Exile 2 Version 1.0.",
+      "es": "El lanzamiento previsto de la versión 1.0 de Path of Exile 2 para PlayStation 5.",
+      "it": "Il lancio previsto della versione 1.0 di Path of Exile 2 per PlayStation 5."
+    }
+  },
+  {
+    "id": "until-dawn-2-ps5-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Until Dawn 2",
+      "es": "Until Dawn 2",
+      "it": "Until Dawn 2"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-28",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Until Dawn 2.",
+      "es": "El lanzamiento previsto de Until Dawn 2 para PlayStation 5.",
+      "it": "L'uscita prevista di Until Dawn 2 per PlayStation 5."
+    }
+  },
+  {
+    "id": "fate-extra-record-ps5-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Fate/Extra Record",
+      "es": "Fate/Extra Record",
+      "it": "Fate/Extra Record"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-28",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled worldwide PlayStation 4 and PlayStation 5 release of Fate/Extra Record.",
+      "es": "El lanzamiento mundial previsto de Fate/Extra Record para PlayStation 4 y PlayStation 5.",
+      "it": "L'uscita mondiale prevista di Fate/Extra Record per PlayStation 4 e PlayStation 5."
+    }
+  },
+  {
+    "id": "exodus-ps5-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Exodus",
+      "es": "Exodus",
+      "it": "Exodus"
+    },
+    "allDay": true,
+    "dueDate": "2027-04-07",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Exodus.",
+      "es": "El lanzamiento previsto de Exodus para PlayStation 5.",
+      "it": "L'uscita prevista di Exodus per PlayStation 5."
+    }
+  },
+  {
+    "id": "final-fantasy-vii-revelation-ps5-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Final Fantasy VII Revelation",
+      "es": "Final Fantasy VII Revelation",
+      "it": "Final Fantasy VII Revelation"
+    },
+    "allDay": true,
+    "dueDate": "2027-04-08",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Final Fantasy VII Revelation.",
+      "es": "El lanzamiento previsto de Final Fantasy VII Revelation para PlayStation 5.",
+      "it": "L'uscita prevista di Final Fantasy VII Revelation per PlayStation 5."
     }
   }
 ]
