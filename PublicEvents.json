@@ -1804,6 +1804,160 @@
     }
   },
   {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Honeycomb: The World Beyond",
+      "es": "Honeycomb: The World Beyond",
+      "it": "Honeycomb: The World Beyond"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-08",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Honeycomb: The World Beyond.",
+      "es": "El lanzamiento previsto de Honeycomb: The World Beyond para PlayStation.",
+      "it": "L'uscita prevista di Honeycomb: The World Beyond per PlayStation."
+    },
+    "id": "honeycomb-the-world-beyond-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "TCG Card Shop Simulator",
+      "es": "TCG Card Shop Simulator",
+      "it": "TCG Card Shop Simulator"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of TCG Card Shop Simulator.",
+      "es": "El lanzamiento previsto de TCG Card Shop Simulator para Nintendo.",
+      "it": "L'uscita prevista di TCG Card Shop Simulator per Nintendo."
+    },
+    "id": "tcg-card-shop-simulator-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Fallen Tear: The Ascension",
+      "es": "Fallen Tear: The Ascension",
+      "it": "Fallen Tear: The Ascension"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Fallen Tear: The Ascension.",
+      "es": "El lanzamiento previsto de Fallen Tear: The Ascension para Nintendo.",
+      "it": "L'uscita prevista di Fallen Tear: The Ascension per Nintendo."
+    },
+    "id": "fallen-tear-the-ascension-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Little Witch in the Woods",
+      "es": "Little Witch in the Woods",
+      "it": "Little Witch in the Woods"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Little Witch in the Woods.",
+      "es": "El lanzamiento previsto de Little Witch in the Woods para Nintendo.",
+      "it": "L'uscita prevista di Little Witch in the Woods per Nintendo."
+    },
+    "id": "little-witch-in-the-woods-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "MONOWAVE",
+      "es": "MONOWAVE",
+      "it": "MONOWAVE"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of MONOWAVE.",
+      "es": "El lanzamiento previsto de MONOWAVE para Nintendo.",
+      "it": "L'uscita prevista di MONOWAVE per Nintendo."
+    },
+    "id": "monowave-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Roman Sands RE:Build",
+      "es": "Roman Sands RE:Build",
+      "it": "Roman Sands RE:Build"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Roman Sands RE:Build.",
+      "es": "El lanzamiento previsto de Roman Sands RE:Build para Nintendo.",
+      "it": "L'uscita prevista di Roman Sands RE:Build per Nintendo."
+    },
+    "id": "roman-sands-re-build-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Akiba Lost",
+      "es": "Akiba Lost",
+      "it": "Akiba Lost"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Akiba Lost.",
+      "es": "El lanzamiento previsto de Akiba Lost para Nintendo.",
+      "it": "L'uscita prevista di Akiba Lost per Nintendo."
+    },
+    "id": "akiba-lost-2026"
+  },
+  {
     "id": "ea-sports-fc-27-switch-2-2026",
     "category": "Game",
     "localizedNames": {
