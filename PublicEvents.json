@@ -528,28 +528,6 @@
     }
   },
   {
-    "id": "onimusha-way-of-the-sword-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Onimusha: Way of the Sword",
-      "es": "Onimusha: Way of the Sword",
-      "it": "Onimusha: Way of the Sword"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-04",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Onimusha: Way of the Sword.",
-      "es": "El lanzamiento previsto de Onimusha: Way of the Sword para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Onimusha: Way of the Sword per PlayStation 5 e Nintendo Switch 2."
-    }
-  },
-  {
     "id": "silent-hill-townfall-ps5-2026",
     "category": "Game",
     "localizedNames": {
@@ -1344,28 +1322,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Isle of Reveries",
-      "es": "Isle of Reveries",
-      "it": "Isle of Reveries"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-04",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Isle of Reveries.",
-      "es": "El lanzamiento previsto de Isle of Reveries para Nintendo.",
-      "it": "L'uscita prevista di Isle of Reveries per Nintendo."
-    },
-    "id": "isle-of-reveries-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "Hazard Pay",
       "es": "Hazard Pay",
       "it": "Hazard Pay"
@@ -1384,72 +1340,6 @@
       "it": "L'uscita prevista di Hazard Pay per Nintendo."
     },
     "id": "hazard-pay-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "NBA 2K27",
-      "es": "NBA 2K27",
-      "it": "NBA 2K27"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-04",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of NBA 2K27.",
-      "es": "El lanzamiento previsto de NBA 2K27 para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di NBA 2K27 per PlayStation 5 e Nintendo Switch 2."
-    },
-    "id": "nba-2k27-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Halloween: The Game",
-      "es": "Halloween: The Game",
-      "it": "Halloween: The Game"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Halloween: The Game.",
-      "es": "El lanzamiento previsto de Halloween: The Game para PlayStation 5.",
-      "it": "L'uscita prevista di Halloween: The Game per PlayStation 5."
-    },
-    "id": "halloween-the-game-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Mewgenics",
-      "es": "Mewgenics",
-      "it": "Mewgenics"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Mewgenics.",
-      "es": "El lanzamiento previsto de Mewgenics para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Mewgenics per PlayStation 5 e Nintendo Switch 2."
-    },
-    "id": "mewgenics-2026"
   },
   {
     "category": "Movie",
@@ -1806,28 +1696,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Honeycomb: The World Beyond",
-      "es": "Honeycomb: The World Beyond",
-      "it": "Honeycomb: The World Beyond"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-08",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Honeycomb: The World Beyond.",
-      "es": "El lanzamiento previsto de Honeycomb: The World Beyond para PlayStation.",
-      "it": "L'uscita prevista di Honeycomb: The World Beyond per PlayStation."
-    },
-    "id": "honeycomb-the-world-beyond-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "TCG Card Shop Simulator",
       "es": "TCG Card Shop Simulator",
       "it": "TCG Card Shop Simulator"
@@ -2178,28 +2046,6 @@
     }
   },
   {
-    "id": "the-legend-of-zelda-40th-anniversary-direct-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "The Legend of Zelda 40th Anniversary Direct",
-      "es": "Nintendo Direct del 40.º aniversario de The Legend of Zelda",
-      "it": "Nintendo Direct per il 40º anniversario di The Legend of Zelda"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-08",
-    "icon": "play.circle.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "Nintendo's approximately 30-minute presentation celebrating The Legend of Zelda's 40th anniversary, scheduled for 7:00 a.m. Pacific Time.",
-      "es": "La presentación de Nintendo de unos 30 minutos por el 40.º aniversario de The Legend of Zelda, prevista para las 7:00 a. m., hora del Pacífico.",
-      "it": "La presentazione Nintendo di circa 30 minuti per il 40º anniversario di The Legend of Zelda, in programma alle 7:00, ora del Pacifico."
-    }
-  },
-  {
     "id": "nintendo-direct-september-2026",
     "category": "Special Event",
     "localizedNames": {
@@ -2219,6 +2065,182 @@
       "en": "Nintendo's approximately 45-minute presentation, scheduled for 7:00 a.m. Pacific Time.",
       "es": "La presentación de Nintendo de unos 45 minutos, prevista para las 7:00 a. m., hora del Pacífico.",
       "it": "La presentazione Nintendo di circa 45 minuti, in programma alle 7:00, ora del Pacifico."
+    }
+  },
+  {
+    "id": "the-witcher-3-wild-hunt-remastered-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Witcher 3: Wild Hunt — Remastered",
+      "es": "The Witcher 3: Wild Hunt — Remastered",
+      "it": "The Witcher 3: Wild Hunt — Remastered"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-29",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of The Witcher 3: Wild Hunt — Remastered.",
+      "es": "El lanzamiento previsto de The Witcher 3: Wild Hunt — Remastered para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di The Witcher 3: Wild Hunt — Remastered per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "the-legend-of-zelda-ocarina-of-time-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Legend of Zelda: Ocarina of Time",
+      "es": "The Legend of Zelda: Ocarina of Time",
+      "it": "The Legend of Zelda: Ocarina of Time"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-05",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of The Legend of Zelda: Ocarina of Time.",
+      "es": "El lanzamiento previsto de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2.",
+      "it": "L'uscita prevista di The Legend of Zelda: Ocarina of Time per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "dragon-quest-monsters-the-withered-world-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "DRAGON QUEST MONSTERS: The Withered World",
+      "es": "DRAGON QUEST MONSTERS: The Withered World",
+      "it": "DRAGON QUEST MONSTERS: The Withered World"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of DRAGON QUEST MONSTERS: The Withered World.",
+      "es": "El lanzamiento previsto de DRAGON QUEST MONSTERS: The Withered World para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di DRAGON QUEST MONSTERS: The Withered World per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "attack-on-titan-3-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Attack on Titan 3",
+      "es": "Attack on Titan 3",
+      "it": "Attack on Titan 3"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-10",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Attack on Titan 3.",
+      "es": "El lanzamiento previsto de Attack on Titan 3 para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Attack on Titan 3 per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "metro-2039-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Metro 2039",
+      "es": "Metro 2039",
+      "it": "Metro 2039"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Metro 2039.",
+      "es": "El lanzamiento previsto de Metro 2039 para PlayStation 5.",
+      "it": "L'uscita prevista di Metro 2039 per PlayStation 5."
+    }
+  },
+  {
+    "id": "persona-4-revival-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Persona 4 Revival",
+      "es": "Persona 4 Revival",
+      "it": "Persona 4 Revival"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-18",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Persona 4 Revival.",
+      "es": "El lanzamiento previsto de Persona 4 Revival para PlayStation 5.",
+      "it": "L'uscita prevista di Persona 4 Revival per PlayStation 5."
+    }
+  },
+  {
+    "id": "gundam-rogue-orbit-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "GUNDAM ROGUE ORBIT",
+      "es": "GUNDAM ROGUE ORBIT",
+      "it": "GUNDAM ROGUE ORBIT"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-05",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of GUNDAM ROGUE ORBIT.",
+      "es": "El lanzamiento previsto de GUNDAM ROGUE ORBIT para PlayStation 5.",
+      "it": "L'uscita prevista di GUNDAM ROGUE ORBIT per PlayStation 5."
+    }
+  },
+  {
+    "id": "the-legend-of-zelda-movie-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Legend of Zelda",
+      "es": "The Legend of Zelda",
+      "it": "The Legend of Zelda"
+    },
+    "allDay": true,
+    "dueDate": "2027-04-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled worldwide theatrical release of Nintendo's live-action film The Legend of Zelda.",
+      "es": "El estreno cinematográfico mundial previsto de la película de acción real de Nintendo The Legend of Zelda.",
+      "it": "L'uscita cinematografica mondiale prevista del film live action di Nintendo The Legend of Zelda."
     }
   }
 ]
