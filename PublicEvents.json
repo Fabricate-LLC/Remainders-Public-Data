@@ -2731,9 +2731,9 @@
     "id": "iphone-18-pro-pre-order-begins-2026",
     "category": "Special Event",
     "localizedNames": {
-      "en": "iPhone 18 Pro Pre-Order Begins",
-      "es": "Comienzan las reservas del iPhone 18 Pro",
-      "it": "Apertura dei preordini di iPhone 18 Pro"
+      "en": "iPhone 18 Pro Pre-Order",
+      "es": "Reserva del iPhone 18 Pro",
+      "it": "Preordine di iPhone 18 Pro"
     },
     "allDay": true,
     "dueDate": "2026-09-12",
@@ -2753,9 +2753,9 @@
     "id": "iphone-18-pro-available-2026",
     "category": "Special Event",
     "localizedNames": {
-      "en": "iPhone 18 Pro Available",
-      "es": "iPhone 18 Pro disponible",
-      "it": "iPhone 18 Pro disponibile"
+      "en": "iPhone 18 Pro Launch",
+      "es": "Lanzamiento del iPhone 18 Pro",
+      "it": "Lancio di iPhone 18 Pro"
     },
     "allDay": true,
     "dueDate": "2026-09-18",
@@ -2775,9 +2775,9 @@
     "id": "iphone-duo-pre-order-begins-2026",
     "category": "Special Event",
     "localizedNames": {
-      "en": "iPhone Duo Pre-Order Begins",
-      "es": "Comienzan las reservas del iPhone Duo",
-      "it": "Apertura dei preordini di iPhone Duo"
+      "en": "iPhone Duo Pro-Order",
+      "es": "Reserva del iPhone Duo",
+      "it": "Preordine di iPhone Duo"
     },
     "allDay": true,
     "dueDate": "2026-10-16",
@@ -2797,9 +2797,9 @@
     "id": "iphone-duo-available-2026",
     "category": "Special Event",
     "localizedNames": {
-      "en": "iPhone Duo Available",
-      "es": "iPhone Duo disponible",
-      "it": "iPhone Duo disponibile"
+      "en": "iPhone Duo Launch",
+      "es": "Lanzamiento del iPhone Duo",
+      "it": "Lancio di iPhone Duo"
     },
     "allDay": true,
     "dueDate": "2026-10-23",
