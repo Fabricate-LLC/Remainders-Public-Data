@@ -2068,6 +2068,490 @@
     }
   },
   {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Good Little Soldier",
+      "es": "A Good Little Soldier",
+      "it": "A Good Little Soldier"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Good Little Soldier.",
+      "es": "El estreno cinematográfico previsto de A Good Little Soldier.",
+      "it": "L'uscita cinematografica prevista di A Good Little Soldier."
+    },
+    "id": "a-good-little-soldier-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Woman's Life",
+      "es": "A Woman's Life",
+      "it": "A Woman's Life"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Woman's Life.",
+      "es": "El estreno cinematográfico previsto de A Woman's Life.",
+      "it": "L'uscita cinematografica prevista di A Woman's Life."
+    },
+    "id": "a-woman-s-life-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Drawn Together",
+      "es": "Drawn Together",
+      "it": "Drawn Together"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Drawn Together.",
+      "es": "El estreno cinematográfico previsto de Drawn Together.",
+      "it": "L'uscita cinematografica prevista di Drawn Together."
+    },
+    "id": "drawn-together-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Fire Within You",
+      "es": "The Fire Within You",
+      "it": "The Fire Within You"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-09",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Fire Within You.",
+      "es": "El estreno cinematográfico previsto de The Fire Within You.",
+      "it": "L'uscita cinematografica prevista di The Fire Within You."
+    },
+    "id": "the-fire-within-you-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "100 Tage Autark",
+      "es": "100 Tage Autark",
+      "it": "100 Tage Autark"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of 100 Tage Autark.",
+      "es": "El estreno cinematográfico previsto de 100 Tage Autark.",
+      "it": "L'uscita cinematografica prevista di 100 Tage Autark."
+    },
+    "id": "100-tage-autark-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Bit Before Midnight",
+      "es": "A Bit Before Midnight",
+      "it": "A Bit Before Midnight"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Bit Before Midnight.",
+      "es": "El estreno cinematográfico previsto de A Bit Before Midnight.",
+      "it": "L'uscita cinematografica prevista di A Bit Before Midnight."
+    },
+    "id": "a-bit-before-midnight-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Bit of Light",
+      "es": "A Bit of Light",
+      "it": "A Bit of Light"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Bit of Light.",
+      "es": "El estreno cinematográfico previsto de A Bit of Light.",
+      "it": "L'uscita cinematografica prevista di A Bit of Light."
+    },
+    "id": "a-bit-of-light-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Albrecht Weinberg – Es ist immer in meinem Kopf",
+      "es": "Albrecht Weinberg – Es ist immer in meinem Kopf",
+      "it": "Albrecht Weinberg – Es ist immer in meinem Kopf"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Albrecht Weinberg – Es ist immer in meinem Kopf.",
+      "es": "El estreno cinematográfico previsto de Albrecht Weinberg – Es ist immer in meinem Kopf.",
+      "it": "L'uscita cinematografica prevista di Albrecht Weinberg – Es ist immer in meinem Kopf."
+    },
+    "id": "albrecht-weinberg-es-ist-immer-in-meinem-kopf-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Bad Apples",
+      "es": "Bad Apples",
+      "it": "Bad Apples"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Bad Apples.",
+      "es": "El estreno cinematográfico previsto de Bad Apples.",
+      "it": "L'uscita cinematografica prevista di Bad Apples."
+    },
+    "id": "bad-apples-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Being Heumann",
+      "es": "Being Heumann",
+      "it": "Being Heumann"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Being Heumann.",
+      "es": "El estreno cinematográfico previsto de Being Heumann.",
+      "it": "L'uscita cinematografica prevista di Being Heumann."
+    },
+    "id": "being-heumann-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Call My Agent! The Movie",
+      "es": "Call My Agent! The Movie",
+      "it": "Call My Agent! The Movie"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Call My Agent! The Movie.",
+      "es": "El estreno cinematográfico previsto de Call My Agent! The Movie.",
+      "it": "L'uscita cinematografica prevista di Call My Agent! The Movie."
+    },
+    "id": "call-my-agent-the-movie-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Children Untold",
+      "es": "Children Untold",
+      "it": "Children Untold"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Children Untold.",
+      "es": "El estreno cinematográfico previsto de Children Untold.",
+      "it": "L'uscita cinematografica prevista di Children Untold."
+    },
+    "id": "children-untold-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Chopin, a Sonata in Paris",
+      "es": "Chopin, a Sonata in Paris",
+      "it": "Chopin, a Sonata in Paris"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Chopin, a Sonata in Paris.",
+      "es": "El estreno cinematográfico previsto de Chopin, a Sonata in Paris.",
+      "it": "L'uscita cinematografica prevista di Chopin, a Sonata in Paris."
+    },
+    "id": "chopin-a-sonata-in-paris-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Compostelle",
+      "es": "Compostelle",
+      "it": "Compostelle"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Compostelle.",
+      "es": "El estreno cinematográfico previsto de Compostelle.",
+      "it": "L'uscita cinematografica prevista di Compostelle."
+    },
+    "id": "compostelle-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Don't Look Back In Anger",
+      "es": "Don't Look Back In Anger",
+      "it": "Don't Look Back In Anger"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Don't Look Back In Anger.",
+      "es": "El estreno cinematográfico previsto de Don't Look Back In Anger.",
+      "it": "L'uscita cinematografica prevista di Don't Look Back In Anger."
+    },
+    "id": "don-t-look-back-in-anger-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Active Matter",
+      "es": "Active Matter",
+      "it": "Active Matter"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-15",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Active Matter.",
+      "es": "El lanzamiento previsto de Active Matter para PlayStation.",
+      "it": "L'uscita prevista di Active Matter per PlayStation."
+    },
+    "id": "active-matter-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Gladio Mori",
+      "es": "Gladio Mori",
+      "it": "Gladio Mori"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Gladio Mori.",
+      "es": "El lanzamiento previsto de Gladio Mori para PlayStation.",
+      "it": "L'uscita prevista di Gladio Mori per PlayStation."
+    },
+    "id": "gladio-mori-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Another Eden Begins",
+      "es": "Another Eden Begins",
+      "it": "Another Eden Begins"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Another Eden Begins.",
+      "es": "El lanzamiento previsto de Another Eden Begins para Nintendo.",
+      "it": "L'uscita prevista di Another Eden Begins per Nintendo."
+    },
+    "id": "another-eden-begins-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Artis Impact",
+      "es": "Artis Impact",
+      "it": "Artis Impact"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Artis Impact.",
+      "es": "El lanzamiento previsto de Artis Impact para Nintendo.",
+      "it": "L'uscita prevista di Artis Impact per Nintendo."
+    },
+    "id": "artis-impact-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Dave the Diver",
+      "es": "Dave the Diver",
+      "it": "Dave the Diver"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Dave the Diver.",
+      "es": "El lanzamiento previsto de Dave the Diver para Nintendo.",
+      "it": "L'uscita prevista di Dave the Diver per Nintendo."
+    },
+    "id": "dave-the-diver-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "FOUNTAINS",
+      "es": "FOUNTAINS",
+      "it": "FOUNTAINS"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of FOUNTAINS.",
+      "es": "El lanzamiento previsto de FOUNTAINS para Nintendo.",
+      "it": "L'uscita prevista di FOUNTAINS per Nintendo."
+    },
+    "id": "fountains-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Flamecraft",
+      "es": "Flamecraft",
+      "it": "Flamecraft"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Flamecraft.",
+      "es": "El lanzamiento previsto de Flamecraft para Nintendo.",
+      "it": "L'uscita prevista di Flamecraft per Nintendo."
+    },
+    "id": "flamecraft-2026"
+  },
+  {
     "id": "the-witcher-3-wild-hunt-remastered-2026",
     "category": "Game",
     "localizedNames": {
