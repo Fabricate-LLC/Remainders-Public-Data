@@ -2242,5 +2242,115 @@
       "es": "El estreno cinematográfico mundial previsto de la película de acción real de Nintendo The Legend of Zelda.",
       "it": "L'uscita cinematografica mondiale prevista del film live action di Nintendo The Legend of Zelda."
     }
+  },
+  {
+    "id": "iphone-18-pro-pre-order-begins-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "iPhone 18 Pro Pre-Order Begins",
+      "es": "Comienzan las reservas del iPhone 18 Pro",
+      "it": "Apertura dei preordini di iPhone 18 Pro"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-12",
+    "icon": "iphone",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Apple begins accepting iPhone 18 Pro pre-orders at 5:00 a.m. Pacific Time.",
+      "es": "Apple comienza a aceptar reservas del iPhone 18 Pro a las 5:00 a. m., hora del Pacífico.",
+      "it": "Apple inizia ad accettare i preordini di iPhone 18 Pro alle 5:00, ora del Pacifico."
+    }
+  },
+  {
+    "id": "iphone-18-pro-available-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "iPhone 18 Pro Available",
+      "es": "iPhone 18 Pro disponible",
+      "it": "iPhone 18 Pro disponibile"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-18",
+    "icon": "iphone",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The iPhone 18 Pro becomes available from Apple.",
+      "es": "El iPhone 18 Pro pasa a estar disponible en Apple.",
+      "it": "iPhone 18 Pro diventa disponibile presso Apple."
+    }
+  },
+  {
+    "id": "iphone-duo-pre-order-begins-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "iPhone Duo Pre-Order Begins",
+      "es": "Comienzan las reservas del iPhone Duo",
+      "it": "Apertura dei preordini di iPhone Duo"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "iphone",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Apple begins accepting iPhone Duo pre-orders at 5:00 a.m. Pacific Time.",
+      "es": "Apple comienza a aceptar reservas del iPhone Duo a las 5:00 a. m., hora del Pacífico.",
+      "it": "Apple inizia ad accettare i preordini di iPhone Duo alle 5:00, ora del Pacifico."
+    }
+  },
+  {
+    "id": "iphone-duo-available-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "iPhone Duo Available",
+      "es": "iPhone Duo disponible",
+      "it": "iPhone Duo disponibile"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "iphone",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The iPhone Duo becomes available from Apple.",
+      "es": "El iPhone Duo pasa a estar disponible en Apple.",
+      "it": "iPhone Duo diventa disponibile presso Apple."
+    }
+  },
+  {
+    "id": "metroid-ravenous-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Metroid Ravenous",
+      "es": "Metroid Ravenous",
+      "it": "Metroid Ravenous"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-28",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Metroid Ravenous.",
+      "es": "El lanzamiento previsto de Metroid Ravenous para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Metroid Ravenous per Nintendo Switch 2."
+    }
   }
 ]
