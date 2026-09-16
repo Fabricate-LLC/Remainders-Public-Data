@@ -1,27 +1,5 @@
 [
   {
-    "id": "marvels-wolverine-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Marvel's Wolverine",
-      "es": "Marvel's Wolverine",
-      "it": "Marvel's Wolverine"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-15",
-    "icon": "gamecontroller.fill",
-    "color": "yellow",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The release of Insomniac Games' action-adventure starring Wolverine.",
-      "es": "El lanzamiento del juego de acción y aventura de Insomniac Games protagonizado por Wolverine.",
-      "it": "L'uscita del gioco d'azione e avventura di Insomniac Games con Wolverine come protagonista."
-    }
-  },
-  {
     "id": "control-resonant-2026",
     "category": "Game",
     "localizedNames": {
@@ -660,28 +638,6 @@
     }
   },
   {
-    "id": "valheim-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Valheim",
-      "es": "Valheim",
-      "it": "Valheim"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Valheim.",
-      "es": "El lanzamiento previsto de Valheim para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Valheim per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "another-eden-begins-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -990,28 +946,6 @@
     }
   },
   {
-    "id": "practical-magic-2-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Practical Magic 2",
-      "es": "Practical Magic 2",
-      "it": "Practical Magic 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The North American theatrical release of the fantasy sequel starring Sandra Bullock and Nicole Kidman.",
-      "es": "El estreno en cines de Norteamérica de la secuela fantástica protagonizada por Sandra Bullock y Nicole Kidman.",
-      "it": "L'uscita nelle sale nordamericane del seguito fantasy con Sandra Bullock e Nicole Kidman."
-    }
-  },
-  {
     "id": "street-fighter-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1144,72 +1078,6 @@
     }
   },
   {
-    "id": "the-legend-of-heroes-trails-from-zero-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Legend of Heroes: Trails from Zero",
-      "es": "The Legend of Heroes: Trails from Zero",
-      "it": "The Legend of Heroes: Trails from Zero"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of The Legend of Heroes: Trails from Zero.",
-      "es": "El lanzamiento previsto de The Legend of Heroes: Trails from Zero para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di The Legend of Heroes: Trails from Zero per PlayStation 5 e Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "the-legend-of-heroes-trails-to-azure-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Legend of Heroes: Trails to Azure",
-      "es": "The Legend of Heroes: Trails to Azure",
-      "it": "The Legend of Heroes: Trails to Azure"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "gamecontroller.fill",
-    "color": "cyan",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of The Legend of Heroes: Trails to Azure.",
-      "es": "El lanzamiento previsto de The Legend of Heroes: Trails to Azure para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di The Legend of Heroes: Trails to Azure per PlayStation 5 e Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "runescape-dragonwilds-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "RuneScape: Dragonwilds",
-      "es": "RuneScape: Dragonwilds",
-      "it": "RuneScape: Dragonwilds"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-15",
-    "icon": "gamecontroller.fill",
-    "color": "green",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Jagex's cooperative survival adventure.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 de la aventura cooperativa de supervivencia de Jagex.",
-      "it": "L'uscita prevista per Nintendo Switch 2 dell'avventura cooperativa di sopravvivenza di Jagex."
-    }
-  },
-  {
     "id": "uefa-champions-league-final-2027",
     "category": "Special Event",
     "localizedNames": {
@@ -1318,94 +1186,6 @@
       "es": "Día inaugural de la Copa Mundial de Rugby Masculina en Australia, prevista del 1 de octubre al 13 de noviembre.",
       "it": "Giornata inaugurale della Coppa del Mondo di rugby maschile in Australia, in programma dal 1º ottobre al 13 novembre."
     }
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Hazard Pay",
-      "es": "Hazard Pay",
-      "it": "Hazard Pay"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Hazard Pay.",
-      "es": "El lanzamiento previsto de Hazard Pay para Nintendo.",
-      "it": "L'uscita prevista di Hazard Pay per Nintendo."
-    },
-    "id": "hazard-pay-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Hope",
-      "es": "Hope",
-      "it": "Hope"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Hope.",
-      "es": "El estreno cinematográfico previsto de Hope.",
-      "it": "L'uscita cinematografica prevista di Hope."
-    },
-    "id": "hope-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Train Sim World 7",
-      "es": "Train Sim World 7",
-      "it": "Train Sim World 7"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Train Sim World 7.",
-      "es": "El lanzamiento previsto de Train Sim World 7 para PlayStation 5.",
-      "it": "L'uscita prevista di Train Sim World 7 per PlayStation 5."
-    },
-    "id": "train-sim-world-7-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Destroy All Humans! 2 - Reprobed",
-      "es": "Destroy All Humans! 2 - Reprobed",
-      "it": "Destroy All Humans! 2 - Reprobed"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Destroy All Humans! 2 - Reprobed.",
-      "es": "El lanzamiento previsto de Destroy All Humans! 2 - Reprobed para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Destroy All Humans! 2 - Reprobed per Nintendo Switch 2."
-    },
-    "id": "destroy-all-humans-2-reprobed-2026"
   },
   {
     "category": "Game",
@@ -1672,50 +1452,6 @@
     "id": "primetime-2026"
   },
   {
-    "id": "apple-event-september-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Apple Event",
-      "es": "Evento de Apple",
-      "it": "Evento Apple"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "play.circle.fill",
-    "color": "indigo",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "Apple's special event on September 9, 2026, scheduled for 10:00 a.m. Pacific Time.",
-      "es": "El evento especial de Apple del 9 de septiembre de 2026, previsto para las 10:00 a. m., hora del Pacífico.",
-      "it": "L'evento speciale Apple del 9 settembre 2026, in programma alle 10:00, ora del Pacifico."
-    }
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "TCG Card Shop Simulator",
-      "es": "TCG Card Shop Simulator",
-      "it": "TCG Card Shop Simulator"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of TCG Card Shop Simulator.",
-      "es": "El lanzamiento previsto de TCG Card Shop Simulator para Nintendo.",
-      "it": "L'uscita prevista di TCG Card Shop Simulator per Nintendo."
-    },
-    "id": "tcg-card-shop-simulator-2026"
-  },
-  {
     "category": "Game",
     "localizedNames": {
       "en": "Fallen Tear: The Ascension",
@@ -1867,28 +1603,6 @@
       "en": "The championship match of the 2027 FIFA Women's World Cup at Maracanã Stadium.",
       "es": "El partido final de la Copa Mundial Femenina de la FIFA 2027 en el Estadio Maracaná.",
       "it": "La finale della Coppa del Mondo femminile FIFA 2027 allo stadio Maracanã."
-    }
-  },
-  {
-    "id": "truck-kun-is-supporting-me-from-another-world-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Truck-kun is Supporting Me from Another World?!",
-      "es": "Truck-kun is Supporting Me from Another World?!",
-      "it": "Truck-kun is Supporting Me from Another World?!"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-14",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "Truck-kun is Supporting Me from Another World?! is scheduled for release on Nintendo Switch 2.",
-      "es": "Está previsto el lanzamiento de Truck-kun is Supporting Me from Another World?! para Nintendo Switch 2.",
-      "it": "È prevista l'uscita di Truck-kun is Supporting Me from Another World?! per Nintendo Switch 2."
     }
   },
   {
@@ -2044,380 +1758,6 @@
       "es": "El lanzamiento previsto de Final Fantasy VII Revelation para PlayStation 5.",
       "it": "L'uscita prevista di Final Fantasy VII Revelation per PlayStation 5."
     }
-  },
-  {
-    "id": "nintendo-direct-september-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "Nintendo Direct",
-      "es": "Nintendo Direct",
-      "it": "Nintendo Direct"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "play.circle.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "Nintendo's approximately 45-minute presentation, scheduled for 7:00 a.m. Pacific Time.",
-      "es": "La presentación de Nintendo de unos 45 minutos, prevista para las 7:00 a. m., hora del Pacífico.",
-      "it": "La presentazione Nintendo di circa 45 minuti, in programma alle 7:00, ora del Pacifico."
-    }
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Good Little Soldier",
-      "es": "A Good Little Soldier",
-      "it": "A Good Little Soldier"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Good Little Soldier.",
-      "es": "El estreno cinematográfico previsto de A Good Little Soldier.",
-      "it": "L'uscita cinematografica prevista di A Good Little Soldier."
-    },
-    "id": "a-good-little-soldier-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Woman's Life",
-      "es": "A Woman's Life",
-      "it": "A Woman's Life"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Woman's Life.",
-      "es": "El estreno cinematográfico previsto de A Woman's Life.",
-      "it": "L'uscita cinematografica prevista di A Woman's Life."
-    },
-    "id": "a-woman-s-life-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Drawn Together",
-      "es": "Drawn Together",
-      "it": "Drawn Together"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Drawn Together.",
-      "es": "El estreno cinematográfico previsto de Drawn Together.",
-      "it": "L'uscita cinematografica prevista di Drawn Together."
-    },
-    "id": "drawn-together-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Fire Within You",
-      "es": "The Fire Within You",
-      "it": "The Fire Within You"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-09",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Fire Within You.",
-      "es": "El estreno cinematográfico previsto de The Fire Within You.",
-      "it": "L'uscita cinematografica prevista di The Fire Within You."
-    },
-    "id": "the-fire-within-you-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "100 Tage Autark",
-      "es": "100 Tage Autark",
-      "it": "100 Tage Autark"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of 100 Tage Autark.",
-      "es": "El estreno cinematográfico previsto de 100 Tage Autark.",
-      "it": "L'uscita cinematografica prevista di 100 Tage Autark."
-    },
-    "id": "100-tage-autark-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Bit Before Midnight",
-      "es": "A Bit Before Midnight",
-      "it": "A Bit Before Midnight"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Bit Before Midnight.",
-      "es": "El estreno cinematográfico previsto de A Bit Before Midnight.",
-      "it": "L'uscita cinematografica prevista di A Bit Before Midnight."
-    },
-    "id": "a-bit-before-midnight-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Bit of Light",
-      "es": "A Bit of Light",
-      "it": "A Bit of Light"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Bit of Light.",
-      "es": "El estreno cinematográfico previsto de A Bit of Light.",
-      "it": "L'uscita cinematografica prevista di A Bit of Light."
-    },
-    "id": "a-bit-of-light-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Albrecht Weinberg – Es ist immer in meinem Kopf",
-      "es": "Albrecht Weinberg – Es ist immer in meinem Kopf",
-      "it": "Albrecht Weinberg – Es ist immer in meinem Kopf"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Albrecht Weinberg – Es ist immer in meinem Kopf.",
-      "es": "El estreno cinematográfico previsto de Albrecht Weinberg – Es ist immer in meinem Kopf.",
-      "it": "L'uscita cinematografica prevista di Albrecht Weinberg – Es ist immer in meinem Kopf."
-    },
-    "id": "albrecht-weinberg-es-ist-immer-in-meinem-kopf-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Bad Apples",
-      "es": "Bad Apples",
-      "it": "Bad Apples"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Bad Apples.",
-      "es": "El estreno cinematográfico previsto de Bad Apples.",
-      "it": "L'uscita cinematografica prevista di Bad Apples."
-    },
-    "id": "bad-apples-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Being Heumann",
-      "es": "Being Heumann",
-      "it": "Being Heumann"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Being Heumann.",
-      "es": "El estreno cinematográfico previsto de Being Heumann.",
-      "it": "L'uscita cinematografica prevista di Being Heumann."
-    },
-    "id": "being-heumann-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Call My Agent! The Movie",
-      "es": "Call My Agent! The Movie",
-      "it": "Call My Agent! The Movie"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Call My Agent! The Movie.",
-      "es": "El estreno cinematográfico previsto de Call My Agent! The Movie.",
-      "it": "L'uscita cinematografica prevista di Call My Agent! The Movie."
-    },
-    "id": "call-my-agent-the-movie-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Children Untold",
-      "es": "Children Untold",
-      "it": "Children Untold"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Children Untold.",
-      "es": "El estreno cinematográfico previsto de Children Untold.",
-      "it": "L'uscita cinematografica prevista di Children Untold."
-    },
-    "id": "children-untold-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Chopin, a Sonata in Paris",
-      "es": "Chopin, a Sonata in Paris",
-      "it": "Chopin, a Sonata in Paris"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Chopin, a Sonata in Paris.",
-      "es": "El estreno cinematográfico previsto de Chopin, a Sonata in Paris.",
-      "it": "L'uscita cinematografica prevista di Chopin, a Sonata in Paris."
-    },
-    "id": "chopin-a-sonata-in-paris-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Compostelle",
-      "es": "Compostelle",
-      "it": "Compostelle"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Compostelle.",
-      "es": "El estreno cinematográfico previsto de Compostelle.",
-      "it": "L'uscita cinematografica prevista di Compostelle."
-    },
-    "id": "compostelle-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Don't Look Back In Anger",
-      "es": "Don't Look Back In Anger",
-      "it": "Don't Look Back In Anger"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-10",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Don't Look Back In Anger.",
-      "es": "El estreno cinematográfico previsto de Don't Look Back In Anger.",
-      "it": "L'uscita cinematografica prevista di Don't Look Back In Anger."
-    },
-    "id": "don-t-look-back-in-anger-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Active Matter",
-      "es": "Active Matter",
-      "it": "Active Matter"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-15",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Active Matter.",
-      "es": "El lanzamiento previsto de Active Matter para PlayStation.",
-      "it": "L'uscita prevista di Active Matter per PlayStation."
-    },
-    "id": "active-matter-2026"
   },
   {
     "category": "Game",
@@ -2728,28 +2068,6 @@
     }
   },
   {
-    "id": "iphone-18-pro-pre-order-begins-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "iPhone 18 Pro Pre-Order",
-      "es": "Reserva del iPhone 18 Pro",
-      "it": "Preordine di iPhone 18 Pro"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-12",
-    "icon": "iphone",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "Apple begins accepting iPhone 18 Pro pre-orders at 5:00 a.m. Pacific Time.",
-      "es": "Apple comienza a aceptar reservas del iPhone 18 Pro a las 5:00 a. m., hora del Pacífico.",
-      "it": "Apple inizia ad accettare i preordini di iPhone 18 Pro alle 5:00, ora del Pacifico."
-    }
-  },
-  {
     "id": "iphone-18-pro-available-2026",
     "category": "Special Event",
     "localizedNames": {
@@ -2836,5 +2154,511 @@
       "es": "El lanzamiento previsto de Metroid Ravenous para Nintendo Switch 2.",
       "it": "L'uscita prevista di Metroid Ravenous per Nintendo Switch 2."
     }
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Djinn Wedding",
+      "es": "Djinn Wedding",
+      "it": "Djinn Wedding"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Djinn Wedding.",
+      "es": "El estreno cinematográfico previsto de Djinn Wedding.",
+      "it": "L'uscita cinematografica prevista di Djinn Wedding."
+    },
+    "id": "djinn-wedding-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Le Faux Soir",
+      "es": "Le Faux Soir",
+      "it": "Le Faux Soir"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Le Faux Soir.",
+      "es": "El estreno cinematográfico previsto de Le Faux Soir.",
+      "it": "L'uscita cinematografica prevista di Le Faux Soir."
+    },
+    "id": "le-faux-soir-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Off the Mark",
+      "es": "Off the Mark",
+      "it": "Off the Mark"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Off the Mark.",
+      "es": "El estreno cinematográfico previsto de Off the Mark.",
+      "it": "L'uscita cinematografica prevista di Off the Mark."
+    },
+    "id": "off-the-mark-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Run Hide Fight: Infidels",
+      "es": "Run Hide Fight: Infidels",
+      "it": "Run Hide Fight: Infidels"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Run Hide Fight: Infidels.",
+      "es": "El estreno cinematográfico previsto de Run Hide Fight: Infidels.",
+      "it": "L'uscita cinematografica prevista di Run Hide Fight: Infidels."
+    },
+    "id": "run-hide-fight-infidels-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Birthday Party",
+      "es": "The Birthday Party",
+      "it": "The Birthday Party"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Birthday Party.",
+      "es": "El estreno cinematográfico previsto de The Birthday Party.",
+      "it": "L'uscita cinematografica prevista di The Birthday Party."
+    },
+    "id": "the-birthday-party-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Cars",
+      "es": "Cars",
+      "it": "Cars"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Cars.",
+      "es": "El estreno cinematográfico previsto de Cars.",
+      "it": "L'uscita cinematografica prevista di Cars."
+    },
+    "id": "cars-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Endless Legend II",
+      "es": "Endless Legend II",
+      "it": "Endless Legend II"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Endless Legend II.",
+      "es": "El lanzamiento previsto de Endless Legend II para PlayStation.",
+      "it": "L'uscita prevista di Endless Legend II per PlayStation."
+    },
+    "id": "endless-legend-ii-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Fading Echo",
+      "es": "Fading Echo",
+      "it": "Fading Echo"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Fading Echo.",
+      "es": "El lanzamiento previsto de Fading Echo para PlayStation.",
+      "it": "L'uscita prevista di Fading Echo per PlayStation."
+    },
+    "id": "fading-echo-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Frost without Snow and Ice",
+      "es": "Frost without Snow and Ice",
+      "it": "Frost without Snow and Ice"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Frost without Snow and Ice.",
+      "es": "El estreno cinematográfico previsto de Frost without Snow and Ice.",
+      "it": "L'uscita cinematografica prevista di Frost without Snow and Ice."
+    },
+    "id": "frost-without-snow-and-ice-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Gentle Monster",
+      "es": "Gentle Monster",
+      "it": "Gentle Monster"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Gentle Monster.",
+      "es": "El estreno cinematográfico previsto de Gentle Monster.",
+      "it": "L'uscita cinematografica prevista di Gentle Monster."
+    },
+    "id": "gentle-monster-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Heidi: Rescue of the Lynx",
+      "es": "Heidi: Rescue of the Lynx",
+      "it": "Heidi: Rescue of the Lynx"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Heidi: Rescue of the Lynx.",
+      "es": "El estreno cinematográfico previsto de Heidi: Rescue of the Lynx.",
+      "it": "L'uscita cinematografica prevista di Heidi: Rescue of the Lynx."
+    },
+    "id": "heidi-rescue-of-the-lynx-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Kernel Hearts",
+      "es": "Kernel Hearts",
+      "it": "Kernel Hearts"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Kernel Hearts.",
+      "es": "El lanzamiento previsto de Kernel Hearts para PlayStation.",
+      "it": "L'uscita prevista di Kernel Hearts per PlayStation."
+    },
+    "id": "kernel-hearts-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Let Sleeping Dogs Lie",
+      "es": "Let Sleeping Dogs Lie",
+      "it": "Let Sleeping Dogs Lie"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Let Sleeping Dogs Lie.",
+      "es": "El estreno cinematográfico previsto de Let Sleeping Dogs Lie.",
+      "it": "L'uscita cinematografica prevista di Let Sleeping Dogs Lie."
+    },
+    "id": "let-sleeping-dogs-lie-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Nonna",
+      "es": "Nonna",
+      "it": "Nonna"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Nonna.",
+      "es": "El estreno cinematográfico previsto de Nonna.",
+      "it": "L'uscita cinematografica prevista di Nonna."
+    },
+    "id": "nonna-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Patlabor the Case Files",
+      "es": "Patlabor the Case Files",
+      "it": "Patlabor the Case Files"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Patlabor the Case Files.",
+      "es": "El lanzamiento previsto de Patlabor the Case Files para PlayStation.",
+      "it": "L'uscita prevista di Patlabor the Case Files per PlayStation."
+    },
+    "id": "patlabor-the-case-files-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Pressure",
+      "es": "Pressure",
+      "it": "Pressure"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Pressure.",
+      "es": "El estreno cinematográfico previsto de Pressure.",
+      "it": "L'uscita cinematografica prevista di Pressure."
+    },
+    "id": "pressure-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Resident Evil",
+      "es": "Resident Evil",
+      "it": "Resident Evil"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Resident Evil.",
+      "es": "El estreno cinematográfico previsto de Resident Evil.",
+      "it": "L'uscita cinematografica prevista di Resident Evil."
+    },
+    "id": "resident-evil-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Rodychi",
+      "es": "Rodychi",
+      "it": "Rodychi"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Rodychi.",
+      "es": "El estreno cinematográfico previsto de Rodychi.",
+      "it": "L'uscita cinematografica prevista di Rodychi."
+    },
+    "id": "rodychi-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Spa Weekend",
+      "es": "Spa Weekend",
+      "it": "Spa Weekend"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Spa Weekend.",
+      "es": "El estreno cinematográfico previsto de Spa Weekend.",
+      "it": "L'uscita cinematografica prevista di Spa Weekend."
+    },
+    "id": "spa-weekend-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Terbang",
+      "es": "Terbang",
+      "it": "Terbang"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Terbang.",
+      "es": "El estreno cinematográfico previsto de Terbang.",
+      "it": "L'uscita cinematografica prevista di Terbang."
+    },
+    "id": "terbang-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Alchemist of Ars Magna",
+      "es": "The Alchemist of Ars Magna",
+      "it": "The Alchemist of Ars Magna"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of The Alchemist of Ars Magna.",
+      "es": "El lanzamiento previsto de The Alchemist of Ars Magna para PlayStation.",
+      "it": "L'uscita prevista di The Alchemist of Ars Magna per PlayStation."
+    },
+    "id": "the-alchemist-of-ars-magna-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Birthday Party",
+      "es": "The Birthday Party",
+      "it": "The Birthday Party"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Birthday Party.",
+      "es": "El estreno cinematográfico previsto de The Birthday Party.",
+      "it": "L'uscita cinematografica prevista di The Birthday Party."
+    },
+    "id": "the-birthday-party-2-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Cupid Parasite",
+      "es": "Cupid Parasite",
+      "it": "Cupid Parasite"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Cupid Parasite.",
+      "es": "El lanzamiento previsto de Cupid Parasite para Nintendo.",
+      "it": "L'uscita prevista di Cupid Parasite per Nintendo."
+    },
+    "id": "cupid-parasite-2026"
   }
 ]
