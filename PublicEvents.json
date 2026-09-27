@@ -1,27 +1,5 @@
 [
   {
-    "id": "control-resonant-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "CONTROL Resonant",
-      "es": "CONTROL Resonant",
-      "it": "CONTROL Resonant"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The release of Remedy Entertainment's supernatural action-adventure RPG sequel.",
-      "es": "El lanzamiento de la secuela sobrenatural de acción, aventura y rol de Remedy Entertainment.",
-      "it": "L'uscita del seguito soprannaturale d'azione, avventura e ruolo di Remedy Entertainment."
-    }
-  },
-  {
     "id": "star-wars-galactic-racer-2026",
     "category": "Game",
     "localizedNames": {
@@ -308,28 +286,6 @@
     }
   },
   {
-    "id": "forgotten-island-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Forgotten Island",
-      "es": "Forgotten Island",
-      "it": "Forgotten Island"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-25",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of DreamWorks Animation's Forgotten Island.",
-      "es": "El estreno cinematográfico previsto de Forgotten Island, de DreamWorks Animation.",
-      "it": "L'uscita cinematografica prevista di Forgotten Island di DreamWorks Animation."
-    }
-  },
-  {
     "id": "digger-2026",
     "category": "Movie",
     "localizedNames": {
@@ -484,28 +440,6 @@
     }
   },
   {
-    "id": "silent-hill-townfall-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Silent Hill: Townfall",
-      "es": "Silent Hill: Townfall",
-      "it": "Silent Hill: Townfall"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Silent Hill: Townfall.",
-      "es": "El lanzamiento previsto de Silent Hill: Townfall para PlayStation 5.",
-      "it": "L'uscita prevista di Silent Hill: Townfall per PlayStation 5."
-    }
-  },
-  {
     "id": "rayman-legends-retold-ps5-2026",
     "category": "Game",
     "localizedNames": {
@@ -616,28 +550,6 @@
     }
   },
   {
-    "id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition",
-      "es": "Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva",
-      "it": "Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Dragon Quest XI S: Echoes of an Elusive Age – Definitive Edition.",
-      "es": "El lanzamiento previsto de Dragon Quest XI S: Ecos de un pasado perdido – Edición definitiva para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Dragon Quest XI S: Echi di un'era perduta – Edizione definitiva per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "ratatan-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -698,9 +610,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Final Fantasy Resonance.",
-      "es": "El lanzamiento previsto de Final Fantasy Resonance para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Final Fantasy Resonance per Nintendo Switch 2."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Final Fantasy Resonance.",
+      "es": "El lanzamiento previsto de Final Fantasy Resonance para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Final Fantasy Resonance per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1012,28 +924,6 @@
     }
   },
   {
-    "id": "minecraft-dungeons-ii-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Minecraft Dungeons 2",
-      "es": "Minecraft Dungeons 2",
-      "it": "Minecraft Dungeons 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-29",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Minecraft Dungeons 2.",
-      "es": "El lanzamiento previsto de Minecraft Dungeons 2 para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Minecraft Dungeons 2 per PlayStation 5 e Nintendo Switch 2."
-    }
-  },
-  {
     "id": "the-crew-motorfest-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1075,116 +965,6 @@
       "en": "Opening day of the Men's Rugby World Cup in Australia, scheduled for October 1–November 13.",
       "es": "Día inaugural de la Copa Mundial de Rugby Masculina en Australia, prevista del 1 de octubre al 13 de noviembre.",
       "it": "Giornata inaugurale della Coppa del Mondo di rugby maschile in Australia, in programma dal 1º ottobre al 13 novembre."
-    }
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "SHINOBI: Art of Vengeance",
-      "es": "SHINOBI: Art of Vengeance",
-      "it": "SHINOBI: Art of Vengeance"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of SHINOBI: Art of Vengeance.",
-      "es": "El lanzamiento previsto de SHINOBI: Art of Vengeance para Nintendo Switch 2.",
-      "it": "L'uscita prevista di SHINOBI: Art of Vengeance per Nintendo Switch 2."
-    },
-    "id": "shinobi-art-of-vengeance-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Harvest Moon: Echoes of the Valley",
-      "es": "Harvest Moon: Echoes of the Valley",
-      "it": "Harvest Moon: Echoes of the Valley"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Harvest Moon: Echoes of the Valley.",
-      "es": "El lanzamiento previsto de Harvest Moon: Echoes of the Valley para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Harvest Moon: Echoes of the Valley per Nintendo Switch 2."
-    },
-    "id": "harvest-moon-echoes-of-the-valley-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Avengers: Endgame Encore",
-      "es": "Avengers: Endgame Encore",
-      "it": "Avengers: Endgame Encore"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-25",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Avengers: Endgame Encore.",
-      "es": "El estreno cinematográfico previsto de Avengers: Endgame Encore.",
-      "it": "L'uscita cinematografica prevista di Avengers: Endgame Encore."
-    },
-    "id": "avengers-endgame-encore-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Primetime",
-      "es": "Primetime",
-      "it": "Primetime"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-25",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Primetime.",
-      "es": "El estreno cinematográfico previsto de Primetime.",
-      "it": "L'uscita cinematografica prevista di Primetime."
-    },
-    "id": "primetime-2026"
-  },
-  {
-    "id": "ea-sports-fc-27-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "EA SPORTS FC 27",
-      "es": "EA SPORTS FC 27",
-      "it": "EA SPORTS FC 27"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-25",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of EA SPORTS FC 27.",
-      "es": "El lanzamiento previsto de EA SPORTS FC 27 para Nintendo Switch 2.",
-      "it": "L'uscita prevista di EA SPORTS FC 27 per Nintendo Switch 2."
     }
   },
   {
@@ -1336,9 +1116,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Final Fantasy VII Revelation.",
-      "es": "El lanzamiento previsto de Final Fantasy VII Revelation para PlayStation 5.",
-      "it": "L'uscita prevista di Final Fantasy VII Revelation per PlayStation 5."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Final Fantasy VII Revelation.",
+      "es": "El lanzamiento previsto de Final Fantasy VII Revelation para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Final Fantasy VII Revelation per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1584,468 +1364,6 @@
     }
   },
   {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Another Day",
-      "es": "Another Day",
-      "it": "Another Day"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Another Day.",
-      "es": "El estreno cinematográfico previsto de Another Day.",
-      "it": "L'uscita cinematografica prevista di Another Day."
-    },
-    "id": "another-day-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Forgotten Island",
-      "es": "Forgotten Island",
-      "it": "Forgotten Island"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Forgotten Island.",
-      "es": "El estreno cinematográfico previsto de Forgotten Island.",
-      "it": "L'uscita cinematografica prevista di Forgotten Island."
-    },
-    "id": "forgotten-island-2-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Possible Love",
-      "es": "Possible Love",
-      "it": "Possible Love"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Possible Love.",
-      "es": "El estreno cinematográfico previsto de Possible Love.",
-      "it": "L'uscita cinematografica prevista di Possible Love."
-    },
-    "id": "possible-love-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Tazza: The Song of Beelzebub",
-      "es": "Tazza: The Song of Beelzebub",
-      "it": "Tazza: The Song of Beelzebub"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Tazza: The Song of Beelzebub.",
-      "es": "El estreno cinematográfico previsto de Tazza: The Song of Beelzebub.",
-      "it": "L'uscita cinematografica prevista di Tazza: The Song of Beelzebub."
-    },
-    "id": "tazza-the-song-of-beelzebub-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Love Hypothesis",
-      "es": "The Love Hypothesis",
-      "it": "The Love Hypothesis"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Love Hypothesis.",
-      "es": "El estreno cinematográfico previsto de The Love Hypothesis.",
-      "it": "L'uscita cinematografica prevista di The Love Hypothesis."
-    },
-    "id": "the-love-hypothesis-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Phantom Of The Opera",
-      "es": "The Phantom Of The Opera",
-      "it": "The Phantom Of The Opera"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Phantom Of The Opera.",
-      "es": "El estreno cinematográfico previsto de The Phantom Of The Opera.",
-      "it": "L'uscita cinematografica prevista di The Phantom Of The Opera."
-    },
-    "id": "the-phantom-of-the-opera-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Common Story",
-      "es": "A Common Story",
-      "it": "A Common Story"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Common Story.",
-      "es": "El estreno cinematográfico previsto de A Common Story.",
-      "it": "L'uscita cinematografica prevista di A Common Story."
-    },
-    "id": "a-common-story-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Berlin 1024*576",
-      "es": "Berlin 1024*576",
-      "it": "Berlin 1024*576"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Berlin 1024*576.",
-      "es": "El estreno cinematográfico previsto de Berlin 1024*576.",
-      "it": "L'uscita cinematografica prevista di Berlin 1024*576."
-    },
-    "id": "berlin-1024-576-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Bibi Blocksberg – The Bewitched Time Travel",
-      "es": "Bibi Blocksberg – The Bewitched Time Travel",
-      "it": "Bibi Blocksberg – The Bewitched Time Travel"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Bibi Blocksberg – The Bewitched Time Travel.",
-      "es": "El estreno cinematográfico previsto de Bibi Blocksberg – The Bewitched Time Travel.",
-      "it": "L'uscita cinematografica prevista di Bibi Blocksberg – The Bewitched Time Travel."
-    },
-    "id": "bibi-blocksberg-the-bewitched-time-travel-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Blue Lock",
-      "es": "Blue Lock",
-      "it": "Blue Lock"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Blue Lock.",
-      "es": "El estreno cinematográfico previsto de Blue Lock.",
-      "it": "L'uscita cinematografica prevista di Blue Lock."
-    },
-    "id": "blue-lock-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Coyote vs. Acme",
-      "es": "Coyote vs. Acme",
-      "it": "Coyote vs. Acme"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Coyote vs. Acme.",
-      "es": "El estreno cinematográfico previsto de Coyote vs. Acme.",
-      "it": "L'uscita cinematografica prevista di Coyote vs. Acme."
-    },
-    "id": "coyote-vs-acme-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Disunited Nations",
-      "es": "Disunited Nations",
-      "it": "Disunited Nations"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Disunited Nations.",
-      "es": "El estreno cinematográfico previsto de Disunited Nations.",
-      "it": "L'uscita cinematografica prevista di Disunited Nations."
-    },
-    "id": "disunited-nations-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Exhibition on Screen: Turner & Constable",
-      "es": "Exhibition on Screen: Turner & Constable",
-      "it": "Exhibition on Screen: Turner & Constable"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Exhibition on Screen: Turner & Constable.",
-      "es": "El estreno cinematográfico previsto de Exhibition on Screen: Turner & Constable.",
-      "it": "L'uscita cinematografica prevista di Exhibition on Screen: Turner & Constable."
-    },
-    "id": "exhibition-on-screen-turner-constable-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Gobble",
-      "es": "Gobble",
-      "it": "Gobble"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Gobble.",
-      "es": "El lanzamiento previsto de Gobble para PlayStation.",
-      "it": "L'uscita prevista di Gobble per PlayStation."
-    },
-    "id": "gobble-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Ibu, Bagaimana Aku Tanpamu?",
-      "es": "Ibu, Bagaimana Aku Tanpamu?",
-      "it": "Ibu, Bagaimana Aku Tanpamu?"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Ibu, Bagaimana Aku Tanpamu?.",
-      "es": "El estreno cinematográfico previsto de Ibu, Bagaimana Aku Tanpamu?.",
-      "it": "L'uscita cinematografica prevista di Ibu, Bagaimana Aku Tanpamu?."
-    },
-    "id": "ibu-bagaimana-aku-tanpamu-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Lovebox",
-      "es": "Lovebox",
-      "it": "Lovebox"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Lovebox.",
-      "es": "El estreno cinematográfico previsto de Lovebox.",
-      "it": "L'uscita cinematografica prevista di Lovebox."
-    },
-    "id": "lovebox-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Memburu Pemangsa",
-      "es": "Memburu Pemangsa",
-      "it": "Memburu Pemangsa"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Memburu Pemangsa.",
-      "es": "El estreno cinematográfico previsto de Memburu Pemangsa.",
-      "it": "L'uscita cinematografica prevista di Memburu Pemangsa."
-    },
-    "id": "memburu-pemangsa-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Mr. Nobody Against Putin",
-      "es": "Mr. Nobody Against Putin",
-      "it": "Mr. Nobody Against Putin"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Mr. Nobody Against Putin.",
-      "es": "El estreno cinematográfico previsto de Mr. Nobody Against Putin.",
-      "it": "L'uscita cinematografica prevista di Mr. Nobody Against Putin."
-    },
-    "id": "mr-nobody-against-putin-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Primetime",
-      "es": "Primetime",
-      "it": "Primetime"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Primetime.",
-      "es": "El estreno cinematográfico previsto de Primetime.",
-      "it": "L'uscita cinematografica prevista di Primetime."
-    },
-    "id": "primetime-2-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Shame and Money",
-      "es": "Shame and Money",
-      "it": "Shame and Money"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-24",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Shame and Money.",
-      "es": "El estreno cinematográfico previsto de Shame and Money.",
-      "it": "L'uscita cinematografica prevista di Shame and Money."
-    },
-    "id": "shame-and-money-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Relic: First Guardian",
-      "es": "The Relic: First Guardian",
-      "it": "The Relic: First Guardian"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-25",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of The Relic: First Guardian.",
-      "es": "El lanzamiento previsto de The Relic: First Guardian para PlayStation.",
-      "it": "L'uscita prevista di The Relic: First Guardian per PlayStation."
-    },
-    "id": "the-relic-first-guardian-2026"
-  },
-  {
     "category": "Game",
     "localizedNames": {
       "en": "Minecraft Dungeons II",
@@ -2061,9 +1379,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Minecraft Dungeons II.",
-      "es": "El lanzamiento previsto de Minecraft Dungeons II para PlayStation.",
-      "it": "L'uscita prevista di Minecraft Dungeons II per PlayStation."
+      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Minecraft Dungeons II.",
+      "es": "El lanzamiento previsto de Minecraft Dungeons II para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Minecraft Dungeons II per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
     },
     "id": "minecraft-dungeons-ii-2026"
   },
@@ -2088,5 +1406,203 @@
       "it": "L'uscita prevista di TOEM 2 per PlayStation."
     },
     "id": "toem-2-2026"
+  },
+  {
+    "id": "verity-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Verity",
+      "es": "Verity",
+      "it": "Verity"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The worldwide theatrical release of Amazon MGM Studios' psychological thriller Verity.",
+      "es": "El estreno mundial en cines del thriller psicológico Verity de Amazon MGM Studios.",
+      "it": "L'uscita cinematografica mondiale del thriller psicologico Verity di Amazon MGM Studios."
+    }
+  },
+  {
+    "id": "hunters-moon-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Hunter's Moon",
+      "es": "Hunter's Moon",
+      "it": "Hunter's Moon"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-26",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of the historical folk-horror adventure Hunter's Moon.",
+      "es": "El lanzamiento previsto para PlayStation 5 de la aventura histórica de terror folclórico Hunter's Moon.",
+      "it": "L'uscita prevista per PlayStation 5 dell'avventura horror folk storica Hunter's Moon."
+    }
+  },
+  {
+    "id": "i-play-rocky-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "I Play Rocky",
+      "es": "I Play Rocky",
+      "it": "I Play Rocky"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-06",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The select-theater release of Amazon MGM Studios' film about the making of Rocky.",
+      "es": "El estreno en cines seleccionados de la película de Amazon MGM Studios sobre la creación de Rocky.",
+      "it": "L'uscita in sale selezionate del film Amazon MGM Studios sulla realizzazione di Rocky."
+    }
+  },
+  {
+    "id": "pikmin-4-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Pikmin 4",
+      "es": "Pikmin 4",
+      "it": "Pikmin 4"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-12",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The Nintendo Switch 2 release of Pikmin 4, including Dandori Academy.",
+      "es": "El lanzamiento de Pikmin 4 para Nintendo Switch 2, incluida Dandori Academy.",
+      "it": "L'uscita di Pikmin 4 per Nintendo Switch 2, inclusa Dandori Academy."
+    }
+  },
+  {
+    "id": "madden-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Madden",
+      "es": "Madden",
+      "it": "Madden"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The global Prime Video premiere of the film chronicling John Madden's career.",
+      "es": "El estreno mundial en Prime Video de la película que narra la carrera de John Madden.",
+      "it": "La prima mondiale su Prime Video del film che racconta la carriera di John Madden."
+    }
+  },
+  {
+    "id": "hela-of-mice-and-magic-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Hela: of Mice & Magic",
+      "es": "Hela: of Mice & Magic",
+      "it": "Hela: of Mice & Magic"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-01",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of the cooperative adventure Hela: of Mice & Magic.",
+      "es": "El lanzamiento previsto para PlayStation 5 de la aventura cooperativa Hela: of Mice & Magic.",
+      "it": "L'uscita prevista per PlayStation 5 dell'avventura cooperativa Hela: of Mice & Magic."
+    }
+  },
+  {
+    "id": "xenoblade-chronicles-3-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Xenoblade Chronicles 3",
+      "es": "Xenoblade Chronicles 3",
+      "it": "Xenoblade Chronicles 3"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 edition release of Xenoblade Chronicles 3.",
+      "es": "El lanzamiento previsto de la edición de Xenoblade Chronicles 3 para Nintendo Switch 2.",
+      "it": "L'uscita prevista dell'edizione di Xenoblade Chronicles 3 per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "monster-hunter-wilds-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Monster Hunter Wilds",
+      "es": "Monster Hunter Wilds",
+      "it": "Monster Hunter Wilds"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-04",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Monster Hunter Wilds.",
+      "es": "El lanzamiento previsto de Monster Hunter Wilds para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Monster Hunter Wilds per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity-switch-2-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Hyrule Warriors: Age of Calamity",
+      "es": "Hyrule Warriors: Age of Calamity",
+      "it": "Hyrule Warriors: Age of Calamity"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-25",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of the definitive edition of Hyrule Warriors: Age of Calamity.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 de la edición definitiva de Hyrule Warriors: Age of Calamity.",
+      "it": "L'uscita prevista per Nintendo Switch 2 dell'edizione definitiva di Hyrule Warriors: Age of Calamity."
+    }
   }
 ]
