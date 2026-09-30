@@ -448,7 +448,7 @@
       "it": "Rayman Legends Retold"
     },
     "allDay": true,
-    "dueDate": "2026-10-01",
+    "dueDate": "2026-12-03",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -500,9 +500,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Castlevania: Belmont's Curse.",
-      "es": "El lanzamiento previsto de Castlevania: Belmont's Curse para PlayStation 5.",
-      "it": "L'uscita prevista di Castlevania: Belmont's Curse per PlayStation 5."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch release of Castlevania: Belmont's Curse.",
+      "es": "El lanzamiento previsto de Castlevania: Belmont's Curse para PlayStation 5 y Nintendo Switch.",
+      "it": "L'uscita prevista di Castlevania: Belmont's Curse per PlayStation 5 e Nintendo Switch."
     }
   },
   {
@@ -1122,28 +1122,6 @@
     }
   },
   {
-    "id": "the-witcher-3-wild-hunt-remastered-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Witcher 3: Wild Hunt — Remastered",
-      "es": "The Witcher 3: Wild Hunt — Remastered",
-      "it": "The Witcher 3: Wild Hunt — Remastered"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-29",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of The Witcher 3: Wild Hunt — Remastered.",
-      "es": "El lanzamiento previsto de The Witcher 3: Wild Hunt — Remastered para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di The Witcher 3: Wild Hunt — Remastered per PlayStation 5 e Nintendo Switch 2."
-    }
-  },
-  {
     "id": "the-legend-of-zelda-ocarina-of-time-2026",
     "category": "Game",
     "localizedNames": {
@@ -1364,50 +1342,6 @@
     }
   },
   {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Minecraft Dungeons II",
-      "es": "Minecraft Dungeons II",
-      "it": "Minecraft Dungeons II"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-29",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Minecraft Dungeons II.",
-      "es": "El lanzamiento previsto de Minecraft Dungeons II para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Minecraft Dungeons II per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
-    },
-    "id": "minecraft-dungeons-ii-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "TOEM 2",
-      "es": "TOEM 2",
-      "it": "TOEM 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-09-29",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of TOEM 2.",
-      "es": "El lanzamiento previsto de TOEM 2 para PlayStation.",
-      "it": "L'uscita prevista di TOEM 2 per PlayStation."
-    },
-    "id": "toem-2-2026"
-  },
-  {
     "id": "verity-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1603,6 +1537,402 @@
       "en": "The scheduled Nintendo Switch 2 release of the definitive edition of Hyrule Warriors: Age of Calamity.",
       "es": "El lanzamiento previsto para Nintendo Switch 2 de la edición definitiva de Hyrule Warriors: Age of Calamity.",
       "it": "L'uscita prevista per Nintendo Switch 2 dell'edizione definitiva di Hyrule Warriors: Age of Calamity."
+    }
+  },
+  {
+    "id": "end-of-abyss-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "End of Abyss",
+      "es": "End of Abyss",
+      "it": "End of Abyss"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of End of Abyss.",
+      "es": "El lanzamiento previsto de End of Abyss para PlayStation 5.",
+      "it": "L'uscita prevista di End of Abyss per PlayStation 5."
+    }
+  },
+  {
+    "id": "dont-fret-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Don't Fret",
+      "es": "Don't Fret",
+      "it": "Don't Fret"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Don't Fret.",
+      "es": "El lanzamiento previsto de Don't Fret para PlayStation 5.",
+      "it": "L'uscita prevista di Don't Fret per PlayStation 5."
+    }
+  },
+  {
+    "id": "clive-barkers-hellraiser-revival-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Clive Barker's Hellraiser: Revival",
+      "es": "Clive Barker's Hellraiser: Revival",
+      "it": "Clive Barker's Hellraiser: Revival"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-08",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Clive Barker's Hellraiser: Revival.",
+      "es": "El lanzamiento previsto de Clive Barker's Hellraiser: Revival para PlayStation 5.",
+      "it": "L'uscita prevista di Clive Barker's Hellraiser: Revival per PlayStation 5."
+    }
+  },
+  {
+    "id": "forever-ago-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Forever Ago",
+      "es": "Forever Ago",
+      "it": "Forever Ago"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-08",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Forever Ago.",
+      "es": "El lanzamiento previsto de Forever Ago para PlayStation 5.",
+      "it": "L'uscita prevista di Forever Ago per PlayStation 5."
+    }
+  },
+  {
+    "id": "planet-zoo-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Planet Zoo 2",
+      "es": "Planet Zoo 2",
+      "it": "Planet Zoo 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-13",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Planet Zoo 2.",
+      "es": "El lanzamiento previsto de Planet Zoo 2 para PlayStation 5.",
+      "it": "L'uscita prevista di Planet Zoo 2 per PlayStation 5."
+    }
+  },
+  {
+    "id": "warhammer-40000-boltgun-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Warhammer 40,000: Boltgun 2",
+      "es": "Warhammer 40,000: Boltgun 2",
+      "it": "Warhammer 40,000: Boltgun 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-14",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Warhammer 40,000: Boltgun 2.",
+      "es": "El lanzamiento previsto de Warhammer 40,000: Boltgun 2 para PlayStation 5.",
+      "it": "L'uscita prevista di Warhammer 40,000: Boltgun 2 per PlayStation 5."
+    }
+  },
+  {
+    "id": "resident-evil-2-deluxe-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Resident Evil 2 Deluxe Edition",
+      "es": "Resident Evil 2 Deluxe Edition",
+      "it": "Resident Evil 2 Deluxe Edition"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 2 Deluxe Edition.",
+      "es": "El lanzamiento previsto de Resident Evil 2 Deluxe Edition para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Resident Evil 2 Deluxe Edition per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "remothered-red-nuns-legacy-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Remothered: Red Nun's Legacy",
+      "es": "Remothered: Red Nun's Legacy",
+      "it": "Remothered: Red Nun's Legacy"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Remothered: Red Nun's Legacy.",
+      "es": "El lanzamiento previsto de Remothered: Red Nun's Legacy para PlayStation 5.",
+      "it": "L'uscita prevista di Remothered: Red Nun's Legacy per PlayStation 5."
+    }
+  },
+  {
+    "id": "steins-gate-reboot-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "STEINS;GATE RE:BOOT",
+      "es": "STEINS;GATE RE:BOOT",
+      "it": "STEINS;GATE RE:BOOT"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch, Nintendo Switch 2, and PlayStation 5 release of STEINS;GATE RE:BOOT.",
+      "es": "El lanzamiento previsto de STEINS;GATE RE:BOOT para Nintendo Switch, Nintendo Switch 2 y PlayStation 5.",
+      "it": "L'uscita prevista di STEINS;GATE RE:BOOT per Nintendo Switch, Nintendo Switch 2 e PlayStation 5."
+    }
+  },
+  {
+    "id": "the-wolf-among-us-remastered-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Wolf Among Us Remastered",
+      "es": "The Wolf Among Us Remastered",
+      "it": "The Wolf Among Us Remastered"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of The Wolf Among Us Remastered.",
+      "es": "El lanzamiento previsto de The Wolf Among Us Remastered para PlayStation 5.",
+      "it": "L'uscita prevista di The Wolf Among Us Remastered per PlayStation 5."
+    }
+  },
+  {
+    "id": "zero-parades-for-dead-spies-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "ZERO PARADES: For Dead Spies",
+      "es": "ZERO PARADES: For Dead Spies",
+      "it": "ZERO PARADES: For Dead Spies"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-03",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of ZERO PARADES: For Dead Spies.",
+      "es": "El lanzamiento previsto de ZERO PARADES: For Dead Spies para PlayStation 5.",
+      "it": "L'uscita prevista di ZERO PARADES: For Dead Spies per PlayStation 5."
+    }
+  },
+  {
+    "id": "metaphor-refantazio-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Metaphor: ReFantazio",
+      "es": "Metaphor: ReFantazio",
+      "it": "Metaphor: ReFantazio"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-12",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Metaphor: ReFantazio.",
+      "es": "El lanzamiento previsto de Metaphor: ReFantazio para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Metaphor: ReFantazio per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "professor-layton-and-the-new-world-of-steam-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Professor Layton and the New World of Steam",
+      "es": "Professor Layton and the New World of Steam",
+      "it": "Professor Layton and the New World of Steam"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-10",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 release of Professor Layton and the New World of Steam.",
+      "es": "El lanzamiento previsto de Professor Layton and the New World of Steam para Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Professor Layton and the New World of Steam per Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "you-can-see-everything-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "You Can See Everything",
+      "es": "Puedes verlo todo",
+      "it": "Puoi vedere tutto"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A24's You Can See Everything.",
+      "es": "El estreno cinematográfico previsto de Puedes verlo todo, de A24.",
+      "it": "L'uscita cinematografica prevista di Puoi vedere tutto, distribuito da A24."
+    }
+  },
+  {
+    "id": "wicker-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Wicker",
+      "es": "Mimbre",
+      "it": "Vimini"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Wicker.",
+      "es": "El estreno cinematográfico previsto de Mimbre.",
+      "it": "L'uscita cinematografica prevista di Vimini."
+    }
+  },
+  {
+    "id": "steps-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Steps",
+      "es": "Pasos",
+      "it": "Passi"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Netflix premiere of the animated film Steps.",
+      "es": "El estreno previsto en Netflix de la película animada Pasos.",
+      "it": "La première prevista su Netflix del film d'animazione Passi."
+    }
+  },
+  {
+    "id": "hexed-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Hexed",
+      "es": "Hechizada",
+      "it": "Stregata"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Disney's animated film Hexed.",
+      "es": "El estreno cinematográfico previsto de la película animada Hechizada de Disney.",
+      "it": "L'uscita cinematografica prevista del film d'animazione Disney Stregata."
+    }
+  },
+  {
+    "id": "ray-gunn-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Ray Gunn",
+      "es": "Ray Gunn",
+      "it": "Ray Gunn"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Netflix premiere of Brad Bird's animated film Ray Gunn.",
+      "es": "El estreno previsto en Netflix de la película animada Ray Gunn, de Brad Bird.",
+      "it": "La première prevista su Netflix del film d'animazione Ray Gunn di Brad Bird."
     }
   }
 ]
