@@ -448,7 +448,7 @@
       "it": "Rayman Legends Retold"
     },
     "allDay": true,
-    "dueDate": "2026-10-01",
+    "dueDate": "2026-12-03",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -500,9 +500,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Castlevania: Belmont's Curse.",
-      "es": "El lanzamiento previsto de Castlevania: Belmont's Curse para PlayStation 5.",
-      "it": "L'uscita prevista di Castlevania: Belmont's Curse per PlayStation 5."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch release of Castlevania: Belmont's Curse.",
+      "es": "El lanzamiento previsto de Castlevania: Belmont's Curse para PlayStation 5 y Nintendo Switch.",
+      "it": "L'uscita prevista di Castlevania: Belmont's Curse per PlayStation 5 e Nintendo Switch."
     }
   },
   {
