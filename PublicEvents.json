@@ -1540,12 +1540,165 @@
     }
   },
   {
-    "id": "end-of-abyss-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "De Grote Sinterklaasfilm en de vliegende Pieten",
+      "es": "De Grote Sinterklaasfilm en de vliegende Pieten",
+      "it": "De Grote Sinterklaasfilm en de vliegende Pieten"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of De Grote Sinterklaasfilm en de vliegende Pieten.",
+      "es": "El estreno cinematográfico previsto de De Grote Sinterklaasfilm en de vliegende Pieten.",
+      "it": "L'uscita cinematografica prevista di De Grote Sinterklaasfilm en de vliegende Pieten."
+    },
+    "id": "de-grote-sinterklaasfilm-en-de-vliegende-pieten-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Linkin Park: Unshatter",
+      "es": "Linkin Park: Unshatter",
+      "it": "Linkin Park: Unshatter"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Linkin Park: Unshatter.",
+      "es": "El estreno cinematográfico previsto de Linkin Park: Unshatter.",
+      "it": "L'uscita cinematografica prevista di Linkin Park: Unshatter."
+    },
+    "id": "linkin-park-unshatter-2026"
+  },
+  {
     "category": "Game",
     "localizedNames": {
-      "en": "End of Abyss",
-      "es": "End of Abyss",
-      "it": "End of Abyss"
+      "en": "Songs of Glimmerwick",
+      "es": "Songs of Glimmerwick",
+      "it": "Songs of Glimmerwick"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Songs of Glimmerwick.",
+      "es": "El lanzamiento previsto de Songs of Glimmerwick para PlayStation.",
+      "it": "L'uscita prevista di Songs of Glimmerwick per PlayStation."
+    },
+    "id": "songs-of-glimmerwick-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Doll",
+      "es": "The Doll",
+      "it": "The Doll"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Doll.",
+      "es": "El estreno cinematográfico previsto de The Doll.",
+      "it": "L'uscita cinematografica prevista di The Doll."
+    },
+    "id": "the-doll-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Viractal",
+      "es": "Viractal",
+      "it": "Viractal"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-30",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Viractal.",
+      "es": "El lanzamiento previsto de Viractal para Nintendo.",
+      "it": "L'uscita prevista di Viractal per Nintendo."
+    },
+    "id": "viractal-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Chempion film 2026",
+      "es": "Chempion film 2026",
+      "it": "Chempion film 2026"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Chempion film 2026.",
+      "es": "El estreno cinematográfico previsto de Chempion film 2026.",
+      "it": "L'uscita cinematografica prevista di Chempion film 2026."
+    },
+    "id": "chempion-film-2026-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Digger",
+      "es": "Digger",
+      "it": "Digger"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Digger.",
+      "es": "El estreno cinematográfico previsto de Digger.",
+      "it": "L'uscita cinematografica prevista di Digger."
+    },
+    "id": "digger-2-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Dynasty Warriors 3: Complete Edition Remastered",
+      "es": "Dynasty Warriors 3: Complete Edition Remastered",
+      "it": "Dynasty Warriors 3: Complete Edition Remastered"
     },
     "allDay": true,
     "dueDate": "2026-10-01",
@@ -1556,18 +1709,84 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of End of Abyss.",
-      "es": "El lanzamiento previsto de End of Abyss para PlayStation 5.",
-      "it": "L'uscita prevista di End of Abyss per PlayStation 5."
-    }
+      "en": "The scheduled PlayStation release of Dynasty Warriors 3: Complete Edition Remastered.",
+      "es": "El lanzamiento previsto de Dynasty Warriors 3: Complete Edition Remastered para PlayStation.",
+      "it": "L'uscita prevista di Dynasty Warriors 3: Complete Edition Remastered per PlayStation."
+    },
+    "id": "dynasty-warriors-3-complete-edition-remastered-2026"
   },
   {
-    "id": "dont-fret-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Flies",
+      "es": "Flies",
+      "it": "Flies"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Flies.",
+      "es": "El estreno cinematográfico previsto de Flies.",
+      "it": "L'uscita cinematografica prevista di Flies."
+    },
+    "id": "flies-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Ground Floor",
+      "es": "Ground Floor",
+      "it": "Ground Floor"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Ground Floor.",
+      "es": "El estreno cinematográfico previsto de Ground Floor.",
+      "it": "L'uscita cinematografica prevista di Ground Floor."
+    },
+    "id": "ground-floor-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Hadestown: The Musical",
+      "es": "Hadestown: The Musical",
+      "it": "Hadestown: The Musical"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Hadestown: The Musical.",
+      "es": "El estreno cinematográfico previsto de Hadestown: The Musical.",
+      "it": "L'uscita cinematografica prevista di Hadestown: The Musical."
+    },
+    "id": "hadestown-the-musical-2026"
+  },
+  {
     "category": "Game",
     "localizedNames": {
-      "en": "Don't Fret",
-      "es": "Don't Fret",
-      "it": "Don't Fret"
+      "en": "Heartworm",
+      "es": "Heartworm",
+      "it": "Heartworm"
     },
     "allDay": true,
     "dueDate": "2026-10-01",
@@ -1578,109 +1797,329 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Don't Fret.",
-      "es": "El lanzamiento previsto de Don't Fret para PlayStation 5.",
-      "it": "L'uscita prevista di Don't Fret per PlayStation 5."
-    }
+      "en": "The scheduled PlayStation release of Heartworm.",
+      "es": "El lanzamiento previsto de Heartworm para PlayStation.",
+      "it": "L'uscita prevista di Heartworm per PlayStation."
+    },
+    "id": "heartworm-2026"
   },
   {
-    "id": "clive-barkers-hellraiser-revival-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Clive Barker's Hellraiser: Revival",
-      "es": "Clive Barker's Hellraiser: Revival",
-      "it": "Clive Barker's Hellraiser: Revival"
+      "en": "Hubert",
+      "es": "Hubert",
+      "it": "Hubert"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Hubert.",
+      "es": "El lanzamiento previsto de Hubert para PlayStation.",
+      "it": "L'uscita prevista di Hubert per PlayStation."
+    },
+    "id": "hubert-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Kousai Toshi",
+      "es": "Kousai Toshi",
+      "it": "Kousai Toshi"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Kousai Toshi.",
+      "es": "El lanzamiento previsto de Kousai Toshi para Nintendo.",
+      "it": "L'uscita prevista di Kousai Toshi per Nintendo."
+    },
+    "id": "kousai-toshi-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Linkin Park: Unshatter",
+      "es": "Linkin Park: Unshatter",
+      "it": "Linkin Park: Unshatter"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Linkin Park: Unshatter.",
+      "es": "El estreno cinematográfico previsto de Linkin Park: Unshatter.",
+      "it": "L'uscita cinematografica prevista di Linkin Park: Unshatter."
+    },
+    "id": "linkin-park-unshatter-2-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Lottie Dottie Chicken: The Movie",
+      "es": "Lottie Dottie Chicken: The Movie",
+      "it": "Lottie Dottie Chicken: The Movie"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Lottie Dottie Chicken: The Movie.",
+      "es": "El estreno cinematográfico previsto de Lottie Dottie Chicken: The Movie.",
+      "it": "L'uscita cinematografica prevista di Lottie Dottie Chicken: The Movie."
+    },
+    "id": "lottie-dottie-chicken-the-movie-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Octopath Traveler",
+      "es": "Octopath Traveler",
+      "it": "Octopath Traveler"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Octopath Traveler.",
+      "es": "El lanzamiento previsto de Octopath Traveler para PlayStation.",
+      "it": "L'uscita prevista di Octopath Traveler per PlayStation."
+    },
+    "id": "octopath-traveler-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Omega",
+      "es": "Omega",
+      "it": "Omega"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Omega.",
+      "es": "El estreno cinematográfico previsto de Omega.",
+      "it": "L'uscita cinematografica prevista di Omega."
+    },
+    "id": "omega-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Programmed to Stay",
+      "es": "Programmed to Stay",
+      "it": "Programmed to Stay"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Programmed to Stay.",
+      "es": "El estreno cinematográfico previsto de Programmed to Stay.",
+      "it": "L'uscita cinematografica prevista di Programmed to Stay."
+    },
+    "id": "programmed-to-stay-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Hole, 309 Days to the Bloodiest Tragedy",
+      "es": "The Hole, 309 Days to the Bloodiest Tragedy",
+      "it": "The Hole, 309 Days to the Bloodiest Tragedy"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Hole, 309 Days to the Bloodiest Tragedy.",
+      "es": "El estreno cinematográfico previsto de The Hole, 309 Days to the Bloodiest Tragedy.",
+      "it": "L'uscita cinematografica prevista di The Hole, 309 Days to the Bloodiest Tragedy."
+    },
+    "id": "the-hole-309-days-to-the-bloodiest-tragedy-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Unsmiling Tsarevna",
+      "es": "The Unsmiling Tsarevna",
+      "it": "The Unsmiling Tsarevna"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Unsmiling Tsarevna.",
+      "es": "El estreno cinematográfico previsto de The Unsmiling Tsarevna.",
+      "it": "L'uscita cinematografica prevista di The Unsmiling Tsarevna."
+    },
+    "id": "the-unsmiling-tsarevna-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Tony",
+      "es": "Tony",
+      "it": "Tony"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Tony.",
+      "es": "El estreno cinematográfico previsto de Tony.",
+      "it": "L'uscita cinematografica prevista di Tony."
+    },
+    "id": "tony-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Verity",
+      "es": "Verity",
+      "it": "Verity"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Verity.",
+      "es": "El estreno cinematográfico previsto de Verity.",
+      "it": "L'uscita cinematografica prevista di Verity."
+    },
+    "id": "verity-2-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Voyagers of Nera",
+      "es": "Voyagers of Nera",
+      "it": "Voyagers of Nera"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-01",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Voyagers of Nera.",
+      "es": "El lanzamiento previsto de Voyagers of Nera para PlayStation.",
+      "it": "L'uscita prevista di Voyagers of Nera per PlayStation."
+    },
+    "id": "voyagers-of-nera-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Deck of Haunts",
+      "es": "Deck of Haunts",
+      "it": "Deck of Haunts"
     },
     "allDay": true,
     "dueDate": "2026-10-08",
     "icon": "gamecontroller.fill",
-    "color": "blue",
+    "color": "red",
     "repeatEvent": "Never",
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Clive Barker's Hellraiser: Revival.",
-      "es": "El lanzamiento previsto de Clive Barker's Hellraiser: Revival para PlayStation 5.",
-      "it": "L'uscita prevista di Clive Barker's Hellraiser: Revival per PlayStation 5."
-    }
+      "en": "The scheduled Nintendo release of Deck of Haunts.",
+      "es": "El lanzamiento previsto de Deck of Haunts para Nintendo.",
+      "it": "L'uscita prevista di Deck of Haunts per Nintendo."
+    },
+    "id": "deck-of-haunts-2026"
   },
   {
-    "id": "forever-ago-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Forever Ago",
-      "es": "Forever Ago",
-      "it": "Forever Ago"
+      "en": "Mamon King",
+      "es": "Mamon King",
+      "it": "Mamon King"
     },
     "allDay": true,
     "dueDate": "2026-10-08",
     "icon": "gamecontroller.fill",
-    "color": "blue",
+    "color": "red",
     "repeatEvent": "Never",
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Forever Ago.",
-      "es": "El lanzamiento previsto de Forever Ago para PlayStation 5.",
-      "it": "L'uscita prevista di Forever Ago per PlayStation 5."
-    }
+      "en": "The scheduled Nintendo release of Mamon King.",
+      "es": "El lanzamiento previsto de Mamon King para Nintendo.",
+      "it": "L'uscita prevista di Mamon King per Nintendo."
+    },
+    "id": "mamon-king-2026"
   },
   {
-    "id": "planet-zoo-2-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Planet Zoo 2",
-      "es": "Planet Zoo 2",
-      "it": "Planet Zoo 2"
+      "en": "Once Upon A Katamari",
+      "es": "Once Upon A Katamari",
+      "it": "Once Upon A Katamari"
     },
     "allDay": true,
-    "dueDate": "2026-10-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Planet Zoo 2.",
-      "es": "El lanzamiento previsto de Planet Zoo 2 para PlayStation 5.",
-      "it": "L'uscita prevista di Planet Zoo 2 per PlayStation 5."
-    }
-  },
-  {
-    "id": "warhammer-40000-boltgun-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Warhammer 40,000: Boltgun 2",
-      "es": "Warhammer 40,000: Boltgun 2",
-      "it": "Warhammer 40,000: Boltgun 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-14",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Warhammer 40,000: Boltgun 2.",
-      "es": "El lanzamiento previsto de Warhammer 40,000: Boltgun 2 para PlayStation 5.",
-      "it": "L'uscita prevista di Warhammer 40,000: Boltgun 2 per PlayStation 5."
-    }
-  },
-  {
-    "id": "resident-evil-2-deluxe-edition-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Resident Evil 2 Deluxe Edition",
-      "es": "Resident Evil 2 Deluxe Edition",
-      "it": "Resident Evil 2 Deluxe Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
+    "dueDate": "2026-10-08",
     "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
@@ -1688,43 +2127,21 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 2 Deluxe Edition.",
-      "es": "El lanzamiento previsto de Resident Evil 2 Deluxe Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Resident Evil 2 Deluxe Edition per Nintendo Switch 2."
-    }
+      "en": "The scheduled Nintendo release of Once Upon A Katamari.",
+      "es": "El lanzamiento previsto de Once Upon A Katamari para Nintendo.",
+      "it": "L'uscita prevista di Once Upon A Katamari per Nintendo."
+    },
+    "id": "once-upon-a-katamari-2026"
   },
   {
-    "id": "remothered-red-nuns-legacy-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Remothered: Red Nun's Legacy",
-      "es": "Remothered: Red Nun's Legacy",
-      "it": "Remothered: Red Nun's Legacy"
+      "en": "Silver Pines",
+      "es": "Silver Pines",
+      "it": "Silver Pines"
     },
     "allDay": true,
-    "dueDate": "2026-10-27",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Remothered: Red Nun's Legacy.",
-      "es": "El lanzamiento previsto de Remothered: Red Nun's Legacy para PlayStation 5.",
-      "it": "L'uscita prevista di Remothered: Red Nun's Legacy per PlayStation 5."
-    }
-  },
-  {
-    "id": "steins-gate-reboot-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "STEINS;GATE RE:BOOT",
-      "es": "STEINS;GATE RE:BOOT",
-      "it": "STEINS;GATE RE:BOOT"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-29",
+    "dueDate": "2026-10-08",
     "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
@@ -1732,207 +2149,10 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch, Nintendo Switch 2, and PlayStation 5 release of STEINS;GATE RE:BOOT.",
-      "es": "El lanzamiento previsto de STEINS;GATE RE:BOOT para Nintendo Switch, Nintendo Switch 2 y PlayStation 5.",
-      "it": "L'uscita prevista di STEINS;GATE RE:BOOT per Nintendo Switch, Nintendo Switch 2 e PlayStation 5."
-    }
-  },
-  {
-    "id": "the-wolf-among-us-remastered-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Wolf Among Us Remastered",
-      "es": "The Wolf Among Us Remastered",
-      "it": "The Wolf Among Us Remastered"
+      "en": "The scheduled Nintendo release of Silver Pines.",
+      "es": "El lanzamiento previsto de Silver Pines para Nintendo.",
+      "it": "L'uscita prevista di Silver Pines per Nintendo."
     },
-    "allDay": true,
-    "dueDate": "2026-10-29",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of The Wolf Among Us Remastered.",
-      "es": "El lanzamiento previsto de The Wolf Among Us Remastered para PlayStation 5.",
-      "it": "L'uscita prevista di The Wolf Among Us Remastered per PlayStation 5."
-    }
-  },
-  {
-    "id": "zero-parades-for-dead-spies-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "ZERO PARADES: For Dead Spies",
-      "es": "ZERO PARADES: For Dead Spies",
-      "it": "ZERO PARADES: For Dead Spies"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-03",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of ZERO PARADES: For Dead Spies.",
-      "es": "El lanzamiento previsto de ZERO PARADES: For Dead Spies para PlayStation 5.",
-      "it": "L'uscita prevista di ZERO PARADES: For Dead Spies per PlayStation 5."
-    }
-  },
-  {
-    "id": "metaphor-refantazio-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Metaphor: ReFantazio",
-      "es": "Metaphor: ReFantazio",
-      "it": "Metaphor: ReFantazio"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-12",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Metaphor: ReFantazio.",
-      "es": "El lanzamiento previsto de Metaphor: ReFantazio para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Metaphor: ReFantazio per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "professor-layton-and-the-new-world-of-steam-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Professor Layton and the New World of Steam",
-      "es": "Professor Layton and the New World of Steam",
-      "it": "Professor Layton and the New World of Steam"
-    },
-    "allDay": true,
-    "dueDate": "2026-12-10",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 release of Professor Layton and the New World of Steam.",
-      "es": "El lanzamiento previsto de Professor Layton and the New World of Steam para Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Professor Layton and the New World of Steam per Nintendo Switch e Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "you-can-see-everything-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "You Can See Everything",
-      "es": "Puedes verlo todo",
-      "it": "Puoi vedere tutto"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A24's You Can See Everything.",
-      "es": "El estreno cinematográfico previsto de Puedes verlo todo, de A24.",
-      "it": "L'uscita cinematografica prevista di Puoi vedere tutto, distribuito da A24."
-    }
-  },
-  {
-    "id": "wicker-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Wicker",
-      "es": "Mimbre",
-      "it": "Vimini"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-23",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Wicker.",
-      "es": "El estreno cinematográfico previsto de Mimbre.",
-      "it": "L'uscita cinematografica prevista di Vimini."
-    }
-  },
-  {
-    "id": "steps-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Steps",
-      "es": "Pasos",
-      "it": "Passi"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-20",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Netflix premiere of the animated film Steps.",
-      "es": "El estreno previsto en Netflix de la película animada Pasos.",
-      "it": "La première prevista su Netflix del film d'animazione Passi."
-    }
-  },
-  {
-    "id": "hexed-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Hexed",
-      "es": "Hechizada",
-      "it": "Stregata"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-25",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Disney's animated film Hexed.",
-      "es": "El estreno cinematográfico previsto de la película animada Hechizada de Disney.",
-      "it": "L'uscita cinematografica prevista del film d'animazione Disney Stregata."
-    }
-  },
-  {
-    "id": "ray-gunn-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Ray Gunn",
-      "es": "Ray Gunn",
-      "it": "Ray Gunn"
-    },
-    "allDay": true,
-    "dueDate": "2026-12-18",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Netflix premiere of Brad Bird's animated film Ray Gunn.",
-      "es": "El estreno previsto en Netflix de la película animada Ray Gunn, de Brad Bird.",
-      "it": "La première prevista su Netflix del film d'animazione Ray Gunn di Brad Bird."
-    }
+    "id": "silver-pines-2026"
   }
 ]
