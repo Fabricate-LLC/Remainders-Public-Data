@@ -1533,13 +1533,102 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Silver Pines.",
-      "es": "El lanzamiento previsto de Silver Pines para Nintendo.",
-      "it": "L'uscita prevista di Silver Pines per Nintendo."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Silver Pines.",
+      "es": "El lanzamiento previsto de Silver Pines para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Silver Pines per PlayStation 5 e Nintendo Switch 2."
     },
     "id": "silver-pines-2026"
   },
   {
+    "id": "you-can-see-everything-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "You Can See Everything",
+      "es": "You Can See Everything",
+      "it": "You Can See Everything"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A24's documentary You Can See Everything.",
+      "es": "El estreno cinematográfico previsto del documental de A24 You Can See Everything.",
+      "it": "L'uscita cinematografica prevista del documentario A24 You Can See Everything."
+    }
+  },
+  {
+    "id": "klara-and-the-sun-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Klara and the Sun",
+      "es": "Klara and the Sun",
+      "it": "Klara and the Sun"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Sony Pictures' science-fiction drama Klara and the Sun.",
+      "es": "El estreno cinematográfico previsto del drama de ciencia ficción Klara and the Sun, de Sony Pictures.",
+      "it": "L'uscita cinematografica prevista del dramma fantascientifico Klara and the Sun di Sony Pictures."
+    }
+  },
+  {
+    "id": "wicker-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Wicker",
+      "es": "Wicker",
+      "it": "Wicker"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Black Bear's romantic comedy Wicker.",
+      "es": "El estreno cinematográfico previsto de la comedia romántica Wicker, de Black Bear.",
+      "it": "L'uscita cinematografica prevista della commedia romantica Wicker di Black Bear."
+    }
+  },
+  {
+    "id": "the-man-with-the-bag-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Man with the Bag",
+      "es": "The Man with the Bag",
+      "it": "The Man with the Bag"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-02",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The global Prime Video premiere of Amazon MGM Studios' holiday action comedy The Man with the Bag.",
+      "es": "El estreno mundial en Prime Video de la comedia de acción navideña The Man with the Bag, de Amazon MGM Studios.",
+      "it": "La prima mondiale su Prime Video della commedia d'azione natalizia The Man with the Bag di Amazon MGM Studios."
+    }
+  },
+  {
+    "id": "clive-barkers-hellraiser-revival-ps5-2026",
     "category": "Game",
     "localizedNames": {
       "en": "Clive Barker's Hellraiser: Revival",
@@ -1555,57 +1644,13 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Clive Barker's Hellraiser: Revival.",
-      "es": "El lanzamiento previsto de Clive Barker's Hellraiser: Revival para PlayStation.",
-      "it": "L'uscita prevista di Clive Barker's Hellraiser: Revival per PlayStation."
-    },
-    "id": "clive-barker-s-hellraiser-revival-2026"
+      "en": "The scheduled PlayStation 5 release of Clive Barker's Hellraiser: Revival.",
+      "es": "El lanzamiento previsto de Clive Barker's Hellraiser: Revival para PlayStation 5.",
+      "it": "L'uscita prevista di Clive Barker's Hellraiser: Revival per PlayStation 5."
+    }
   },
   {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Earth Defense Force 5",
-      "es": "Earth Defense Force 5",
-      "it": "Earth Defense Force 5"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Earth Defense Force 5.",
-      "es": "El lanzamiento previsto de Earth Defense Force 5 para PlayStation.",
-      "it": "L'uscita prevista di Earth Defense Force 5 per PlayStation."
-    },
-    "id": "earth-defense-force-5-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Echo Weaver",
-      "es": "Echo Weaver",
-      "it": "Echo Weaver"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Echo Weaver.",
-      "es": "El lanzamiento previsto de Echo Weaver para PlayStation.",
-      "it": "L'uscita prevista di Echo Weaver per PlayStation."
-    },
-    "id": "echo-weaver-2026"
-  },
-  {
+    "id": "forever-ago-ps5-2026",
     "category": "Game",
     "localizedNames": {
       "en": "Forever Ago",
@@ -1621,21 +1666,21 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Forever Ago.",
-      "es": "El lanzamiento previsto de Forever Ago para PlayStation.",
-      "it": "L'uscita prevista di Forever Ago per PlayStation."
-    },
-    "id": "forever-ago-2026"
+      "en": "The scheduled PlayStation 5 release of the road-trip adventure Forever Ago.",
+      "es": "El lanzamiento previsto para PlayStation 5 de la aventura de viaje por carretera Forever Ago.",
+      "it": "L'uscita prevista per PlayStation 5 dell'avventura on the road Forever Ago."
+    }
   },
   {
+    "id": "planet-zoo-2-ps5-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "The Relic: First Guardian",
-      "es": "The Relic: First Guardian",
-      "it": "The Relic: First Guardian"
+      "en": "Planet Zoo 2",
+      "es": "Planet Zoo 2",
+      "it": "Planet Zoo 2"
     },
     "allDay": true,
-    "dueDate": "2026-10-09",
+    "dueDate": "2026-10-13",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -1643,21 +1688,21 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of The Relic: First Guardian.",
-      "es": "El lanzamiento previsto de The Relic: First Guardian para PlayStation.",
-      "it": "L'uscita prevista di The Relic: First Guardian per PlayStation."
-    },
-    "id": "the-relic-first-guardian-2026"
+      "en": "The scheduled PlayStation 5 release of the zoo-management simulation Planet Zoo 2.",
+      "es": "El lanzamiento previsto para PlayStation 5 del simulador de gestión de zoológicos Planet Zoo 2.",
+      "it": "L'uscita prevista per PlayStation 5 del gestionale di zoo Planet Zoo 2."
+    }
   },
   {
+    "id": "warhammer-40000-boltgun-2-ps5-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Truckful",
-      "es": "Truckful",
-      "it": "Truckful"
+      "en": "Warhammer 40,000: Boltgun 2",
+      "es": "Warhammer 40,000: Boltgun 2",
+      "it": "Warhammer 40,000: Boltgun 2"
     },
     "allDay": true,
-    "dueDate": "2026-10-09",
+    "dueDate": "2026-10-14",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -1665,21 +1710,109 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Truckful.",
-      "es": "El lanzamiento previsto de Truckful para PlayStation.",
-      "it": "L'uscita prevista di Truckful per PlayStation."
-    },
-    "id": "truckful-2026"
+      "en": "The scheduled PlayStation 5 release of Warhammer 40,000: Boltgun 2.",
+      "es": "El lanzamiento previsto de Warhammer 40,000: Boltgun 2 para PlayStation 5.",
+      "it": "L'uscita prevista di Warhammer 40,000: Boltgun 2 per PlayStation 5."
+    }
   },
   {
+    "id": "stupid-never-dies-ps5-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Sifu",
-      "es": "Sifu",
-      "it": "Sifu"
+      "en": "Stupid Never Dies",
+      "es": "Stupid Never Dies",
+      "it": "Stupid Never Dies"
     },
     "allDay": true,
-    "dueDate": "2026-10-12",
+    "dueDate": "2026-10-21",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of the action role-playing game Stupid Never Dies.",
+      "es": "El lanzamiento previsto para PlayStation 5 del juego de rol y acción Stupid Never Dies.",
+      "it": "L'uscita prevista per PlayStation 5 del gioco di ruolo d'azione Stupid Never Dies."
+    }
+  },
+  {
+    "id": "remothered-red-nuns-legacy-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Remothered: Red Nun's Legacy",
+      "es": "Remothered: Red Nun's Legacy",
+      "it": "Remothered: Red Nun's Legacy"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Remothered: Red Nun's Legacy.",
+      "es": "El lanzamiento previsto de Remothered: Red Nun's Legacy para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Remothered: Red Nun's Legacy per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "the-wolf-among-us-remastered-ps5-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Wolf Among Us Remastered",
+      "es": "The Wolf Among Us Remastered",
+      "it": "The Wolf Among Us Remastered"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of The Wolf Among Us Remastered.",
+      "es": "El lanzamiento previsto de The Wolf Among Us Remastered para PlayStation 5.",
+      "it": "L'uscita prevista di The Wolf Among Us Remastered per PlayStation 5."
+    }
+  },
+  {
+    "id": "zero-parades-directors-cut-ps5-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "ZERO PARADES: Director's Cut",
+      "es": "ZERO PARADES: Director's Cut",
+      "it": "ZERO PARADES: Director's Cut"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-03",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of ZERO PARADES: Director's Cut.",
+      "es": "El lanzamiento previsto de ZERO PARADES: Director's Cut para PlayStation 5.",
+      "it": "L'uscita prevista di ZERO PARADES: Director's Cut per PlayStation 5."
+    }
+  },
+  {
+    "id": "kingdom-hearts-collection-i-iii-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "KINGDOM HEARTS Collection [I～III]",
+      "es": "KINGDOM HEARTS Collection [I～III]",
+      "it": "KINGDOM HEARTS Collection [I～III]"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-08",
     "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
@@ -1687,21 +1820,21 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Sifu.",
-      "es": "El lanzamiento previsto de Sifu para Nintendo.",
-      "it": "L'uscita prevista di Sifu per Nintendo."
-    },
-    "id": "sifu-2026"
+      "en": "The scheduled Nintendo Switch 2 release of KINGDOM HEARTS Collection [I～III].",
+      "es": "El lanzamiento previsto de KINGDOM HEARTS Collection [I～III] para Nintendo Switch 2.",
+      "it": "L'uscita prevista di KINGDOM HEARTS Collection [I～III] per Nintendo Switch 2."
+    }
   },
   {
+    "id": "hell-is-us-switch-2-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Pixel Washer",
-      "es": "Pixel Washer",
-      "it": "Pixel Washer"
+      "en": "Hell is Us",
+      "es": "Hell is Us",
+      "it": "Hell is Us"
     },
     "allDay": true,
-    "dueDate": "2026-10-15",
+    "dueDate": "2026-10-08",
     "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
@@ -1709,18 +1842,62 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Pixel Washer.",
-      "es": "El lanzamiento previsto de Pixel Washer para Nintendo.",
-      "it": "L'uscita prevista di Pixel Washer per Nintendo."
-    },
-    "id": "pixel-washer-2026"
+      "en": "The scheduled Nintendo Switch 2 release of Hell is Us.",
+      "es": "El lanzamiento previsto de Hell is Us para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Hell is Us per Nintendo Switch 2."
+    }
   },
   {
+    "id": "dragons-dogma-2-dark-arisen-switch-2-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Lego Harry Potter Collection",
-      "es": "Lego Harry Potter Collection",
-      "it": "Lego Harry Potter Collection"
+      "en": "Dragon's Dogma 2: Dark Arisen",
+      "es": "Dragon's Dogma 2: Dark Arisen",
+      "it": "Dragon's Dogma 2: Dark Arisen"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-09",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Dragon's Dogma 2: Dark Arisen.",
+      "es": "El lanzamiento previsto de Dragon's Dogma 2: Dark Arisen para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Dragon's Dogma 2: Dark Arisen per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "the-witchs-bakery-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Witch's Bakery",
+      "es": "The Witch's Bakery",
+      "it": "The Witch's Bakery"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-14",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of the adventure role-playing game The Witch's Bakery.",
+      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol y aventura The Witch's Bakery.",
+      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo d'avventura The Witch's Bakery."
+    }
+  },
+  {
+    "id": "resident-evil-2-deluxe-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Resident Evil 2 Deluxe Edition",
+      "es": "Resident Evil 2 Deluxe Edition",
+      "it": "Resident Evil 2 Deluxe Edition"
     },
     "allDay": true,
     "dueDate": "2026-10-16",
@@ -1731,18 +1908,18 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Lego Harry Potter Collection.",
-      "es": "El lanzamiento previsto de Lego Harry Potter Collection para Nintendo.",
-      "it": "L'uscita prevista di Lego Harry Potter Collection per Nintendo."
-    },
-    "id": "lego-harry-potter-collection-2026"
+      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 2 Deluxe Edition.",
+      "es": "El lanzamiento previsto de Resident Evil 2 Deluxe Edition para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Resident Evil 2 Deluxe Edition per Nintendo Switch 2."
+    }
   },
   {
+    "id": "resident-evil-3-switch-2-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Tenebris Somnia",
-      "es": "Tenebris Somnia",
-      "it": "Tenebris Somnia"
+      "en": "Resident Evil 3",
+      "es": "Resident Evil 3",
+      "it": "Resident Evil 3"
     },
     "allDay": true,
     "dueDate": "2026-10-16",
@@ -1753,10 +1930,53 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Tenebris Somnia.",
-      "es": "El lanzamiento previsto de Tenebris Somnia para Nintendo.",
-      "it": "L'uscita prevista di Tenebris Somnia per Nintendo."
+      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 3.",
+      "es": "El lanzamiento previsto de Resident Evil 3 para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Resident Evil 3 per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "resident-evil-4-gold-edition-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Resident Evil 4 Gold Edition",
+      "es": "Resident Evil 4 Gold Edition",
+      "it": "Resident Evil 4 Gold Edition"
     },
-    "id": "tenebris-somnia-2026"
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 4 Gold Edition.",
+      "es": "El lanzamiento previsto de Resident Evil 4 Gold Edition para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Resident Evil 4 Gold Edition per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "minecraft-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Minecraft",
+      "es": "Minecraft",
+      "it": "Minecraft"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-27",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Minecraft.",
+      "es": "El lanzamiento previsto de Minecraft para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Minecraft per Nintendo Switch 2."
+    }
   }
 ]
