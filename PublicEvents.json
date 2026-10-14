@@ -1956,5 +1956,269 @@
       "es": "El lanzamiento previsto de Hello Kitty Party Land para Nintendo Switch 2.",
       "it": "L'uscita prevista di Hello Kitty Party Land per Nintendo Switch 2."
     }
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Warhammer 40,000: Boltgun II",
+      "es": "Warhammer 40,000: Boltgun II",
+      "it": "Warhammer 40,000: Boltgun II"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-14",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Warhammer 40,000: Boltgun II.",
+      "es": "El lanzamiento previsto de Warhammer 40,000: Boltgun II para PlayStation.",
+      "it": "L'uscita prevista di Warhammer 40,000: Boltgun II per PlayStation."
+    },
+    "id": "warhammer-40-000-boltgun-ii-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "over the hill",
+      "es": "over the hill",
+      "it": "over the hill"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-14",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of over the hill.",
+      "es": "El lanzamiento previsto de over the hill para PlayStation.",
+      "it": "L'uscita prevista di over the hill per PlayStation."
+    },
+    "id": "over-the-hill-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Enshrouded",
+      "es": "Enshrouded",
+      "it": "Enshrouded"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-15",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Enshrouded.",
+      "es": "El lanzamiento previsto de Enshrouded para PlayStation.",
+      "it": "L'uscita prevista di Enshrouded per PlayStation."
+    },
+    "id": "enshrouded-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Pixel Washer",
+      "es": "Pixel Washer",
+      "it": "Pixel Washer"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Pixel Washer.",
+      "es": "El lanzamiento previsto de Pixel Washer para Nintendo.",
+      "it": "L'uscita prevista di Pixel Washer per Nintendo."
+    },
+    "id": "pixel-washer-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Tormented Souls 2",
+      "es": "Tormented Souls 2",
+      "it": "Tormented Souls 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-15",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Tormented Souls 2.",
+      "es": "El lanzamiento previsto de Tormented Souls 2 para PlayStation.",
+      "it": "L'uscita prevista di Tormented Souls 2 per PlayStation."
+    },
+    "id": "tormented-souls-2-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Lego Harry Potter Collection",
+      "es": "Lego Harry Potter Collection",
+      "it": "Lego Harry Potter Collection"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Lego Harry Potter Collection.",
+      "es": "El lanzamiento previsto de Lego Harry Potter Collection para PlayStation.",
+      "it": "L'uscita prevista di Lego Harry Potter Collection per PlayStation."
+    },
+    "id": "lego-harry-potter-collection-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Tenebris Somnia",
+      "es": "Tenebris Somnia",
+      "it": "Tenebris Somnia"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Tenebris Somnia.",
+      "es": "El lanzamiento previsto de Tenebris Somnia para PlayStation.",
+      "it": "L'uscita prevista di Tenebris Somnia per PlayStation."
+    },
+    "id": "tenebris-somnia-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "I Am Your Beast",
+      "es": "I Am Your Beast",
+      "it": "I Am Your Beast"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-20",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of I Am Your Beast.",
+      "es": "El lanzamiento previsto de I Am Your Beast para Nintendo.",
+      "it": "L'uscita prevista di I Am Your Beast per Nintendo."
+    },
+    "id": "i-am-your-beast-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Back to the Dawn",
+      "es": "Back to the Dawn",
+      "it": "Back to the Dawn"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Back to the Dawn.",
+      "es": "El lanzamiento previsto de Back to the Dawn para Nintendo.",
+      "it": "L'uscita prevista di Back to the Dawn per Nintendo."
+    },
+    "id": "back-to-the-dawn-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Cotton Reboot!",
+      "es": "Cotton Reboot!",
+      "it": "Cotton Reboot!"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Cotton Reboot!.",
+      "es": "El lanzamiento previsto de Cotton Reboot! para Nintendo.",
+      "it": "L'uscita prevista di Cotton Reboot! per Nintendo."
+    },
+    "id": "cotton-reboot-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Cotton Reboot! High Tension!",
+      "es": "Cotton Reboot! High Tension!",
+      "it": "Cotton Reboot! High Tension!"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Cotton Reboot! High Tension!.",
+      "es": "El lanzamiento previsto de Cotton Reboot! High Tension! para Nintendo.",
+      "it": "L'uscita prevista di Cotton Reboot! High Tension! per Nintendo."
+    },
+    "id": "cotton-reboot-high-tension-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Warrior Cats: Clans of the Forest",
+      "es": "Warrior Cats: Clans of the Forest",
+      "it": "Warrior Cats: Clans of the Forest"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Warrior Cats: Clans of the Forest.",
+      "es": "El lanzamiento previsto de Warrior Cats: Clans of the Forest para Nintendo.",
+      "it": "L'uscita prevista di Warrior Cats: Clans of the Forest per Nintendo."
+    },
+    "id": "warrior-cats-clans-of-the-forest-2026"
   }
 ]
