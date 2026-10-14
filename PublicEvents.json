@@ -264,28 +264,6 @@
     }
   },
   {
-    "id": "the-social-reckoning-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Social Reckoning",
-      "es": "The Social Reckoning",
-      "it": "The Social Reckoning"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-09",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Aaron Sorkin's The Social Reckoning.",
-      "es": "El estreno cinematográfico previsto de The Social Reckoning, de Aaron Sorkin.",
-      "it": "L'uscita cinematografica prevista di The Social Reckoning di Aaron Sorkin."
-    }
-  },
-  {
     "id": "sense-and-sensibility-2026",
     "category": "Movie",
     "localizedNames": {
@@ -448,7 +426,7 @@
       "it": "Call of Duty: Modern Warfare 4"
     },
     "allDay": true,
-    "dueDate": "2026-10-23",
+    "dueDate": "2026-10-15",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -456,9 +434,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Call of Duty: Modern Warfare 4.",
-      "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per PlayStation 5 e Nintendo Switch 2."
+      "en": "The scheduled PlayStation 5 release of Call of Duty: Modern Warfare 4.",
+      "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para PlayStation 5.",
+      "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per PlayStation 5."
     }
   },
   {
@@ -858,28 +836,6 @@
     }
   },
   {
-    "id": "the-crew-motorfest-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Crew Motorfest",
-      "es": "The Crew Motorfest",
-      "it": "The Crew Motorfest"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Ubisoft's open-world driving game.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de conducción de mundo abierto de Ubisoft.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di guida a mondo aperto di Ubisoft."
-    }
-  },
-  {
     "id": "mens-rugby-world-cup-opening-2027",
     "category": "Special Event",
     "localizedNames": {
@@ -921,28 +877,6 @@
       "en": "The championship match of the 2027 FIFA Women's World Cup at Maracanã Stadium.",
       "es": "El partido final de la Copa Mundial Femenina de la FIFA 2027 en el Estadio Maracaná.",
       "it": "La finale della Coppa del Mondo femminile FIFA 2027 allo stadio Maracanã."
-    }
-  },
-  {
-    "id": "valor-mortis-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Valor Mortis",
-      "es": "Valor Mortis",
-      "it": "Valor Mortis"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Valor Mortis.",
-      "es": "El lanzamiento previsto de Valor Mortis para PlayStation 5.",
-      "it": "L'uscita prevista di Valor Mortis per PlayStation 5."
     }
   },
   {
@@ -1452,94 +1386,6 @@
     }
   },
   {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Deck of Haunts",
-      "es": "Deck of Haunts",
-      "it": "Deck of Haunts"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Deck of Haunts.",
-      "es": "El lanzamiento previsto de Deck of Haunts para Nintendo.",
-      "it": "L'uscita prevista di Deck of Haunts per Nintendo."
-    },
-    "id": "deck-of-haunts-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Mamon King",
-      "es": "Mamon King",
-      "it": "Mamon King"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Mamon King.",
-      "es": "El lanzamiento previsto de Mamon King para Nintendo.",
-      "it": "L'uscita prevista di Mamon King per Nintendo."
-    },
-    "id": "mamon-king-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Once Upon A Katamari",
-      "es": "Once Upon A Katamari",
-      "it": "Once Upon A Katamari"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Once Upon A Katamari.",
-      "es": "El lanzamiento previsto de Once Upon A Katamari para Nintendo.",
-      "it": "L'uscita prevista di Once Upon A Katamari per Nintendo."
-    },
-    "id": "once-upon-a-katamari-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Silver Pines",
-      "es": "Silver Pines",
-      "it": "Silver Pines"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Silver Pines.",
-      "es": "El lanzamiento previsto de Silver Pines para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Silver Pines per PlayStation 5 e Nintendo Switch 2."
-    },
-    "id": "silver-pines-2026"
-  },
-  {
     "id": "you-can-see-everything-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1625,72 +1471,6 @@
       "en": "The global Prime Video premiere of Amazon MGM Studios' holiday action comedy The Man with the Bag.",
       "es": "El estreno mundial en Prime Video de la comedia de acción navideña The Man with the Bag, de Amazon MGM Studios.",
       "it": "La prima mondiale su Prime Video della commedia d'azione natalizia The Man with the Bag di Amazon MGM Studios."
-    }
-  },
-  {
-    "id": "clive-barkers-hellraiser-revival-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Clive Barker's Hellraiser: Revival",
-      "es": "Clive Barker's Hellraiser: Revival",
-      "it": "Clive Barker's Hellraiser: Revival"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Clive Barker's Hellraiser: Revival.",
-      "es": "El lanzamiento previsto de Clive Barker's Hellraiser: Revival para PlayStation 5.",
-      "it": "L'uscita prevista di Clive Barker's Hellraiser: Revival per PlayStation 5."
-    }
-  },
-  {
-    "id": "forever-ago-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Forever Ago",
-      "es": "Forever Ago",
-      "it": "Forever Ago"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of the road-trip adventure Forever Ago.",
-      "es": "El lanzamiento previsto para PlayStation 5 de la aventura de viaje por carretera Forever Ago.",
-      "it": "L'uscita prevista per PlayStation 5 dell'avventura on the road Forever Ago."
-    }
-  },
-  {
-    "id": "planet-zoo-2-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Planet Zoo 2",
-      "es": "Planet Zoo 2",
-      "it": "Planet Zoo 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of the zoo-management simulation Planet Zoo 2.",
-      "es": "El lanzamiento previsto para PlayStation 5 del simulador de gestión de zoológicos Planet Zoo 2.",
-      "it": "L'uscita prevista per PlayStation 5 del gestionale di zoo Planet Zoo 2."
     }
   },
   {
@@ -1804,72 +1584,6 @@
     }
   },
   {
-    "id": "kingdom-hearts-collection-i-iii-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "KINGDOM HEARTS Collection [I～III]",
-      "es": "KINGDOM HEARTS Collection [I～III]",
-      "it": "KINGDOM HEARTS Collection [I～III]"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of KINGDOM HEARTS Collection [I～III].",
-      "es": "El lanzamiento previsto de KINGDOM HEARTS Collection [I～III] para Nintendo Switch 2.",
-      "it": "L'uscita prevista di KINGDOM HEARTS Collection [I～III] per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "hell-is-us-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Hell is Us",
-      "es": "Hell is Us",
-      "it": "Hell is Us"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-08",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Hell is Us.",
-      "es": "El lanzamiento previsto de Hell is Us para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Hell is Us per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "dragons-dogma-2-dark-arisen-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Dragon's Dogma 2: Dark Arisen",
-      "es": "Dragon's Dogma 2: Dark Arisen",
-      "it": "Dragon's Dogma 2: Dark Arisen"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-09",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Dragon's Dogma 2: Dark Arisen.",
-      "es": "El lanzamiento previsto de Dragon's Dogma 2: Dark Arisen para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Dragon's Dogma 2: Dark Arisen per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "the-witchs-bakery-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1977,6 +1691,270 @@
       "en": "The scheduled Nintendo Switch 2 release of Minecraft.",
       "es": "El lanzamiento previsto de Minecraft para Nintendo Switch 2.",
       "it": "L'uscita prevista di Minecraft per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "wildwood-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Wildwood",
+      "es": "El bosque salvaje",
+      "it": "La foresta selvaggia"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of LAIKA's stop-motion film Wildwood.",
+      "es": "El estreno cinematográfico previsto de la película en stop motion El bosque salvaje, de LAIKA.",
+      "it": "L'uscita cinematografica prevista del film in stop motion La foresta selvaggia di LAIKA."
+    }
+  },
+  {
+    "id": "steps-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Steps",
+      "es": "Pasos",
+      "it": "Passi"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-20",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled global Netflix release of the animated film Steps.",
+      "es": "El estreno mundial previsto en Netflix de la película animada Pasos.",
+      "it": "L'uscita mondiale prevista su Netflix del film d'animazione Passi."
+    }
+  },
+  {
+    "id": "hexed-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Hexed",
+      "es": "Hechizada",
+      "it": "Stregata"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Walt Disney Animation Studios' Hexed.",
+      "es": "El estreno cinematográfico previsto de Hechizada, de Walt Disney Animation Studios.",
+      "it": "L'uscita cinematografica prevista di Stregata dei Walt Disney Animation Studios."
+    }
+  },
+  {
+    "id": "ray-gunn-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Ray Gunn",
+      "es": "Ray Gunn",
+      "it": "Ray Gunn"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-04",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled limited theatrical release of Brad Bird's animated film Ray Gunn, ahead of its Netflix premiere.",
+      "es": "El estreno limitado en cines previsto de la película animada Ray Gunn, de Brad Bird, antes de su llegada a Netflix.",
+      "it": "L'uscita cinematografica limitata prevista del film d'animazione Ray Gunn di Brad Bird, prima del debutto su Netflix."
+    }
+  },
+  {
+    "id": "we-were-here-tomorrow-ps5-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "We Were Here Tomorrow",
+      "es": "We Were Here Tomorrow",
+      "it": "We Were Here Tomorrow"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-20",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of We Were Here Tomorrow.",
+      "es": "El lanzamiento previsto de We Were Here Tomorrow para PlayStation 5.",
+      "it": "L'uscita prevista di We Were Here Tomorrow per PlayStation 5."
+    }
+  },
+  {
+    "id": "queens-domain-ps5-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Queen's Domain",
+      "es": "Queen's Domain",
+      "it": "Queen's Domain"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Queen's Domain.",
+      "es": "El lanzamiento previsto de Queen's Domain para PlayStation 5.",
+      "it": "L'uscita prevista di Queen's Domain per PlayStation 5."
+    }
+  },
+  {
+    "id": "harvest-moon-echoes-of-teradea-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Harvest Moon: Echoes of Teradea",
+      "es": "Harvest Moon: Echoes of Teradea",
+      "it": "Harvest Moon: Echoes of Teradea"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Harvest Moon: Echoes of Teradea.",
+      "es": "El lanzamiento previsto de Harvest Moon: Echoes of Teradea para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Harvest Moon: Echoes of Teradea per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "tales-of-eternia-remastered-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Tales of Eternia Remastered",
+      "es": "Tales of Eternia Remastered",
+      "it": "Tales of Eternia Remastered"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Tales of Eternia Remastered.",
+      "es": "El lanzamiento previsto de Tales of Eternia Remastered para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Tales of Eternia Remastered per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "fatal-fury-city-of-the-wolves-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "FATAL FURY: City of the Wolves",
+      "es": "FATAL FURY: City of the Wolves",
+      "it": "FATAL FURY: City of the Wolves"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of FATAL FURY: City of the Wolves.",
+      "es": "El lanzamiento previsto de FATAL FURY: City of the Wolves para Nintendo Switch 2.",
+      "it": "L'uscita prevista di FATAL FURY: City of the Wolves per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "call-of-duty-modern-warfare-4-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Call of Duty: Modern Warfare 4",
+      "es": "Call of Duty: Modern Warfare 4",
+      "it": "Call of Duty: Modern Warfare 4"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Call of Duty: Modern Warfare 4.",
+      "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "one-piece-grand-gourmet-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "ONE PIECE: Grand Gourmet",
+      "es": "ONE PIECE: Grand Gourmet",
+      "it": "ONE PIECE: Grand Gourmet"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of ONE PIECE: Grand Gourmet.",
+      "es": "El lanzamiento previsto de ONE PIECE: Grand Gourmet para Nintendo Switch 2.",
+      "it": "L'uscita prevista di ONE PIECE: Grand Gourmet per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "hello-kitty-party-land-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Hello Kitty Party Land",
+      "es": "Hello Kitty Party Land",
+      "it": "Hello Kitty Party Land"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Hello Kitty Party Land.",
+      "es": "El lanzamiento previsto de Hello Kitty Party Land para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Hello Kitty Party Land per Nintendo Switch 2."
     }
   }
 ]
