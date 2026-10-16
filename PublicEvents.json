@@ -462,6 +462,72 @@
     }
   },
   {
+    "id": "world-series-game-1-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Series: Game 1",
+      "es": "Serie Mundial: Juego 1",
+      "it": "World Series: Gara 1"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-23",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Game 1 of the 2026 MLB World Series.",
+      "es": "Partido 1 de la Serie Mundial de las Grandes Ligas de Béisbol de 2026.",
+      "it": "Gara 1 delle World Series della Major League Baseball del 2026."
+    }
+  },
+  {
+    "id": "world-series-game-2-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Series: Game 2",
+      "es": "Serie Mundial: Juego 2",
+      "it": "World Series: Gara 2"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-24",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Game 2 of the 2026 MLB World Series.",
+      "es": "Partido 2 de la Serie Mundial de las Grandes Ligas de Béisbol de 2026.",
+      "it": "Gara 2 delle World Series della Major League Baseball del 2026."
+    }
+  },
+  {
+    "id": "world-series-game-3-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "World Series: Game 3",
+      "es": "Serie Mundial: Juego 3",
+      "it": "World Series: Gara 3"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-26",
+    "icon": "sportscourt.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Game 3 of the 2026 MLB World Series.",
+      "es": "Partido 3 de la Serie Mundial de las Grandes Ligas de Béisbol de 2026.",
+      "it": "Gara 3 delle World Series della Major League Baseball del 2026."
+    }
+  },
+  {
     "id": "super-bowl-lxi-2027",
     "category": "Special Event",
     "localizedNames": {

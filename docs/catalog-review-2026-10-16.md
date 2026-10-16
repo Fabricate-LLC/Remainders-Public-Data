@@ -113,6 +113,9 @@ Stage Tour and Danganronpa 2x2 also have Nintendo Switch 2 versions confirmed by
 | Metaphor: ReFantazio | 2026-11-12 | [Release source](https://www.nintendo.com/us/store/products/metaphor-refantazio-switch-2/) |
 | Professor Layton and the New World of Steam | 2026-12-10 | [Release source](https://www.layton.jp/jouki/en/) |
 | Persona 4 Revival | 2027-05-20 | [Release source](https://www.gamesradar.com/upcoming-switch-2-games/) |
+| World Series: Game 1 | 2026-10-23 | [MLB schedule](https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule) |
+| World Series: Game 2 | 2026-10-24 | [MLB schedule](https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule) |
+| World Series: Game 3 | 2026-10-26 | [MLB schedule](https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule) |
 
 CRYMELIGHT uses November 4 from Nintendo's US product listing, which overrides the November 5 date in the editorial guide. Forza Horizon 6 uses its January 26 PS5 release, not a different platform's date or premium early access.
 
@@ -121,7 +124,7 @@ CRYMELIGHT uses November 4 from Nintendo's US product listing, which overrides t
 - [Apple Events](https://www.apple.com/apple-events/) was checked during this run. It shows current product announcements and past-event replays, but no explicitly dated future Apple event. No Apple event was inferred or added.
 - [Men's Rugby World Cup official site](https://www.rugbyworldcup.com/2027/en/) and [organizer overview](https://www.rugbyworldcup.com/2027/en/about) confirm the October 1–November 13, 2027 tournament. The existing October 1 opener remains unchanged. A tournament end date alone was not used to create a separate final record.
 - [FIFA Women's World Cup](https://www.fifa.com/en/tournaments/womens/womensworldcup/brazil-2027) and [NFL Super Bowl](https://www.nfl.com/super-bowl/) pages were checked. The responses did not establish a new event or an existing date change. Existing records were preserved.
-- No new Special Event or existing Special Event date adjustment was justified by this run's evidence.
+- Added the first three World Series games from [MLB's official postseason schedule](https://www.mlb.com/news/2026-mlb-playoff-and-world-series-schedule), cross-checked against [MLB Postseason](https://www.mlb.com/postseason): Game 1 on October 23, Game 2 on October 24, and Game 3 on October 26, 2026. Each is a one-off Special Event with sportscourt.fill and localized names/notes. Existing Special Event dates remain unchanged.
 
 ## Audit and guardrails
 
@@ -131,9 +134,9 @@ The updater already rejects empty/whitespace and Q-number labels and assigns Mov
 
 Validation results:
 
-- `python3 scripts/validate_public_events.py`: 108 records validated with Python 3.13.5.
+- `python3 scripts/validate_public_events.py`: 111 records validated with Python 3.13.5.
 - Whole-catalog semantic audit: no blank/fallback titles, media icon/category mismatches, or stale one-offs.
-- Preservation audit: all 89 retained original records unchanged, in original order.
+- Preservation audit: all 89 retained original records unchanged, in original order; the 19 previously added media records also remain unchanged after adding the three World Series games.
 - Validator rejected all 11 invalid catalogs (Q-number and blank titles in each locale; incorrect Game and Movie icons; each media icon on Special Event).
 - Updater rejected fallback/blank inputs for all three query kinds and produced the expected media categories/icons for valid input.
 - `git diff --check` passed.
