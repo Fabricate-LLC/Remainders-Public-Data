@@ -396,50 +396,6 @@
     }
   },
   {
-    "id": "castlevania-belmonts-curse-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Castlevania: Belmont's Curse",
-      "es": "Castlevania: Belmont's Curse",
-      "it": "Castlevania: Belmont's Curse"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch release of Castlevania: Belmont's Curse.",
-      "es": "El lanzamiento previsto de Castlevania: Belmont's Curse para PlayStation 5 y Nintendo Switch.",
-      "it": "L'uscita prevista di Castlevania: Belmont's Curse per PlayStation 5 e Nintendo Switch."
-    }
-  },
-  {
-    "id": "call-of-duty-modern-warfare-4-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Call of Duty: Modern Warfare 4",
-      "es": "Call of Duty: Modern Warfare 4",
-      "it": "Call of Duty: Modern Warfare 4"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Call of Duty: Modern Warfare 4.",
-      "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para PlayStation 5.",
-      "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per PlayStation 5."
-    }
-  },
-  {
     "id": "phantom-blade-zero-ps5-2026",
     "category": "Game",
     "localizedNames": {
@@ -459,50 +415,6 @@
       "en": "The scheduled PlayStation 5 release of Phantom Blade Zero.",
       "es": "El lanzamiento previsto de Phantom Blade Zero para PlayStation 5.",
       "it": "L'uscita prevista di Phantom Blade Zero per PlayStation 5."
-    }
-  },
-  {
-    "id": "ratatan-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Ratatan",
-      "es": "Ratatan",
-      "it": "Ratatan"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Ratatan.",
-      "es": "El lanzamiento previsto de Ratatan para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Ratatan per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "toy-story-retro-roundup-toy-story-3-complete-edition-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Toy Story: Retro Roundup! & Toy Story 3: Complete Edition",
-      "es": "Toy Story: Retro Roundup! y Toy Story 3: Complete Edition",
-      "it": "Toy Story: Retro Roundup! e Toy Story 3: Complete Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of the Toy Story: Retro Roundup! and Toy Story 3: Complete Edition collection.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 de la colección Toy Story: Retro Roundup! y Toy Story 3: Complete Edition.",
-      "it": "L'uscita prevista per Nintendo Switch 2 della raccolta Toy Story: Retro Roundup! e Toy Story 3: Complete Edition."
     }
   },
   {
@@ -1474,28 +1386,6 @@
     }
   },
   {
-    "id": "warhammer-40000-boltgun-2-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Warhammer 40,000: Boltgun 2",
-      "es": "Warhammer 40,000: Boltgun 2",
-      "it": "Warhammer 40,000: Boltgun 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-14",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Warhammer 40,000: Boltgun 2.",
-      "es": "El lanzamiento previsto de Warhammer 40,000: Boltgun 2 para PlayStation 5.",
-      "it": "L'uscita prevista di Warhammer 40,000: Boltgun 2 per PlayStation 5."
-    }
-  },
-  {
     "id": "stupid-never-dies-ps5-2026",
     "category": "Game",
     "localizedNames": {
@@ -1581,28 +1471,6 @@
       "en": "The scheduled PlayStation 5 release of ZERO PARADES: Director's Cut.",
       "es": "El lanzamiento previsto de ZERO PARADES: Director's Cut para PlayStation 5.",
       "it": "L'uscita prevista di ZERO PARADES: Director's Cut per PlayStation 5."
-    }
-  },
-  {
-    "id": "the-witchs-bakery-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Witch's Bakery",
-      "es": "The Witch's Bakery",
-      "it": "The Witch's Bakery"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-14",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of the adventure role-playing game The Witch's Bakery.",
-      "es": "El lanzamiento previsto para Nintendo Switch 2 del juego de rol y aventura The Witch's Bakery.",
-      "it": "L'uscita prevista per Nintendo Switch 2 del gioco di ruolo d'avventura The Witch's Bakery."
     }
   },
   {
@@ -1826,28 +1694,6 @@
     }
   },
   {
-    "id": "harvest-moon-echoes-of-teradea-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Harvest Moon: Echoes of Teradea",
-      "es": "Harvest Moon: Echoes of Teradea",
-      "it": "Harvest Moon: Echoes of Teradea"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Harvest Moon: Echoes of Teradea.",
-      "es": "El lanzamiento previsto de Harvest Moon: Echoes of Teradea para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Harvest Moon: Echoes of Teradea per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "tales-of-eternia-remastered-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1956,116 +1802,6 @@
       "es": "El lanzamiento previsto de Hello Kitty Party Land para Nintendo Switch 2.",
       "it": "L'uscita prevista di Hello Kitty Party Land per Nintendo Switch 2."
     }
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Warhammer 40,000: Boltgun II",
-      "es": "Warhammer 40,000: Boltgun II",
-      "it": "Warhammer 40,000: Boltgun II"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-14",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Warhammer 40,000: Boltgun II.",
-      "es": "El lanzamiento previsto de Warhammer 40,000: Boltgun II para PlayStation.",
-      "it": "L'uscita prevista di Warhammer 40,000: Boltgun II per PlayStation."
-    },
-    "id": "warhammer-40-000-boltgun-ii-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "over the hill",
-      "es": "over the hill",
-      "it": "over the hill"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-14",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of over the hill.",
-      "es": "El lanzamiento previsto de over the hill para PlayStation.",
-      "it": "L'uscita prevista di over the hill per PlayStation."
-    },
-    "id": "over-the-hill-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Enshrouded",
-      "es": "Enshrouded",
-      "it": "Enshrouded"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Enshrouded.",
-      "es": "El lanzamiento previsto de Enshrouded para PlayStation.",
-      "it": "L'uscita prevista di Enshrouded per PlayStation."
-    },
-    "id": "enshrouded-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Pixel Washer",
-      "es": "Pixel Washer",
-      "it": "Pixel Washer"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Pixel Washer.",
-      "es": "El lanzamiento previsto de Pixel Washer para Nintendo.",
-      "it": "L'uscita prevista di Pixel Washer per Nintendo."
-    },
-    "id": "pixel-washer-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Tormented Souls 2",
-      "es": "Tormented Souls 2",
-      "it": "Tormented Souls 2"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-15",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Tormented Souls 2.",
-      "es": "El lanzamiento previsto de Tormented Souls 2 para PlayStation.",
-      "it": "L'uscita prevista di Tormented Souls 2 per PlayStation."
-    },
-    "id": "tormented-souls-2-2026"
   },
   {
     "category": "Game",
@@ -2220,5 +1956,423 @@
       "it": "L'uscita prevista di Warrior Cats: Clans of the Forest per Nintendo."
     },
     "id": "warrior-cats-clans-of-the-forest-2026"
+  },
+  {
+    "id": "how-to-rob-a-bank-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "How to Rob a Bank",
+      "es": "How to Rob a Bank",
+      "it": "How to Rob a Bank"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-13",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of How to Rob a Bank.",
+      "es": "Estreno en cines previsto de How to Rob a Bank.",
+      "it": "Uscita cinematografica prevista di How to Rob a Bank."
+    }
+  },
+  {
+    "id": "sonic-the-hedgehog-4-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Sonic the Hedgehog 4",
+      "es": "Sonic the Hedgehog 4",
+      "it": "Sonic the Hedgehog 4"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-19",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Sonic the Hedgehog 4.",
+      "es": "Estreno en cines previsto de Sonic the Hedgehog 4.",
+      "it": "Uscita cinematografica prevista di Sonic the Hedgehog 4."
+    }
+  },
+  {
+    "id": "star-wars-starfighter-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Star Wars: Starfighter",
+      "es": "Star Wars: Starfighter",
+      "it": "Star Wars: Starfighter"
+    },
+    "allDay": true,
+    "dueDate": "2027-05-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Star Wars: Starfighter.",
+      "es": "Estreno en cines previsto de Star Wars: Starfighter.",
+      "it": "Uscita cinematografica prevista di Star Wars: Starfighter."
+    }
+  },
+  {
+    "id": "spider-man-beyond-the-spider-verse-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Spider-Man: Beyond the Spider-Verse",
+      "es": "Spider-Man: Beyond the Spider-Verse",
+      "it": "Spider-Man: Beyond the Spider-Verse"
+    },
+    "allDay": true,
+    "dueDate": "2027-06-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Spider-Man: Beyond the Spider-Verse.",
+      "es": "Estreno en cines previsto de Spider-Man: Beyond the Spider-Verse.",
+      "it": "Uscita cinematografica prevista di Spider-Man: Beyond the Spider-Verse."
+    }
+  },
+  {
+    "id": "a-minecraft-sequel-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Minecraft Sequel",
+      "es": "A Minecraft Sequel",
+      "it": "A Minecraft Sequel"
+    },
+    "allDay": true,
+    "dueDate": "2027-07-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Minecraft Sequel.",
+      "es": "Estreno en cines previsto de A Minecraft Sequel.",
+      "it": "Uscita cinematografica prevista di A Minecraft Sequel."
+    }
+  },
+  {
+    "id": "a-quiet-place-part-3-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Quiet Place Part 3",
+      "es": "A Quiet Place Part 3",
+      "it": "A Quiet Place Part 3"
+    },
+    "allDay": true,
+    "dueDate": "2027-07-30",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Quiet Place Part 3.",
+      "es": "Estreno en cines previsto de A Quiet Place Part 3.",
+      "it": "Uscita cinematografica prevista di A Quiet Place Part 3."
+    }
+  },
+  {
+    "id": "the-conjuring-first-communion-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Conjuring: First Communion",
+      "es": "The Conjuring: First Communion",
+      "it": "The Conjuring: First Communion"
+    },
+    "allDay": true,
+    "dueDate": "2027-09-10",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Conjuring: First Communion.",
+      "es": "Estreno en cines previsto de The Conjuring: First Communion.",
+      "it": "Uscita cinematografica prevista di The Conjuring: First Communion."
+    }
+  },
+  {
+    "id": "frozen-3-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Frozen 3",
+      "es": "Frozen 3",
+      "it": "Frozen 3"
+    },
+    "allDay": true,
+    "dueDate": "2027-11-24",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Frozen 3.",
+      "es": "Estreno en cines previsto de Frozen 3.",
+      "it": "Uscita cinematografica prevista di Frozen 3."
+    }
+  },
+  {
+    "id": "edge-of-memories-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Edge of Memories",
+      "es": "Edge of Memories",
+      "it": "Edge of Memories"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-05",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Edge of Memories on PlayStation 5.",
+      "es": "Lanzamiento previsto de Edge of Memories para PlayStation 5.",
+      "it": "Uscita prevista di Edge of Memories per PlayStation 5."
+    }
+  },
+  {
+    "id": "stage-tour-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Stage Tour",
+      "es": "Stage Tour",
+      "it": "Stage Tour"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-10",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Stage Tour on PlayStation 5 and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Stage Tour para PlayStation 5 y Nintendo Switch 2.",
+      "it": "Uscita prevista di Stage Tour per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "danganronpa-2x2-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Danganronpa 2x2",
+      "es": "Danganronpa 2x2",
+      "it": "Danganronpa 2x2"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-14",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Danganronpa 2x2 on PlayStation 5 and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Danganronpa 2x2 para PlayStation 5 y Nintendo Switch 2.",
+      "it": "Uscita prevista di Danganronpa 2x2 per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "ananta-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "ANANTA",
+      "es": "ANANTA",
+      "it": "ANANTA"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-15",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of ANANTA on PlayStation 5.",
+      "es": "Lanzamiento previsto de ANANTA para PlayStation 5.",
+      "it": "Uscita prevista di ANANTA per PlayStation 5."
+    }
+  },
+  {
+    "id": "stranger-than-heaven-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Stranger Than Heaven",
+      "es": "Stranger Than Heaven",
+      "it": "Stranger Than Heaven"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-15",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Stranger Than Heaven on PlayStation 5.",
+      "es": "Lanzamiento previsto de Stranger Than Heaven para PlayStation 5.",
+      "it": "Uscita prevista di Stranger Than Heaven per PlayStation 5."
+    }
+  },
+  {
+    "id": "forza-horizon-6-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Forza Horizon 6",
+      "es": "Forza Horizon 6",
+      "it": "Forza Horizon 6"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-26",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Forza Horizon 6 on PlayStation 5.",
+      "es": "Lanzamiento previsto de Forza Horizon 6 para PlayStation 5.",
+      "it": "Uscita prevista di Forza Horizon 6 per PlayStation 5."
+    }
+  },
+  {
+    "id": "crymelight-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "CRYMELIGHT",
+      "es": "CRYMELIGHT",
+      "it": "CRYMELIGHT"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of CRYMELIGHT on Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de CRYMELIGHT para Nintendo Switch 2.",
+      "it": "Uscita prevista di CRYMELIGHT per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "marvel-s-guardians-of-the-galaxy-encore-edition-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Marvel's Guardians of the Galaxy: Encore Edition",
+      "es": "Marvel's Guardians of the Galaxy: Encore Edition",
+      "it": "Marvel's Guardians of the Galaxy: Encore Edition"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-05",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Marvel's Guardians of the Galaxy: Encore Edition on Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Marvel's Guardians of the Galaxy: Encore Edition para Nintendo Switch 2.",
+      "it": "Uscita prevista di Marvel's Guardians of the Galaxy: Encore Edition per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "metaphor-refantazio-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Metaphor: ReFantazio",
+      "es": "Metaphor: ReFantazio",
+      "it": "Metaphor: ReFantazio"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-12",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Metaphor: ReFantazio on Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Metaphor: ReFantazio para Nintendo Switch 2.",
+      "it": "Uscita prevista di Metaphor: ReFantazio per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "professor-layton-and-the-new-world-of-steam-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Professor Layton and the New World of Steam",
+      "es": "Professor Layton and the New World of Steam",
+      "it": "Professor Layton and the New World of Steam"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-10",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Professor Layton and the New World of Steam on Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Professor Layton and the New World of Steam para Nintendo Switch 2.",
+      "it": "Uscita prevista di Professor Layton and the New World of Steam per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "persona-4-revival-switch-2-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Persona 4 Revival",
+      "es": "Persona 4 Revival",
+      "it": "Persona 4 Revival"
+    },
+    "allDay": true,
+    "dueDate": "2027-05-20",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled release of Persona 4 Revival on Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Persona 4 Revival para Nintendo Switch 2.",
+      "it": "Uscita prevista di Persona 4 Revival per Nintendo Switch 2."
+    }
   }
 ]
