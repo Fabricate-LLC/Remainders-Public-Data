@@ -1166,6 +1166,28 @@
     }
   },
   {
+    "id": "apple-pro-and-tell-event-2026",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Apple Event: Pro and tell",
+      "es": "Evento de Apple: Pro and tell",
+      "it": "Evento Apple: Pro and tell"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "calendar",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Apple’s “Pro and tell” special event in Los Angeles, scheduled for 10:00 a.m. Pacific Time.",
+      "es": "Evento especial de Apple «Pro and tell» en Los Ángeles, previsto a las 10:00, hora del Pacífico.",
+      "it": "Evento speciale Apple «Pro and tell» a Los Angeles, in programma alle 10:00, ora del Pacifico."
+    }
+  },
+  {
     "id": "metroid-ravenous-2027",
     "category": "Game",
     "localizedNames": {
