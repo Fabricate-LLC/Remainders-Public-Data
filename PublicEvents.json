@@ -264,28 +264,6 @@
     }
   },
   {
-    "id": "sense-and-sensibility-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Sense and Sensibility",
-      "es": "Sentido y sensibilidad",
-      "it": "Ragione e sentimento"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Georgia Oakley's Sense and Sensibility.",
-      "es": "El estreno cinematográfico previsto de Sentido y sensibilidad, de Georgia Oakley.",
-      "it": "L'uscita cinematografica prevista di Ragione e sentimento di Georgia Oakley."
-    }
-  },
-  {
     "id": "the-cat-in-the-hat-2026",
     "category": "Movie",
     "localizedNames": {
@@ -635,28 +613,6 @@
       "en": "The 2027 Wimbledon Championships at the All England Lawn Tennis Club run from June 28 through July 11.",
       "es": "El Campeonato de Wimbledon 2027 en el All England Lawn Tennis Club se disputa del 28 de junio al 11 de julio.",
       "it": "I Campionati di Wimbledon 2027 all'All England Lawn Tennis Club si disputano dal 28 giugno all'11 luglio."
-    }
-  },
-  {
-    "id": "street-fighter-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Street Fighter",
-      "es": "Street Fighter",
-      "it": "Street Fighter"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "film.fill",
-    "color": "orange",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The theatrical release of Legendary and Capcom's live-action video-game adaptation.",
-      "es": "El estreno en cines de la adaptación de acción real del videojuego producida por Legendary y Capcom.",
-      "it": "L'uscita nelle sale dell'adattamento live action del videogioco prodotto da Legendary e Capcom."
     }
   },
   {
@@ -1122,28 +1078,6 @@
     }
   },
   {
-    "id": "iphone-duo-pre-order-begins-2026",
-    "category": "Special Event",
-    "localizedNames": {
-      "en": "iPhone Duo Pro-Order",
-      "es": "Reserva del iPhone Duo",
-      "it": "Preordine di iPhone Duo"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "iphone",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "Apple begins accepting iPhone Duo pre-orders at 5:00 a.m. Pacific Time.",
-      "es": "Apple comienza a aceptar reservas del iPhone Duo a las 5:00 a. m., hora del Pacífico.",
-      "it": "Apple inizia ad accettare i preordini di iPhone Duo alle 5:00, ora del Pacifico."
-    }
-  },
-  {
     "id": "iphone-duo-available-2026",
     "category": "Special Event",
     "localizedNames": {
@@ -1386,28 +1320,6 @@
     }
   },
   {
-    "id": "you-can-see-everything-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "You Can See Everything",
-      "es": "You Can See Everything",
-      "it": "You Can See Everything"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A24's documentary You Can See Everything.",
-      "es": "El estreno cinematográfico previsto del documental de A24 You Can See Everything.",
-      "it": "L'uscita cinematografica prevista del documentario A24 You Can See Everything."
-    }
-  },
-  {
     "id": "klara-and-the-sun-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1562,72 +1474,6 @@
     }
   },
   {
-    "id": "resident-evil-2-deluxe-edition-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Resident Evil 2 Deluxe Edition",
-      "es": "Resident Evil 2 Deluxe Edition",
-      "it": "Resident Evil 2 Deluxe Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 2 Deluxe Edition.",
-      "es": "El lanzamiento previsto de Resident Evil 2 Deluxe Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Resident Evil 2 Deluxe Edition per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "resident-evil-3-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Resident Evil 3",
-      "es": "Resident Evil 3",
-      "it": "Resident Evil 3"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 3.",
-      "es": "El lanzamiento previsto de Resident Evil 3 para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Resident Evil 3 per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "resident-evil-4-gold-edition-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Resident Evil 4 Gold Edition",
-      "es": "Resident Evil 4 Gold Edition",
-      "it": "Resident Evil 4 Gold Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Resident Evil 4 Gold Edition.",
-      "es": "El lanzamiento previsto de Resident Evil 4 Gold Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Resident Evil 4 Gold Edition per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "minecraft-switch-2-2026",
     "category": "Game",
     "localizedNames": {
@@ -1738,28 +1584,6 @@
     }
   },
   {
-    "id": "we-were-here-tomorrow-ps5-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "We Were Here Tomorrow",
-      "es": "We Were Here Tomorrow",
-      "it": "We Were Here Tomorrow"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-20",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of We Were Here Tomorrow.",
-      "es": "El lanzamiento previsto de We Were Here Tomorrow para PlayStation 5.",
-      "it": "L'uscita prevista di We Were Here Tomorrow per PlayStation 5."
-    }
-  },
-  {
     "id": "queens-domain-ps5-2026",
     "category": "Game",
     "localizedNames": {
@@ -1779,28 +1603,6 @@
       "en": "The scheduled PlayStation 5 release of Queen's Domain.",
       "es": "El lanzamiento previsto de Queen's Domain para PlayStation 5.",
       "it": "L'uscita prevista di Queen's Domain per PlayStation 5."
-    }
-  },
-  {
-    "id": "tales-of-eternia-remastered-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Tales of Eternia Remastered",
-      "es": "Tales of Eternia Remastered",
-      "it": "Tales of Eternia Remastered"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Tales of Eternia Remastered.",
-      "es": "El lanzamiento previsto de Tales of Eternia Remastered para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Tales of Eternia Remastered per Nintendo Switch 2."
     }
   },
   {
@@ -1842,9 +1644,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Call of Duty: Modern Warfare 4.",
-      "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per Nintendo Switch 2."
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Call of Duty: Modern Warfare 4.",
+      "es": "El lanzamiento previsto de Call of Duty: Modern Warfare 4 para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Call of Duty: Modern Warfare 4 per PlayStation 5 e Nintendo Switch 2."
     }
   },
   {
@@ -1890,72 +1692,6 @@
       "es": "El lanzamiento previsto de Hello Kitty Party Land para Nintendo Switch 2.",
       "it": "L'uscita prevista di Hello Kitty Party Land per Nintendo Switch 2."
     }
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Lego Harry Potter Collection",
-      "es": "Lego Harry Potter Collection",
-      "it": "Lego Harry Potter Collection"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Lego Harry Potter Collection.",
-      "es": "El lanzamiento previsto de Lego Harry Potter Collection para PlayStation.",
-      "it": "L'uscita prevista di Lego Harry Potter Collection per PlayStation."
-    },
-    "id": "lego-harry-potter-collection-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Tenebris Somnia",
-      "es": "Tenebris Somnia",
-      "it": "Tenebris Somnia"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-16",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Tenebris Somnia.",
-      "es": "El lanzamiento previsto de Tenebris Somnia para PlayStation.",
-      "it": "L'uscita prevista di Tenebris Somnia per PlayStation."
-    },
-    "id": "tenebris-somnia-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "I Am Your Beast",
-      "es": "I Am Your Beast",
-      "it": "I Am Your Beast"
-    },
-    "allDay": true,
-    "dueDate": "2026-10-20",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of I Am Your Beast.",
-      "es": "El lanzamiento previsto de I Am Your Beast para Nintendo.",
-      "it": "L'uscita prevista di I Am Your Beast per Nintendo."
-    },
-    "id": "i-am-your-beast-2026"
   },
   {
     "category": "Game",
@@ -2461,6 +2197,160 @@
       "en": "The scheduled release of Persona 4 Revival on Nintendo Switch 2.",
       "es": "Lanzamiento previsto de Persona 4 Revival para Nintendo Switch 2.",
       "it": "Uscita prevista di Persona 4 Revival per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "the-further-mis-adventures-of-cliff-booth-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Further Mis-Adventures of Cliff Booth",
+      "es": "The Further Mis-Adventures of Cliff Booth",
+      "it": "The Further Mis-Adventures of Cliff Booth"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The start of the film's exclusive global IMAX theatrical run, ahead of its Netflix debut.",
+      "es": "El inicio de la exhibición cinematográfica mundial exclusiva en IMAX, antes de su estreno en Netflix.",
+      "it": "L'inizio dell'uscita cinematografica mondiale esclusiva in IMAX, prima del debutto su Netflix."
+    }
+  },
+  {
+    "id": "man-of-tomorrow-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Man of Tomorrow",
+      "es": "Man of Tomorrow",
+      "it": "Man of Tomorrow"
+    },
+    "allDay": true,
+    "dueDate": "2027-07-09",
+    "icon": "film.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of DC Studios' Man of Tomorrow.",
+      "es": "El estreno cinematográfico previsto de Man of Tomorrow, de DC Studios.",
+      "it": "L'uscita cinematografica prevista di Man of Tomorrow dei DC Studios."
+    }
+  },
+  {
+    "id": "the-road-of-dust-and-sorrow-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Road of Dust and Sorrow",
+      "es": "The Road of Dust and Sorrow",
+      "it": "The Road of Dust and Sorrow"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of The Road of Dust and Sorrow.",
+      "es": "El lanzamiento previsto de The Road of Dust and Sorrow para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di The Road of Dust and Sorrow per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "village-in-the-shade-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Village in the Shade",
+      "es": "Village in the Shade",
+      "it": "Village in the Shade"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-27",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 release of Village in the Shade.",
+      "es": "El lanzamiento previsto de Village in the Shade para Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Village in the Shade per Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "anomalith-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "ANOMALITH",
+      "es": "ANOMALITH",
+      "it": "ANOMALITH"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of ANOMALITH.",
+      "es": "El lanzamiento previsto de ANOMALITH para Nintendo Switch 2.",
+      "it": "L'uscita prevista di ANOMALITH per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "joe-and-mac-retro-collection-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Joe & Mac Retro Collection",
+      "es": "Joe & Mac Retro Collection",
+      "it": "Joe & Mac Retro Collection"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch release of Joe & Mac Retro Collection, playable on Nintendo Switch 2.",
+      "es": "El lanzamiento previsto de Joe & Mac Retro Collection para Nintendo Switch, compatible con Nintendo Switch 2.",
+      "it": "L'uscita prevista di Joe & Mac Retro Collection per Nintendo Switch, compatibile con Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "steins-gate-re-boot-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "STEINS;GATE RE:BOOT",
+      "es": "STEINS;GATE RE:BOOT",
+      "it": "STEINS;GATE RE:BOOT"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of STEINS;GATE RE:BOOT in North America and Europe.",
+      "es": "El lanzamiento previsto de STEINS;GATE RE:BOOT para PlayStation 5, Nintendo Switch y Nintendo Switch 2 en Norteamérica y Europa.",
+      "it": "L'uscita prevista di STEINS;GATE RE:BOOT per PlayStation 5, Nintendo Switch e Nintendo Switch 2 in Nord America e in Europa."
     }
   }
 ]
