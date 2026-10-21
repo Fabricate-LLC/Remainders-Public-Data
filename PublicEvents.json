@@ -2462,5 +2462,93 @@
       "es": "Lanzamiento previsto de Persona 4 Revival para Nintendo Switch 2.",
       "it": "Uscita prevista di Persona 4 Revival per Nintendo Switch 2."
     }
+  },
+  {
+    "id": "northern-hemisphere-autumn-2026",
+    "category": "Other",
+    "localizedNames": {
+      "en": "Autumn Begins",
+      "es": "Comienza el otoño",
+      "it": "Inizia l'autunno"
+    },
+    "allDay": true,
+    "dueDate": "2026-09-22",
+    "icon": "leaf.fill",
+    "color": "orange",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The September 2026 equinox begins autumn in the Northern Hemisphere at 8:05 p.m. EDT.",
+      "es": "El equinoccio de septiembre de 2026 marca el inicio del otoño en el hemisferio norte a las 20:05 EDT.",
+      "it": "L'equinozio di settembre 2026 segna l'inizio dell'autunno nell'emisfero boreale alle 20:05 EDT."
+    }
+  },
+  {
+    "id": "northern-hemisphere-winter-2026",
+    "category": "Other",
+    "localizedNames": {
+      "en": "Winter Begins",
+      "es": "Comienza el invierno",
+      "it": "Inizia l'inverno"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-21",
+    "icon": "snowflake",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The December 2026 solstice begins winter in the Northern Hemisphere at 3:50 p.m. EST.",
+      "es": "El solsticio de diciembre de 2026 marca el inicio del invierno en el hemisferio norte a las 15:50 EST.",
+      "it": "Il solstizio di dicembre 2026 segna l'inizio dell'inverno nell'emisfero boreale alle 15:50 EST."
+    }
+  },
+  {
+    "id": "northern-hemisphere-spring-2027",
+    "category": "Other",
+    "localizedNames": {
+      "en": "Spring Begins",
+      "es": "Comienza la primavera",
+      "it": "Inizia la primavera"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-20",
+    "icon": "tree.fill",
+    "color": "green",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The March 2027 equinox begins spring in the Northern Hemisphere at 4:24 p.m. EDT.",
+      "es": "El equinoccio de marzo de 2027 marca el inicio de la primavera en el hemisferio norte a las 16:24 EDT.",
+      "it": "L'equinozio di marzo 2027 segna l'inizio della primavera nell'emisfero boreale alle 16:24 EDT."
+    }
+  },
+  {
+    "id": "northern-hemisphere-summer-2027",
+    "category": "Other",
+    "localizedNames": {
+      "en": "Summer Begins",
+      "es": "Comienza el verano",
+      "it": "Inizia l'estate"
+    },
+    "allDay": true,
+    "dueDate": "2027-06-21",
+    "icon": "sun.max.fill",
+    "color": "yellow",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The June 2027 solstice begins summer in the Northern Hemisphere at 10:10 a.m. EDT.",
+      "es": "El solsticio de junio de 2027 marca el inicio del verano en el hemisferio norte a las 10:10 EDT.",
+      "it": "Il solstizio di giugno 2027 segna l'inizio dell'estate nell'emisfero boreale alle 10:10 EDT."
+    }
   }
 ]
