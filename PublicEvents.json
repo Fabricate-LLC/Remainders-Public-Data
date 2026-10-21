@@ -2352,5 +2352,423 @@
       "es": "El lanzamiento previsto de STEINS;GATE RE:BOOT para PlayStation 5, Nintendo Switch y Nintendo Switch 2 en Norteamérica y Europa.",
       "it": "L'uscita prevista di STEINS;GATE RE:BOOT per PlayStation 5, Nintendo Switch e Nintendo Switch 2 in Nord America e in Europa."
     }
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Al Baraneya",
+      "es": "Al Baraneya",
+      "it": "Al Baraneya"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Al Baraneya.",
+      "es": "El estreno cinematográfico previsto de Al Baraneya.",
+      "it": "L'uscita cinematografica prevista di Al Baraneya."
+    },
+    "id": "al-baraneya-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Karma",
+      "es": "Karma",
+      "it": "Karma"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Karma.",
+      "es": "El estreno cinematográfico previsto de Karma.",
+      "it": "L'uscita cinematografica prevista di Karma."
+    },
+    "id": "karma-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "La Gradiva",
+      "es": "La Gradiva",
+      "it": "La Gradiva"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of La Gradiva.",
+      "es": "El estreno cinematográfico previsto de La Gradiva.",
+      "it": "L'uscita cinematografica prevista di La Gradiva."
+    },
+    "id": "la-gradiva-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Nowhere to Lay My Eyes",
+      "es": "Nowhere to Lay My Eyes",
+      "it": "Nowhere to Lay My Eyes"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Nowhere to Lay My Eyes.",
+      "es": "El estreno cinematográfico previsto de Nowhere to Lay My Eyes.",
+      "it": "L'uscita cinematografica prevista di Nowhere to Lay My Eyes."
+    },
+    "id": "nowhere-to-lay-my-eyes-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Paradise Lost",
+      "es": "Paradise Lost",
+      "it": "Paradise Lost"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Paradise Lost.",
+      "es": "El estreno cinematográfico previsto de Paradise Lost.",
+      "it": "L'uscita cinematografica prevista di Paradise Lost."
+    },
+    "id": "paradise-lost-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Parallel Tales",
+      "es": "Parallel Tales",
+      "it": "Parallel Tales"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-21",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Parallel Tales.",
+      "es": "El estreno cinematográfico previsto de Parallel Tales.",
+      "it": "L'uscita cinematografica prevista di Parallel Tales."
+    },
+    "id": "parallel-tales-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Blue Fiddle",
+      "es": "Blue Fiddle",
+      "it": "Blue Fiddle"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Blue Fiddle.",
+      "es": "El estreno cinematográfico previsto de Blue Fiddle.",
+      "it": "L'uscita cinematografica prevista di Blue Fiddle."
+    },
+    "id": "blue-fiddle-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Caro mondo crudele",
+      "es": "Caro mondo crudele",
+      "it": "Caro mondo crudele"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Caro mondo crudele.",
+      "es": "El estreno cinematográfico previsto de Caro mondo crudele.",
+      "it": "L'uscita cinematografica prevista di Caro mondo crudele."
+    },
+    "id": "caro-mondo-crudele-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Clayface",
+      "es": "Clayface",
+      "it": "Clayface"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Clayface.",
+      "es": "El estreno cinematográfico previsto de Clayface.",
+      "it": "L'uscita cinematografica prevista di Clayface."
+    },
+    "id": "clayface-2-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Dances with Weights",
+      "es": "Dances with Weights",
+      "it": "Dances with Weights"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Dances with Weights.",
+      "es": "El estreno cinematográfico previsto de Dances with Weights.",
+      "it": "L'uscita cinematografica prevista di Dances with Weights."
+    },
+    "id": "dances-with-weights-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "De Gaulle: Tilting Iron",
+      "es": "De Gaulle: Tilting Iron",
+      "it": "De Gaulle: Tilting Iron"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of De Gaulle: Tilting Iron.",
+      "es": "El estreno cinematográfico previsto de De Gaulle: Tilting Iron.",
+      "it": "L'uscita cinematografica prevista di De Gaulle: Tilting Iron."
+    },
+    "id": "de-gaulle-tilting-iron-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Lady Nazca",
+      "es": "Lady Nazca",
+      "it": "Lady Nazca"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Lady Nazca.",
+      "es": "El estreno cinematográfico previsto de Lady Nazca.",
+      "it": "L'uscita cinematografica prevista di Lady Nazca."
+    },
+    "id": "lady-nazca-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Materia Prima",
+      "es": "Materia Prima",
+      "it": "Materia Prima"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Materia Prima.",
+      "es": "El estreno cinematográfico previsto de Materia Prima.",
+      "it": "L'uscita cinematografica prevista di Materia Prima."
+    },
+    "id": "materia-prima-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Quir",
+      "es": "Quir",
+      "it": "Quir"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Quir.",
+      "es": "El estreno cinematográfico previsto de Quir.",
+      "it": "L'uscita cinematografica prevista di Quir."
+    },
+    "id": "quir-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Only Living Pickpocket In New York",
+      "es": "The Only Living Pickpocket In New York",
+      "it": "The Only Living Pickpocket In New York"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Only Living Pickpocket In New York.",
+      "es": "El estreno cinematográfico previsto de The Only Living Pickpocket In New York.",
+      "it": "L'uscita cinematografica prevista di The Only Living Pickpocket In New York."
+    },
+    "id": "the-only-living-pickpocket-in-new-york-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Other Side",
+      "es": "The Other Side",
+      "it": "The Other Side"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-22",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Other Side.",
+      "es": "El estreno cinematográfico previsto de The Other Side.",
+      "it": "L'uscita cinematografica prevista di The Other Side."
+    },
+    "id": "the-other-side-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Fangtopia",
+      "es": "Fangtopia",
+      "it": "Fangtopia"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-26",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Fangtopia.",
+      "es": "El lanzamiento previsto de Fangtopia para PlayStation.",
+      "it": "L'uscita prevista di Fangtopia per PlayStation."
+    },
+    "id": "fangtopia-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "No Man's Sky",
+      "es": "No Man's Sky",
+      "it": "No Man's Sky"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of No Man's Sky.",
+      "es": "El lanzamiento previsto de No Man's Sky para Nintendo.",
+      "it": "L'uscita prevista di No Man's Sky per Nintendo."
+    },
+    "id": "no-man-s-sky-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Metro Redux",
+      "es": "Metro Redux",
+      "it": "Metro Redux"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Metro Redux.",
+      "es": "El lanzamiento previsto de Metro Redux para Nintendo.",
+      "it": "L'uscita prevista di Metro Redux per Nintendo."
+    },
+    "id": "metro-redux-2026"
   }
 ]
