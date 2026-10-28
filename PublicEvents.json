@@ -2044,5 +2044,357 @@
       "es": "El estreno cinematográfico mundial previsto de Narnia: The Magician's Nephew, antes de su llegada a Netflix.",
       "it": "L'uscita cinematografica mondiale prevista di Narnia: The Magician's Nephew, prima del debutto su Netflix."
     }
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Lucy Lost",
+      "es": "Lucy Lost",
+      "it": "Lucy Lost"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Lucy Lost.",
+      "es": "El estreno cinematográfico previsto de Lucy Lost.",
+      "it": "L'uscita cinematografica prevista di Lucy Lost."
+    },
+    "id": "lucy-lost-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Moulin",
+      "es": "Moulin",
+      "it": "Moulin"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Moulin.",
+      "es": "El estreno cinematográfico previsto de Moulin.",
+      "it": "L'uscita cinematografica prevista di Moulin."
+    },
+    "id": "moulin-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Species",
+      "es": "Species",
+      "it": "Species"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Species.",
+      "es": "El estreno cinematográfico previsto de Species.",
+      "it": "L'uscita cinematografica prevista di Species."
+    },
+    "id": "species-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Phantom of the Opera",
+      "es": "The Phantom of the Opera",
+      "it": "The Phantom of the Opera"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of The Phantom of the Opera.",
+      "es": "El estreno cinematográfico previsto de The Phantom of the Opera.",
+      "it": "L'uscita cinematografica prevista di The Phantom of the Opera."
+    },
+    "id": "the-phantom-of-the-opera-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "V/H/S/Beyond",
+      "es": "V/H/S/Beyond",
+      "it": "V/H/S/Beyond"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of V/H/S/Beyond.",
+      "es": "El estreno cinematográfico previsto de V/H/S/Beyond.",
+      "it": "L'uscita cinematografica prevista di V/H/S/Beyond."
+    },
+    "id": "v-h-s-beyond-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "V/H/S/Halloween",
+      "es": "V/H/S/Halloween",
+      "it": "V/H/S/Halloween"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-28",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of V/H/S/Halloween.",
+      "es": "El estreno cinematográfico previsto de V/H/S/Halloween.",
+      "it": "L'uscita cinematografica prevista di V/H/S/Halloween."
+    },
+    "id": "v-h-s-halloween-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "100 Days",
+      "es": "100 Days",
+      "it": "100 Days"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of 100 Days.",
+      "es": "El estreno cinematográfico previsto de 100 Days.",
+      "it": "L'uscita cinematografica prevista di 100 Days."
+    },
+    "id": "100-days-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "4 historias increíbles",
+      "es": "4 historias increíbles",
+      "it": "4 historias increíbles"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of 4 historias increíbles.",
+      "es": "El estreno cinematográfico previsto de 4 historias increíbles.",
+      "it": "L'uscita cinematografica prevista di 4 historias increíbles."
+    },
+    "id": "4-historias-incre-bles-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Biermann",
+      "es": "Biermann",
+      "it": "Biermann"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Biermann.",
+      "es": "El estreno cinematográfico previsto de Biermann.",
+      "it": "L'uscita cinematografica prevista di Biermann."
+    },
+    "id": "biermann-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Crawlers",
+      "es": "Crawlers",
+      "it": "Crawlers"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Crawlers.",
+      "es": "El estreno cinematográfico previsto de Crawlers.",
+      "it": "L'uscita cinematografica prevista di Crawlers."
+    },
+    "id": "crawlers-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Free at Heart",
+      "es": "Free at Heart",
+      "it": "Free at Heart"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Free at Heart.",
+      "es": "El estreno cinematográfico previsto de Free at Heart.",
+      "it": "L'uscita cinematografica prevista di Free at Heart."
+    },
+    "id": "free-at-heart-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Klara and the Sun",
+      "es": "Klara and the Sun",
+      "it": "Klara and the Sun"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Klara and the Sun.",
+      "es": "El estreno cinematográfico previsto de Klara and the Sun.",
+      "it": "L'uscita cinematografica prevista di Klara and the Sun."
+    },
+    "id": "klara-and-the-sun-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Monster Mia",
+      "es": "Monster Mia",
+      "it": "Monster Mia"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Monster Mia.",
+      "es": "El estreno cinematográfico previsto de Monster Mia.",
+      "it": "L'uscita cinematografica prevista di Monster Mia."
+    },
+    "id": "monster-mia-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Mumbo Jumbo",
+      "es": "Mumbo Jumbo",
+      "it": "Mumbo Jumbo"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Mumbo Jumbo.",
+      "es": "El estreno cinematográfico previsto de Mumbo Jumbo.",
+      "it": "L'uscita cinematografica prevista di Mumbo Jumbo."
+    },
+    "id": "mumbo-jumbo-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Other Mommy",
+      "es": "Other Mommy",
+      "it": "Other Mommy"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Other Mommy.",
+      "es": "El estreno cinematográfico previsto de Other Mommy.",
+      "it": "L'uscita cinematografica prevista di Other Mommy."
+    },
+    "id": "other-mommy-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Rose",
+      "es": "Rose",
+      "it": "Rose"
+    },
+    "allDay": true,
+    "dueDate": "2026-10-29",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Rose.",
+      "es": "El estreno cinematográfico previsto de Rose.",
+      "it": "L'uscita cinematografica prevista di Rose."
+    },
+    "id": "rose-2026"
   }
 ]
