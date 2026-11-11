@@ -1,27 +1,5 @@
 [
   {
-    "id": "diwali-2026",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "Diwali",
-      "es": "Diwali",
-      "it": "Diwali"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-08",
-    "icon": "laser.burst",
-    "color": "yellow",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A major festival of lights celebrated by Hindu, Jain, Sikh, and some Buddhist communities.",
-      "es": "Un importante festival de luces celebrado por comunidades hindúes, jainistas, sijes y algunas budistas.",
-      "it": "Un importante festival delle luci celebrato da comunità induiste, giainiste, sikh e alcune buddhiste."
-    }
-  },
-  {
     "id": "grand-theft-auto-vi-2026",
     "category": "Game",
     "localizedNames": {
@@ -242,28 +220,6 @@
     }
   },
   {
-    "id": "the-cat-in-the-hat-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Cat in the Hat",
-      "es": "El gato con sombrero",
-      "it": "Il gatto col cappello"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-06",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of the animated film The Cat in the Hat.",
-      "es": "El estreno cinematográfico previsto de la película animada El gato con sombrero.",
-      "it": "L'uscita cinematografica prevista del film d'animazione Il gatto col cappello."
-    }
-  },
-  {
     "id": "the-hunger-games-sunrise-on-the-reaping-2026",
     "category": "Movie",
     "localizedNames": {
@@ -459,28 +415,6 @@
       "en": "The 2027 Wimbledon Championships at the All England Lawn Tennis Club run from June 28 through July 11.",
       "es": "El Campeonato de Wimbledon 2027 en el All England Lawn Tennis Club se disputa del 28 de junio al 11 de julio.",
       "it": "I Campionati di Wimbledon 2027 all'All England Lawn Tennis Club si disputano dal 28 giugno all'11 luglio."
-    }
-  },
-  {
-    "id": "godzilla-minus-zero-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Godzilla Minus Zero",
-      "es": "Godzilla Minus Zero",
-      "it": "Godzilla Minus Zero"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-06",
-    "icon": "film.fill",
-    "color": "green",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The wide North American theatrical release of Takashi Yamazaki's Godzilla sequel.",
-      "es": "El estreno amplio en cines de Norteamérica de la secuela de Godzilla de Takashi Yamazaki.",
-      "it": "L'uscita cinematografica su larga scala in Nord America del seguito di Godzilla di Takashi Yamazaki."
     }
   },
   {
@@ -770,28 +704,6 @@
     }
   },
   {
-    "id": "the-legend-of-zelda-ocarina-of-time-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Legend of Zelda: Ocarina of Time",
-      "es": "The Legend of Zelda: Ocarina of Time",
-      "it": "The Legend of Zelda: Ocarina of Time"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of The Legend of Zelda: Ocarina of Time.",
-      "es": "El lanzamiento previsto de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2.",
-      "it": "L'uscita prevista di The Legend of Zelda: Ocarina of Time per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "dragon-quest-monsters-the-withered-world-2026",
     "category": "Game",
     "localizedNames": {
@@ -943,28 +855,6 @@
       "en": "The scheduled Nintendo Switch 2 release of Metroid Ravenous.",
       "es": "El lanzamiento previsto de Metroid Ravenous para Nintendo Switch 2.",
       "it": "L'uscita prevista di Metroid Ravenous per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "i-play-rocky-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "I Play Rocky",
-      "es": "I Play Rocky",
-      "it": "I Play Rocky"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-06",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The select-theater release of Amazon MGM Studios' film about the making of Rocky.",
-      "es": "El estreno en cines seleccionados de la película de Amazon MGM Studios sobre la creación de Rocky.",
-      "it": "L'uscita in sale selezionate del film Amazon MGM Studios sulla realizzazione di Rocky."
     }
   },
   {
@@ -1364,28 +1254,6 @@
     }
   },
   {
-    "id": "edge-of-memories-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Edge of Memories",
-      "es": "Edge of Memories",
-      "it": "Edge of Memories"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of Edge of Memories on PlayStation 5.",
-      "es": "Lanzamiento previsto de Edge of Memories para PlayStation 5.",
-      "it": "Uscita prevista di Edge of Memories per PlayStation 5."
-    }
-  },
-  {
     "id": "stage-tour-2026",
     "category": "Game",
     "localizedNames": {
@@ -1493,50 +1361,6 @@
       "en": "The scheduled release of Forza Horizon 6 on PlayStation 5.",
       "es": "Lanzamiento previsto de Forza Horizon 6 para PlayStation 5.",
       "it": "Uscita prevista di Forza Horizon 6 per PlayStation 5."
-    }
-  },
-  {
-    "id": "crymelight-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "CRYMELIGHT",
-      "es": "CRYMELIGHT",
-      "it": "CRYMELIGHT"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of CRYMELIGHT on Nintendo Switch 2.",
-      "es": "Lanzamiento previsto de CRYMELIGHT para Nintendo Switch 2.",
-      "it": "Uscita prevista di CRYMELIGHT per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "marvel-s-guardians-of-the-galaxy-encore-edition-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Marvel's Guardians of the Galaxy: Encore Edition",
-      "es": "Marvel's Guardians of the Galaxy: Encore Edition",
-      "it": "Marvel's Guardians of the Galaxy: Encore Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of Marvel's Guardians of the Galaxy: Encore Edition on Nintendo Switch 2.",
-      "es": "Lanzamiento previsto de Marvel's Guardians of the Galaxy: Encore Edition para Nintendo Switch 2.",
-      "it": "Uscita prevista di Marvel's Guardians of the Galaxy: Encore Edition per Nintendo Switch 2."
     }
   },
   {
@@ -1672,50 +1496,6 @@
     }
   },
   {
-    "id": "stellar-blade-complete-edition-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Stellar Blade Complete Edition",
-      "es": "Stellar Blade Complete Edition",
-      "it": "Stellar Blade Complete Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Stellar Blade Complete Edition.",
-      "es": "El lanzamiento previsto de Stellar Blade Complete Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Stellar Blade Complete Edition per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "dreamworks-shrek-2-remastered-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "DreamWorks Shrek 2 Remastered",
-      "es": "DreamWorks Shrek 2 Remastered",
-      "it": "DreamWorks Shrek 2 Remastered"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-10",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of DreamWorks Shrek 2 Remastered.",
-      "es": "El lanzamiento previsto de DreamWorks Shrek 2 Remastered para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di DreamWorks Shrek 2 Remastered per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
-    }
-  },
-  {
     "id": "moomin-midsummer-madness-2026",
     "category": "Game",
     "localizedNames": {
@@ -1804,402 +1584,6 @@
     }
   },
   {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Dog's Perfect Christmas",
-      "es": "A Dog's Perfect Christmas",
-      "it": "A Dog's Perfect Christmas"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Dog's Perfect Christmas.",
-      "es": "El estreno cinematográfico previsto de A Dog's Perfect Christmas.",
-      "it": "L'uscita cinematografica prevista di A Dog's Perfect Christmas."
-    },
-    "id": "a-dog-s-perfect-christmas-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Axis of Life",
-      "es": "Axis of Life",
-      "it": "Axis of Life"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Axis of Life.",
-      "es": "El estreno cinematográfico previsto de Axis of Life.",
-      "it": "L'uscita cinematografica prevista di Axis of Life."
-    },
-    "id": "axis-of-life-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Ghost Soldier",
-      "es": "Ghost Soldier",
-      "it": "Ghost Soldier"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Ghost Soldier.",
-      "es": "El estreno cinematográfico previsto de Ghost Soldier.",
-      "it": "L'uscita cinematografica prevista di Ghost Soldier."
-    },
-    "id": "ghost-soldier-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Rammstein - Live in Mexico City",
-      "es": "Rammstein - Live in Mexico City",
-      "it": "Rammstein - Live in Mexico City"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Rammstein - Live in Mexico City.",
-      "es": "El estreno cinematográfico previsto de Rammstein - Live in Mexico City.",
-      "it": "L'uscita cinematografica prevista di Rammstein - Live in Mexico City."
-    },
-    "id": "rammstein-live-in-mexico-city-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Table: Day and Night",
-      "es": "The Table: Day and Night",
-      "it": "The Table: Day and Night"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Table: Day and Night.",
-      "es": "El estreno cinematográfico previsto de The Table: Day and Night.",
-      "it": "L'uscita cinematografica prevista di The Table: Day and Night."
-    },
-    "id": "the-table-day-and-night-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "A Talent for Murder",
-      "es": "A Talent for Murder",
-      "it": "A Talent for Murder"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of A Talent for Murder.",
-      "es": "El estreno cinematográfico previsto de A Talent for Murder.",
-      "it": "L'uscita cinematografica prevista di A Talent for Murder."
-    },
-    "id": "a-talent-for-murder-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Block 10",
-      "es": "Block 10",
-      "it": "Block 10"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Block 10.",
-      "es": "El estreno cinematográfico previsto de Block 10.",
-      "it": "L'uscita cinematografica prevista di Block 10."
-    },
-    "id": "block-10-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Curly Burly",
-      "es": "Curly Burly",
-      "it": "Curly Burly"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Curly Burly.",
-      "es": "El estreno cinematográfico previsto de Curly Burly.",
-      "it": "L'uscita cinematografica prevista di Curly Burly."
-    },
-    "id": "curly-burly-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Einar Schleef – Ich habe kein Deutschland gefunden",
-      "es": "Einar Schleef – Ich habe kein Deutschland gefunden",
-      "it": "Einar Schleef – Ich habe kein Deutschland gefunden"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Einar Schleef – Ich habe kein Deutschland gefunden.",
-      "es": "El estreno cinematográfico previsto de Einar Schleef – Ich habe kein Deutschland gefunden.",
-      "it": "L'uscita cinematografica prevista di Einar Schleef – Ich habe kein Deutschland gefunden."
-    },
-    "id": "einar-schleef-ich-habe-kein-deutschland-gefunden-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Eternal Palace Sakura",
-      "es": "Eternal Palace Sakura",
-      "it": "Eternal Palace Sakura"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Eternal Palace Sakura.",
-      "es": "El lanzamiento previsto de Eternal Palace Sakura para Nintendo.",
-      "it": "L'uscita prevista di Eternal Palace Sakura per Nintendo."
-    },
-    "id": "eternal-palace-sakura-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Faraway",
-      "es": "Faraway",
-      "it": "Faraway"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Faraway.",
-      "es": "El lanzamiento previsto de Faraway para PlayStation.",
-      "it": "L'uscita prevista di Faraway per PlayStation."
-    },
-    "id": "faraway-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Ghost Soldier",
-      "es": "Ghost Soldier",
-      "it": "Ghost Soldier"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Ghost Soldier.",
-      "es": "El estreno cinematográfico previsto de Ghost Soldier.",
-      "it": "L'uscita cinematografica prevista di Ghost Soldier."
-    },
-    "id": "ghost-soldier-2-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Ghost Song",
-      "es": "Ghost Song",
-      "it": "Ghost Song"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Ghost Song.",
-      "es": "El estreno cinematográfico previsto de Ghost Song.",
-      "it": "L'uscita cinematografica prevista di Ghost Song."
-    },
-    "id": "ghost-song-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Ha-Chan, Shake Your Booty!",
-      "es": "Ha-Chan, Shake Your Booty!",
-      "it": "Ha-Chan, Shake Your Booty!"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Ha-Chan, Shake Your Booty!.",
-      "es": "El estreno cinematográfico previsto de Ha-Chan, Shake Your Booty!.",
-      "it": "L'uscita cinematografica prevista di Ha-Chan, Shake Your Booty!."
-    },
-    "id": "ha-chan-shake-your-booty-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Holofiction",
-      "es": "Holofiction",
-      "it": "Holofiction"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Holofiction.",
-      "es": "El estreno cinematográfico previsto de Holofiction.",
-      "it": "L'uscita cinematografica prevista di Holofiction."
-    },
-    "id": "holofiction-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "I Play Rocky",
-      "es": "I Play Rocky",
-      "it": "I Play Rocky"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of I Play Rocky.",
-      "es": "El estreno cinematográfico previsto de I Play Rocky.",
-      "it": "L'uscita cinematografica prevista di I Play Rocky."
-    },
-    "id": "i-play-rocky-2-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "LIGHT: Black Cat & Amnesia Girl",
-      "es": "LIGHT: Black Cat & Amnesia Girl",
-      "it": "LIGHT: Black Cat & Amnesia Girl"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of LIGHT: Black Cat & Amnesia Girl.",
-      "es": "El lanzamiento previsto de LIGHT: Black Cat & Amnesia Girl para PlayStation.",
-      "it": "L'uscita prevista di LIGHT: Black Cat & Amnesia Girl per PlayStation."
-    },
-    "id": "light-black-cat-amnesia-girl-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Nocturnal II",
-      "es": "Nocturnal II",
-      "it": "Nocturnal II"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-10",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Nocturnal II.",
-      "es": "El lanzamiento previsto de Nocturnal II para PlayStation.",
-      "it": "L'uscita prevista di Nocturnal II per PlayStation."
-    },
-    "id": "nocturnal-ii-2026"
-  },
-  {
     "category": "Game",
     "localizedNames": {
       "en": "Harold Halibut",
@@ -2264,5 +1648,225 @@
       "it": "L'uscita prevista di Fall Up per Nintendo."
     },
     "id": "fall-up-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Warota: I Live Next to The Demon King's Castle LOL",
+      "es": "Warota: I Live Next to The Demon King's Castle LOL",
+      "it": "Warota: I Live Next to The Demon King's Castle LOL"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-13",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Warota: I Live Next to The Demon King's Castle LOL.",
+      "es": "El lanzamiento previsto de Warota: I Live Next to The Demon King's Castle LOL para PlayStation.",
+      "it": "L'uscita prevista di Warota: I Live Next to The Demon King's Castle LOL per PlayStation."
+    },
+    "id": "warota-i-live-next-to-the-demon-king-s-castle-lol-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Spirit Crossing",
+      "es": "Spirit Crossing",
+      "it": "Spirit Crossing"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Spirit Crossing.",
+      "es": "El lanzamiento previsto de Spirit Crossing para Nintendo.",
+      "it": "L'uscita prevista di Spirit Crossing per Nintendo."
+    },
+    "id": "spirit-crossing-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Moonlight Peaks",
+      "es": "Moonlight Peaks",
+      "it": "Moonlight Peaks"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Moonlight Peaks.",
+      "es": "El lanzamiento previsto de Moonlight Peaks para PlayStation.",
+      "it": "L'uscita prevista di Moonlight Peaks per PlayStation."
+    },
+    "id": "moonlight-peaks-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Witch the Showdown",
+      "es": "Witch the Showdown",
+      "it": "Witch the Showdown"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-19",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Witch the Showdown.",
+      "es": "El lanzamiento previsto de Witch the Showdown para PlayStation.",
+      "it": "L'uscita prevista di Witch the Showdown per PlayStation."
+    },
+    "id": "witch-the-showdown-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Azur Promilia",
+      "es": "Azur Promilia",
+      "it": "Azur Promilia"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Azur Promilia.",
+      "es": "El lanzamiento previsto de Azur Promilia para PlayStation.",
+      "it": "L'uscita prevista di Azur Promilia per PlayStation."
+    },
+    "id": "azur-promilia-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "GrimKeep",
+      "es": "GrimKeep",
+      "it": "GrimKeep"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of GrimKeep.",
+      "es": "El lanzamiento previsto de GrimKeep para PlayStation.",
+      "it": "L'uscita prevista di GrimKeep per PlayStation."
+    },
+    "id": "grimkeep-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Rhythm Doctor",
+      "es": "Rhythm Doctor",
+      "it": "Rhythm Doctor"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-01",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Rhythm Doctor.",
+      "es": "El lanzamiento previsto de Rhythm Doctor para Nintendo.",
+      "it": "L'uscita prevista di Rhythm Doctor per Nintendo."
+    },
+    "id": "rhythm-doctor-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Blind Descent",
+      "es": "Blind Descent",
+      "it": "Blind Descent"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-02",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Blind Descent.",
+      "es": "El lanzamiento previsto de Blind Descent para PlayStation.",
+      "it": "L'uscita prevista di Blind Descent per PlayStation."
+    },
+    "id": "blind-descent-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Luma Island",
+      "es": "Luma Island",
+      "it": "Luma Island"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-02",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Luma Island.",
+      "es": "El lanzamiento previsto de Luma Island para PlayStation.",
+      "it": "L'uscita prevista di Luma Island per PlayStation."
+    },
+    "id": "luma-island-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Million Depth",
+      "es": "Million Depth",
+      "it": "Million Depth"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Million Depth.",
+      "es": "El lanzamiento previsto de Million Depth para Nintendo.",
+      "it": "L'uscita prevista di Million Depth per Nintendo."
+    },
+    "id": "million-depth-2026"
   }
 ]
