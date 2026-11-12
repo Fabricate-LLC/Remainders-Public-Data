@@ -1,27 +1,5 @@
 [
   {
-    "id": "diwali-2026",
-    "category": "Holiday",
-    "localizedNames": {
-      "en": "Diwali",
-      "es": "Diwali",
-      "it": "Diwali"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-08",
-    "icon": "laser.burst",
-    "color": "yellow",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "A major festival of lights celebrated by Hindu, Jain, Sikh, and some Buddhist communities.",
-      "es": "Un importante festival de luces celebrado por comunidades hindúes, jainistas, sijes y algunas budistas.",
-      "it": "Un importante festival delle luci celebrato da comunità induiste, giainiste, sikh e alcune buddhiste."
-    }
-  },
-  {
     "id": "grand-theft-auto-vi-2026",
     "category": "Game",
     "localizedNames": {
@@ -184,7 +162,7 @@
       "it": "God of War Laufey"
     },
     "allDay": true,
-    "dueDate": "2027-02-16",
+    "dueDate": "2027-05-20",
     "icon": "gamecontroller.fill",
     "color": "yellow",
     "repeatEvent": "Never",
@@ -239,28 +217,6 @@
       "en": "A Christian holiday celebrating Easter Sunday.",
       "es": "Una festividad cristiana que celebra el Domingo de Pascua.",
       "it": "Una festività cristiana che celebra la Domenica di Pasqua."
-    }
-  },
-  {
-    "id": "the-cat-in-the-hat-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Cat in the Hat",
-      "es": "El gato con sombrero",
-      "it": "Il gatto col cappello"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-06",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of the animated film The Cat in the Hat.",
-      "es": "El estreno cinematográfico previsto de la película animada El gato con sombrero.",
-      "it": "L'uscita cinematografica prevista del film d'animazione Il gatto col cappello."
     }
   },
   {
@@ -459,28 +415,6 @@
       "en": "The 2027 Wimbledon Championships at the All England Lawn Tennis Club run from June 28 through July 11.",
       "es": "El Campeonato de Wimbledon 2027 en el All England Lawn Tennis Club se disputa del 28 de junio al 11 de julio.",
       "it": "I Campionati di Wimbledon 2027 all'All England Lawn Tennis Club si disputano dal 28 giugno all'11 luglio."
-    }
-  },
-  {
-    "id": "godzilla-minus-zero-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Godzilla Minus Zero",
-      "es": "Godzilla Minus Zero",
-      "it": "Godzilla Minus Zero"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-06",
-    "icon": "film.fill",
-    "color": "green",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The wide North American theatrical release of Takashi Yamazaki's Godzilla sequel.",
-      "es": "El estreno amplio en cines de Norteamérica de la secuela de Godzilla de Takashi Yamazaki.",
-      "it": "L'uscita cinematografica su larga scala in Nord America del seguito di Godzilla di Takashi Yamazaki."
     }
   },
   {
@@ -770,28 +704,6 @@
     }
   },
   {
-    "id": "the-legend-of-zelda-ocarina-of-time-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Legend of Zelda: Ocarina of Time",
-      "es": "The Legend of Zelda: Ocarina of Time",
-      "it": "The Legend of Zelda: Ocarina of Time"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of The Legend of Zelda: Ocarina of Time.",
-      "es": "El lanzamiento previsto de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2.",
-      "it": "L'uscita prevista di The Legend of Zelda: Ocarina of Time per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "dragon-quest-monsters-the-withered-world-2026",
     "category": "Game",
     "localizedNames": {
@@ -943,28 +855,6 @@
       "en": "The scheduled Nintendo Switch 2 release of Metroid Ravenous.",
       "es": "El lanzamiento previsto de Metroid Ravenous para Nintendo Switch 2.",
       "it": "L'uscita prevista di Metroid Ravenous per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "i-play-rocky-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "I Play Rocky",
-      "es": "I Play Rocky",
-      "it": "I Play Rocky"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-06",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The select-theater release of Amazon MGM Studios' film about the making of Rocky.",
-      "es": "El estreno en cines seleccionados de la película de Amazon MGM Studios sobre la creación de Rocky.",
-      "it": "L'uscita in sale selezionate del film Amazon MGM Studios sulla realizzazione di Rocky."
     }
   },
   {
@@ -1364,28 +1254,6 @@
     }
   },
   {
-    "id": "edge-of-memories-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Edge of Memories",
-      "es": "Edge of Memories",
-      "it": "Edge of Memories"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of Edge of Memories on PlayStation 5.",
-      "es": "Lanzamiento previsto de Edge of Memories para PlayStation 5.",
-      "it": "Uscita prevista di Edge of Memories per PlayStation 5."
-    }
-  },
-  {
     "id": "stage-tour-2026",
     "category": "Game",
     "localizedNames": {
@@ -1493,50 +1361,6 @@
       "en": "The scheduled release of Forza Horizon 6 on PlayStation 5.",
       "es": "Lanzamiento previsto de Forza Horizon 6 para PlayStation 5.",
       "it": "Uscita prevista di Forza Horizon 6 per PlayStation 5."
-    }
-  },
-  {
-    "id": "crymelight-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "CRYMELIGHT",
-      "es": "CRYMELIGHT",
-      "it": "CRYMELIGHT"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-04",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of CRYMELIGHT on Nintendo Switch 2.",
-      "es": "Lanzamiento previsto de CRYMELIGHT para Nintendo Switch 2.",
-      "it": "Uscita prevista di CRYMELIGHT per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "marvel-s-guardians-of-the-galaxy-encore-edition-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Marvel's Guardians of the Galaxy: Encore Edition",
-      "es": "Marvel's Guardians of the Galaxy: Encore Edition",
-      "it": "Marvel's Guardians of the Galaxy: Encore Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of Marvel's Guardians of the Galaxy: Encore Edition on Nintendo Switch 2.",
-      "es": "Lanzamiento previsto de Marvel's Guardians of the Galaxy: Encore Edition para Nintendo Switch 2.",
-      "it": "Uscita prevista di Marvel's Guardians of the Galaxy: Encore Edition per Nintendo Switch 2."
     }
   },
   {
@@ -1672,50 +1496,6 @@
     }
   },
   {
-    "id": "stellar-blade-complete-edition-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Stellar Blade Complete Edition",
-      "es": "Stellar Blade Complete Edition",
-      "it": "Stellar Blade Complete Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-05",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Stellar Blade Complete Edition.",
-      "es": "El lanzamiento previsto de Stellar Blade Complete Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Stellar Blade Complete Edition per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "dreamworks-shrek-2-remastered-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "DreamWorks Shrek 2 Remastered",
-      "es": "DreamWorks Shrek 2 Remastered",
-      "it": "DreamWorks Shrek 2 Remastered"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-10",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of DreamWorks Shrek 2 Remastered.",
-      "es": "El lanzamiento previsto de DreamWorks Shrek 2 Remastered para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di DreamWorks Shrek 2 Remastered per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
-    }
-  },
-  {
     "id": "moomin-midsummer-madness-2026",
     "category": "Game",
     "localizedNames": {
@@ -1804,117 +1584,94 @@
     }
   },
   {
-    "id": "raccoin-chaos-max-edition-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "RACCOIN: Chaos Max Edition",
-      "es": "RACCOIN: Chaos Max Edition",
-      "it": "RACCOIN: Chaos Max Edition"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-10",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of RACCOIN: Chaos Max Edition.",
-      "es": "El lanzamiento previsto de RACCOIN: Chaos Max Edition para Nintendo Switch 2.",
-      "it": "L'uscita prevista di RACCOIN: Chaos Max Edition per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "tanuki-pons-summer-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "TANUKI: Pon's Summer",
-      "es": "TANUKI: Pon's Summer",
-      "it": "TANUKI: Pon's Summer"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-10",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of TANUKI: Pon's Summer.",
-      "es": "El lanzamiento previsto de TANUKI: Pon's Summer para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di TANUKI: Pon's Summer per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "warhammer-survivors-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Warhammer Survivors",
-      "es": "Warhammer Survivors",
-      "it": "Warhammer Survivors"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-10",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Warhammer Survivors.",
-      "es": "El lanzamiento previsto de Warhammer Survivors para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Warhammer Survivors per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "sonic-pico-park-playstation-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "SONIC PICO PARK",
-      "es": "SONIC PICO PARK",
-      "it": "SONIC PICO PARK"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-11",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of SONIC PICO PARK in North America.",
-      "es": "El lanzamiento previsto de SONIC PICO PARK para PlayStation 5 en Norteamérica.",
-      "it": "L'uscita prevista di SONIC PICO PARK per PlayStation 5 in Nord America."
-    }
-  },
-  {
-    "id": "sonic-pico-park-nintendo-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "SONIC PICO PARK",
-      "es": "SONIC PICO PARK",
-      "it": "SONIC PICO PARK"
+      "en": "Harold Halibut",
+      "es": "Harold Halibut",
+      "it": "Harold Halibut"
     },
     "allDay": true,
     "dueDate": "2026-11-12",
     "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Harold Halibut.",
+      "es": "El lanzamiento previsto de Harold Halibut para PlayStation.",
+      "it": "L'uscita prevista di Harold Halibut per PlayStation."
+    },
+    "id": "harold-halibut-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Zombie Police: Midsummer Unhappy New Year",
+      "es": "Zombie Police: Midsummer Unhappy New Year",
+      "it": "Zombie Police: Midsummer Unhappy New Year"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-22",
+    "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 release of SONIC PICO PARK.",
-      "es": "El lanzamiento previsto de SONIC PICO PARK para Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di SONIC PICO PARK per Nintendo Switch e Nintendo Switch 2."
-    }
+      "en": "The scheduled Nintendo release of Zombie Police: Midsummer Unhappy New Year.",
+      "es": "El lanzamiento previsto de Zombie Police: Midsummer Unhappy New Year para Nintendo.",
+      "it": "L'uscita prevista di Zombie Police: Midsummer Unhappy New Year per Nintendo."
+    },
+    "id": "zombie-police-midsummer-unhappy-new-year-2026"
   },
   {
-    "id": "spirit-crossing-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Fall Up",
+      "es": "Fall Up",
+      "it": "Fall Up"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Fall Up.",
+      "es": "El lanzamiento previsto de Fall Up para Nintendo.",
+      "it": "L'uscita prevista di Fall Up per Nintendo."
+    },
+    "id": "fall-up-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Warota: I Live Next to The Demon King's Castle LOL",
+      "es": "Warota: I Live Next to The Demon King's Castle LOL",
+      "it": "Warota: I Live Next to The Demon King's Castle LOL"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-13",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Warota: I Live Next to The Demon King's Castle LOL.",
+      "es": "El lanzamiento previsto de Warota: I Live Next to The Demon King's Castle LOL para PlayStation.",
+      "it": "L'uscita prevista di Warota: I Live Next to The Demon King's Castle LOL per PlayStation."
+    },
+    "id": "warota-i-live-next-to-the-demon-king-s-castle-lol-2026"
+  },
+  {
     "category": "Game",
     "localizedNames": {
       "en": "Spirit Crossing",
@@ -1930,65 +1687,131 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch and Nintendo Switch 2 console release of Spirit Crossing.",
-      "es": "El lanzamiento previsto de Spirit Crossing para Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Spirit Crossing per Nintendo Switch e Nintendo Switch 2."
-    }
+      "en": "The scheduled Nintendo release of Spirit Crossing.",
+      "es": "El lanzamiento previsto de Spirit Crossing para Nintendo.",
+      "it": "L'uscita prevista di Spirit Crossing per Nintendo."
+    },
+    "id": "spirit-crossing-2026"
   },
   {
-    "id": "reverie-in-the-moonlight-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Reverie in the Moonlight",
-      "es": "Reverie in the Moonlight",
-      "it": "Reverie in the Moonlight"
+      "en": "Moonlight Peaks",
+      "es": "Moonlight Peaks",
+      "it": "Moonlight Peaks"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-17",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Moonlight Peaks.",
+      "es": "El lanzamiento previsto de Moonlight Peaks para PlayStation.",
+      "it": "L'uscita prevista di Moonlight Peaks per PlayStation."
+    },
+    "id": "moonlight-peaks-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Witch the Showdown",
+      "es": "Witch the Showdown",
+      "it": "Witch the Showdown"
     },
     "allDay": true,
     "dueDate": "2026-11-19",
     "icon": "gamecontroller.fill",
-    "color": "red",
+    "color": "blue",
     "repeatEvent": "Never",
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Reverie in the Moonlight.",
-      "es": "El lanzamiento previsto de Reverie in the Moonlight para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Reverie in the Moonlight per Nintendo Switch 2."
-    }
+      "en": "The scheduled PlayStation release of Witch the Showdown.",
+      "es": "El lanzamiento previsto de Witch the Showdown para PlayStation.",
+      "it": "L'uscita prevista di Witch the Showdown per PlayStation."
+    },
+    "id": "witch-the-showdown-2026"
   },
   {
-    "id": "marupoyo-the-round-chicks-adventure-2026",
     "category": "Game",
     "localizedNames": {
-      "en": "Marupoyo: The Round Chick's Adventure",
-      "es": "Marupoyo: The Round Chick's Adventure",
-      "it": "Marupoyo: The Round Chick's Adventure"
+      "en": "Azur Promilia",
+      "es": "Azur Promilia",
+      "it": "Azur Promilia"
     },
     "allDay": true,
     "dueDate": "2026-11-26",
     "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Azur Promilia.",
+      "es": "El lanzamiento previsto de Azur Promilia para PlayStation.",
+      "it": "L'uscita prevista di Azur Promilia per PlayStation."
+    },
+    "id": "azur-promilia-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "GrimKeep",
+      "es": "GrimKeep",
+      "it": "GrimKeep"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-30",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of GrimKeep.",
+      "es": "El lanzamiento previsto de GrimKeep para PlayStation.",
+      "it": "L'uscita prevista di GrimKeep per PlayStation."
+    },
+    "id": "grimkeep-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Rhythm Doctor",
+      "es": "Rhythm Doctor",
+      "it": "Rhythm Doctor"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-01",
+    "icon": "gamecontroller.fill",
     "color": "red",
     "repeatEvent": "Never",
     "notifications": false,
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo Switch release of Marupoyo: The Round Chick's Adventure, playable on Nintendo Switch 2.",
-      "es": "El lanzamiento previsto de Marupoyo: The Round Chick's Adventure para Nintendo Switch, compatible con Nintendo Switch 2.",
-      "it": "L'uscita prevista di Marupoyo: The Round Chick's Adventure per Nintendo Switch, compatibile con Nintendo Switch 2."
-    }
+      "en": "The scheduled Nintendo release of Rhythm Doctor.",
+      "es": "El lanzamiento previsto de Rhythm Doctor para Nintendo.",
+      "it": "L'uscita prevista di Rhythm Doctor per Nintendo."
+    },
+    "id": "rhythm-doctor-2026"
   },
   {
-    "id": "wandering-sword-2027",
     "category": "Game",
     "localizedNames": {
-      "en": "Wandering Sword",
-      "es": "Wandering Sword",
-      "it": "Wandering Sword"
+      "en": "Blind Descent",
+      "es": "Blind Descent",
+      "it": "Blind Descent"
     },
     "allDay": true,
-    "dueDate": "2027-01-21",
+    "dueDate": "2026-12-02",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -1996,21 +1819,21 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Wandering Sword.",
-      "es": "El lanzamiento previsto de Wandering Sword para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Wandering Sword per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
-    }
+      "en": "The scheduled PlayStation release of Blind Descent.",
+      "es": "El lanzamiento previsto de Blind Descent para PlayStation.",
+      "it": "L'uscita prevista di Blind Descent per PlayStation."
+    },
+    "id": "blind-descent-2026"
   },
   {
-    "id": "witchbrook-2027",
     "category": "Game",
     "localizedNames": {
-      "en": "Witchbrook",
-      "es": "Witchbrook",
-      "it": "Witchbrook"
+      "en": "Luma Island",
+      "es": "Luma Island",
+      "it": "Luma Island"
     },
     "allDay": true,
-    "dueDate": "2027-01-28",
+    "dueDate": "2026-12-02",
     "icon": "gamecontroller.fill",
     "color": "blue",
     "repeatEvent": "Never",
@@ -2018,9 +1841,32 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Witchbrook.",
-      "es": "El lanzamiento previsto de Witchbrook para PlayStation 5 y Nintendo Switch 2.",
-      "it": "L'uscita prevista di Witchbrook per PlayStation 5 e Nintendo Switch 2."
-    }
+      "en": "The scheduled PlayStation release of Luma Island.",
+      "es": "El lanzamiento previsto de Luma Island para PlayStation.",
+      "it": "L'uscita prevista di Luma Island per PlayStation."
+    },
+    "id": "luma-island-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Million Depth",
+      "es": "Million Depth",
+      "it": "Million Depth"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Million Depth.",
+      "es": "El lanzamiento previsto de Million Depth para Nintendo.",
+      "it": "L'uscita prevista di Million Depth per Nintendo."
+    },
+    "id": "million-depth-2026"
   }
 ]
