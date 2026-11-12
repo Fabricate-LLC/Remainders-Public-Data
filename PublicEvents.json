@@ -536,7 +536,7 @@
       "it": "Inizio dei Campionati mondiali di atletica"
     },
     "allDay": true,
-    "dueDate": "2027-09-11",
+    "dueDate": "2027-09-10",
     "icon": "sportscourt.fill",
     "color": "red",
     "repeatEvent": "Never",
@@ -544,9 +544,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "Opening day of the World Athletics Championships in Beijing, scheduled for September 11–19.",
-      "es": "Día inaugural del Campeonato Mundial de Atletismo en Pekín, previsto del 11 al 19 de septiembre.",
-      "it": "Giornata inaugurale dei Campionati mondiali di atletica a Pechino, in programma dall'11 al 19 settembre."
+      "en": "Opening day of the World Athletics Championships in Beijing, scheduled for September 10–19.",
+      "es": "Día inaugural del Campeonato Mundial de Atletismo en Pekín, previsto del 10 al 19 de septiembre.",
+      "it": "Giornata inaugurale dei Campionati mondiali di atletica a Pechino, in programma dal 10 al 19 settembre."
     }
   },
   {
