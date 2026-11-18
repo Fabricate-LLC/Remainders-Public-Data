@@ -858,28 +858,6 @@
     }
   },
   {
-    "id": "pikmin-4-switch-2-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Pikmin 4",
-      "es": "Pikmin 4",
-      "it": "Pikmin 4"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-12",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The Nintendo Switch 2 release of Pikmin 4, including Dandori Academy.",
-      "es": "El lanzamiento de Pikmin 4 para Nintendo Switch 2, incluida Dandori Academy.",
-      "it": "L'uscita di Pikmin 4 per Nintendo Switch 2, inclusa Dandori Academy."
-    }
-  },
-  {
     "id": "madden-2026",
     "category": "Movie",
     "localizedNames": {
@@ -1075,28 +1053,6 @@
       "en": "The scheduled limited theatrical release of Brad Bird's animated film Ray Gunn, ahead of its Netflix premiere.",
       "es": "El estreno limitado en cines previsto de la película animada Ray Gunn, de Brad Bird, antes de su llegada a Netflix.",
       "it": "L'uscita cinematografica limitata prevista del film d'animazione Ray Gunn di Brad Bird, prima del debutto su Netflix."
-    }
-  },
-  {
-    "id": "how-to-rob-a-bank-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "How to Rob a Bank",
-      "es": "How to Rob a Bank",
-      "it": "How to Rob a Bank"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-13",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of How to Rob a Bank.",
-      "es": "Estreno en cines previsto de How to Rob a Bank.",
-      "it": "Uscita cinematografica prevista di How to Rob a Bank."
     }
   },
   {
@@ -1364,28 +1320,6 @@
     }
   },
   {
-    "id": "metaphor-refantazio-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Metaphor: ReFantazio",
-      "es": "Metaphor: ReFantazio",
-      "it": "Metaphor: ReFantazio"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-12",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled release of Metaphor: ReFantazio on Nintendo Switch 2.",
-      "es": "Lanzamiento previsto de Metaphor: ReFantazio para Nintendo Switch 2.",
-      "it": "Uscita prevista di Metaphor: ReFantazio per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "professor-layton-and-the-new-world-of-steam-2026",
     "category": "Game",
     "localizedNames": {
@@ -1496,28 +1430,6 @@
     }
   },
   {
-    "id": "moomin-midsummer-madness-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Moomin: Midsummer Madness",
-      "es": "Moomin: Midsummer Madness",
-      "it": "Moomin: Midsummer Madness"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-12",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Moomin: Midsummer Madness.",
-      "es": "El lanzamiento previsto de Moomin: Midsummer Madness para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Moomin: Midsummer Madness per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "the-binding-of-isaac-repentance-plus-2026",
     "category": "Game",
     "localizedNames": {
@@ -1586,28 +1498,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Harold Halibut",
-      "es": "Harold Halibut",
-      "it": "Harold Halibut"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-12",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Harold Halibut.",
-      "es": "El lanzamiento previsto de Harold Halibut para PlayStation.",
-      "it": "L'uscita prevista di Harold Halibut per PlayStation."
-    },
-    "id": "harold-halibut-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "Zombie Police: Midsummer Unhappy New Year",
       "es": "Zombie Police: Midsummer Unhappy New Year",
       "it": "Zombie Police: Midsummer Unhappy New Year"
@@ -1648,72 +1538,6 @@
       "it": "L'uscita prevista di Fall Up per Nintendo."
     },
     "id": "fall-up-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Warota: I Live Next to The Demon King's Castle LOL",
-      "es": "Warota: I Live Next to The Demon King's Castle LOL",
-      "it": "Warota: I Live Next to The Demon King's Castle LOL"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-13",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Warota: I Live Next to The Demon King's Castle LOL.",
-      "es": "El lanzamiento previsto de Warota: I Live Next to The Demon King's Castle LOL para PlayStation.",
-      "it": "L'uscita prevista di Warota: I Live Next to The Demon King's Castle LOL per PlayStation."
-    },
-    "id": "warota-i-live-next-to-the-demon-king-s-castle-lol-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Spirit Crossing",
-      "es": "Spirit Crossing",
-      "it": "Spirit Crossing"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-16",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Spirit Crossing.",
-      "es": "El lanzamiento previsto de Spirit Crossing para Nintendo.",
-      "it": "L'uscita prevista di Spirit Crossing per Nintendo."
-    },
-    "id": "spirit-crossing-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
-      "en": "Moonlight Peaks",
-      "es": "Moonlight Peaks",
-      "it": "Moonlight Peaks"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-17",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Moonlight Peaks.",
-      "es": "El lanzamiento previsto de Moonlight Peaks para PlayStation.",
-      "it": "L'uscita prevista di Moonlight Peaks per PlayStation."
-    },
-    "id": "moonlight-peaks-2026"
   },
   {
     "category": "Game",
@@ -1868,5 +1692,181 @@
       "it": "L'uscita prevista di Million Depth per Nintendo."
     },
     "id": "million-depth-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Guarding Stars",
+      "es": "Guarding Stars",
+      "it": "Guarding Stars"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Guarding Stars.",
+      "es": "El estreno cinematográfico previsto de Guarding Stars.",
+      "it": "L'uscita cinematografica prevista di Guarding Stars."
+    },
+    "id": "guarding-stars-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Nobody's Violence",
+      "es": "Nobody's Violence",
+      "it": "Nobody's Violence"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Nobody's Violence.",
+      "es": "El estreno cinematográfico previsto de Nobody's Violence.",
+      "it": "L'uscita cinematografica prevista di Nobody's Violence."
+    },
+    "id": "nobody-s-violence-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "KuloNiku: Bowl Up!",
+      "es": "KuloNiku: Bowl Up!",
+      "it": "KuloNiku: Bowl Up!"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of KuloNiku: Bowl Up!.",
+      "es": "El lanzamiento previsto de KuloNiku: Bowl Up! para Nintendo.",
+      "it": "L'uscita prevista di KuloNiku: Bowl Up! per Nintendo."
+    },
+    "id": "kuloniku-bowl-up-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Station to Station",
+      "es": "Station to Station",
+      "it": "Station to Station"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Station to Station.",
+      "es": "El lanzamiento previsto de Station to Station para PlayStation.",
+      "it": "L'uscita prevista di Station to Station per PlayStation."
+    },
+    "id": "station-to-station-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Grime II",
+      "es": "Grime II",
+      "it": "Grime II"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Grime II.",
+      "es": "El lanzamiento previsto de Grime II para PlayStation.",
+      "it": "L'uscita prevista di Grime II per PlayStation."
+    },
+    "id": "grime-ii-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "MR. ELEVATOR",
+      "es": "MR. ELEVATOR",
+      "it": "MR. ELEVATOR"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of MR. ELEVATOR.",
+      "es": "El lanzamiento previsto de MR. ELEVATOR para PlayStation.",
+      "it": "L'uscita prevista di MR. ELEVATOR per PlayStation."
+    },
+    "id": "mr-elevator-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Great Villainess: Strategy of Lily",
+      "es": "The Great Villainess: Strategy of Lily",
+      "it": "The Great Villainess: Strategy of Lily"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-02",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of The Great Villainess: Strategy of Lily.",
+      "es": "El lanzamiento previsto de The Great Villainess: Strategy of Lily para PlayStation.",
+      "it": "L'uscita prevista di The Great Villainess: Strategy of Lily per PlayStation."
+    },
+    "id": "the-great-villainess-strategy-of-lily-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Elements Destiny",
+      "es": "Elements Destiny",
+      "it": "Elements Destiny"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-08",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Elements Destiny.",
+      "es": "El lanzamiento previsto de Elements Destiny para Nintendo.",
+      "it": "L'uscita prevista di Elements Destiny per Nintendo."
+    },
+    "id": "elements-destiny-2026"
   }
 ]
