@@ -1694,6 +1694,182 @@
     "id": "million-depth-2026"
   },
   {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Guarding Stars",
+      "es": "Guarding Stars",
+      "it": "Guarding Stars"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Guarding Stars.",
+      "es": "El estreno cinematográfico previsto de Guarding Stars.",
+      "it": "L'uscita cinematografica prevista di Guarding Stars."
+    },
+    "id": "guarding-stars-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Nobody's Violence",
+      "es": "Nobody's Violence",
+      "it": "Nobody's Violence"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-18",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Nobody's Violence.",
+      "es": "El estreno cinematográfico previsto de Nobody's Violence.",
+      "it": "L'uscita cinematografica prevista di Nobody's Violence."
+    },
+    "id": "nobody-s-violence-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "KuloNiku: Bowl Up!",
+      "es": "KuloNiku: Bowl Up!",
+      "it": "KuloNiku: Bowl Up!"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of KuloNiku: Bowl Up!.",
+      "es": "El lanzamiento previsto de KuloNiku: Bowl Up! para Nintendo.",
+      "it": "L'uscita prevista di KuloNiku: Bowl Up! per Nintendo."
+    },
+    "id": "kuloniku-bowl-up-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Station to Station",
+      "es": "Station to Station",
+      "it": "Station to Station"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Station to Station.",
+      "es": "El lanzamiento previsto de Station to Station para PlayStation.",
+      "it": "L'uscita prevista di Station to Station per PlayStation."
+    },
+    "id": "station-to-station-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Grime II",
+      "es": "Grime II",
+      "it": "Grime II"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of Grime II.",
+      "es": "El lanzamiento previsto de Grime II para PlayStation.",
+      "it": "L'uscita prevista di Grime II per PlayStation."
+    },
+    "id": "grime-ii-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "MR. ELEVATOR",
+      "es": "MR. ELEVATOR",
+      "it": "MR. ELEVATOR"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of MR. ELEVATOR.",
+      "es": "El lanzamiento previsto de MR. ELEVATOR para PlayStation.",
+      "it": "L'uscita prevista di MR. ELEVATOR per PlayStation."
+    },
+    "id": "mr-elevator-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Great Villainess: Strategy of Lily",
+      "es": "The Great Villainess: Strategy of Lily",
+      "it": "The Great Villainess: Strategy of Lily"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-02",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation release of The Great Villainess: Strategy of Lily.",
+      "es": "El lanzamiento previsto de The Great Villainess: Strategy of Lily para PlayStation.",
+      "it": "L'uscita prevista di The Great Villainess: Strategy of Lily per PlayStation."
+    },
+    "id": "the-great-villainess-strategy-of-lily-2026"
+  },
+  {
+    "category": "Game",
+    "localizedNames": {
+      "en": "Elements Destiny",
+      "es": "Elements Destiny",
+      "it": "Elements Destiny"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-08",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo release of Elements Destiny.",
+      "es": "El lanzamiento previsto de Elements Destiny para Nintendo.",
+      "it": "L'uscita prevista di Elements Destiny per Nintendo."
+    },
+    "id": "elements-destiny-2026"
+  },
+  {
     "id": "reverie-in-the-moonlight-2026",
     "category": "Game",
     "localizedNames": {
