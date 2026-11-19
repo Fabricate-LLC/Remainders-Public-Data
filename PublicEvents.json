@@ -1868,5 +1868,291 @@
       "it": "L'uscita prevista di Elements Destiny per Nintendo."
     },
     "id": "elements-destiny-2026"
+  },
+  {
+    "id": "reverie-in-the-moonlight-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Reverie in the Moonlight",
+      "es": "Reverie in the Moonlight",
+      "it": "Reverie in the Moonlight"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-19",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Reverie in the Moonlight.",
+      "es": "El lanzamiento previsto de Reverie in the Moonlight para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Reverie in the Moonlight per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "gothic-3-classic-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Gothic 3 Classic",
+      "es": "Gothic 3 Classic",
+      "it": "Gothic 3 Classic"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-24",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Gothic 3 Classic.",
+      "es": "El lanzamiento previsto de Gothic 3 Classic para PlayStation 5.",
+      "it": "L'uscita prevista di Gothic 3 Classic per PlayStation 5."
+    }
+  },
+  {
+    "id": "marupoyo-the-round-chicks-adventure-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Marupoyo: The Round Chick's Adventure",
+      "es": "Marupoyo: The Round Chick's Adventure",
+      "it": "Marupoyo: The Round Chick's Adventure"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch release of Marupoyo: The Round Chick's Adventure, playable on Nintendo Switch 2.",
+      "es": "El lanzamiento previsto de Marupoyo: The Round Chick's Adventure para Nintendo Switch, compatible con Nintendo Switch 2.",
+      "it": "L'uscita prevista di Marupoyo: The Round Chick's Adventure per Nintendo Switch, compatibile con Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "arkheron-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Arkheron",
+      "es": "Arkheron",
+      "it": "Arkheron"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-27",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Arkheron.",
+      "es": "El lanzamiento previsto de Arkheron para PlayStation 5.",
+      "it": "L'uscita prevista di Arkheron per PlayStation 5."
+    }
+  },
+  {
+    "id": "edge-of-memories-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Edge of Memories",
+      "es": "Edge of Memories",
+      "it": "Edge of Memories"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Edge of Memories.",
+      "es": "El lanzamiento previsto de Edge of Memories para PlayStation 5.",
+      "it": "L'uscita prevista di Edge of Memories per PlayStation 5."
+    }
+  },
+  {
+    "id": "eriksholm-the-stolen-dream-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Eriksholm: The Stolen Dream",
+      "es": "Eriksholm: The Stolen Dream",
+      "it": "Eriksholm: The Stolen Dream"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Eriksholm: The Stolen Dream.",
+      "es": "El lanzamiento previsto de Eriksholm: The Stolen Dream para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Eriksholm: The Stolen Dream per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "thief-the-dark-project-remastered-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Thief: The Dark Project Remastered",
+      "es": "Thief: The Dark Project Remastered",
+      "it": "Thief: The Dark Project Remastered"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-03",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Thief: The Dark Project Remastered.",
+      "es": "El lanzamiento previsto de Thief: The Dark Project Remastered para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Thief: The Dark Project Remastered per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "armatus-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Armatus",
+      "es": "Armatus",
+      "it": "Armatus"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-07",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled Nintendo Switch 2 release of Armatus.",
+      "es": "El lanzamiento previsto de Armatus para Nintendo Switch 2.",
+      "it": "L'uscita prevista di Armatus per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "tankrat-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "TankRat",
+      "es": "TankRat",
+      "it": "TankRat"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-15",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of TankRat.",
+      "es": "El lanzamiento previsto de TankRat para PlayStation 5.",
+      "it": "L'uscita prevista di TankRat per PlayStation 5."
+    }
+  },
+  {
+    "id": "wandering-sword-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Wandering Sword",
+      "es": "Wandering Sword",
+      "it": "Wandering Sword"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-21",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Wandering Sword.",
+      "es": "El lanzamiento previsto de Wandering Sword para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Wandering Sword per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "everything-is-crab-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Everything is Crab",
+      "es": "Everything is Crab",
+      "it": "Everything is Crab"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-26",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5, Nintendo Switch, and Nintendo Switch 2 release of Everything is Crab.",
+      "es": "El lanzamiento previsto de Everything is Crab para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Everything is Crab per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "warhammer-40000-dark-heresy-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Warhammer 40,000: Dark Heresy",
+      "es": "Warhammer 40,000: Dark Heresy",
+      "it": "Warhammer 40,000: Dark Heresy"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-28",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 release of Warhammer 40,000: Dark Heresy.",
+      "es": "El lanzamiento previsto de Warhammer 40,000: Dark Heresy para PlayStation 5.",
+      "it": "L'uscita prevista di Warhammer 40,000: Dark Heresy per PlayStation 5."
+    }
+  },
+  {
+    "id": "witchbrook-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Witchbrook",
+      "es": "Witchbrook",
+      "it": "Witchbrook"
+    },
+    "allDay": true,
+    "dueDate": "2027-01-28",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Witchbrook.",
+      "es": "El lanzamiento previsto de Witchbrook para PlayStation 5 y Nintendo Switch 2.",
+      "it": "L'uscita prevista di Witchbrook per PlayStation 5 e Nintendo Switch 2."
+    }
   }
 ]
