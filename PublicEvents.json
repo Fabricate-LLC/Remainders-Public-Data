@@ -2572,5 +2572,291 @@
       "es": "Final de la Copa Mundial de Rugby Masculina de 2027 en el Stadium Australia de Sídney.",
       "it": "Finale della Coppa del Mondo di rugby maschile 2027 allo Stadium Australia di Sydney."
     }
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A Good Little Soldier",
+      "es": "A Good Little Soldier",
+      "it": "A Good Little Soldier"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A Good Little Soldier.",
+      "es": "El estreno cinematográfico previsto de A Good Little Soldier.",
+      "it": "L'uscita cinematografica prevista di A Good Little Soldier."
+    },
+    "id": "a-good-little-soldier-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Forty Love",
+      "es": "Forty Love",
+      "it": "Forty Love"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Forty Love.",
+      "es": "El estreno cinematográfico previsto de Forty Love.",
+      "it": "L'uscita cinematografica prevista di Forty Love."
+    },
+    "id": "forty-love-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Hershey",
+      "es": "Hershey",
+      "it": "Hershey"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Hershey.",
+      "es": "El estreno cinematográfico previsto de Hershey.",
+      "it": "L'uscita cinematografica prevista di Hershey."
+    },
+    "id": "hershey-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Lilo & Scratch",
+      "es": "Lilo & Scratch",
+      "it": "Lilo & Scratch"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Lilo & Scratch.",
+      "es": "El estreno cinematográfico previsto de Lilo & Scratch.",
+      "it": "L'uscita cinematografica prevista di Lilo & Scratch."
+    },
+    "id": "lilo-scratch-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Way of the Warrior Kid",
+      "es": "Way of the Warrior Kid",
+      "it": "Way of the Warrior Kid"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Way of the Warrior Kid.",
+      "es": "El estreno cinematográfico previsto de Way of the Warrior Kid.",
+      "it": "L'uscita cinematografica prevista di Way of the Warrior Kid."
+    },
+    "id": "way-of-the-warrior-kid-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "A December Tale 2: The Lost Letter",
+      "es": "A December Tale 2: The Lost Letter",
+      "it": "A December Tale 2: The Lost Letter"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of A December Tale 2: The Lost Letter.",
+      "es": "El estreno cinematográfico previsto de A December Tale 2: The Lost Letter.",
+      "it": "L'uscita cinematografica prevista di A December Tale 2: The Lost Letter."
+    },
+    "id": "a-december-tale-2-the-lost-letter-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Brunello: The Gracious Visionary",
+      "es": "Brunello: The Gracious Visionary",
+      "it": "Brunello: The Gracious Visionary"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Brunello: The Gracious Visionary.",
+      "es": "El estreno cinematográfico previsto de Brunello: The Gracious Visionary.",
+      "it": "L'uscita cinematografica prevista di Brunello: The Gracious Visionary."
+    },
+    "id": "brunello-the-gracious-visionary-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Club Kid",
+      "es": "Club Kid",
+      "it": "Club Kid"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Club Kid.",
+      "es": "El estreno cinematográfico previsto de Club Kid.",
+      "it": "L'uscita cinematografica prevista di Club Kid."
+    },
+    "id": "club-kid-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Crazy Christmas",
+      "es": "Crazy Christmas",
+      "it": "Crazy Christmas"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Crazy Christmas.",
+      "es": "El estreno cinematográfico previsto de Crazy Christmas.",
+      "it": "L'uscita cinematografica prevista di Crazy Christmas."
+    },
+    "id": "crazy-christmas-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Father, Son and the Price of Resistance",
+      "es": "Father, Son and the Price of Resistance",
+      "it": "Father, Son and the Price of Resistance"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Father, Son and the Price of Resistance.",
+      "es": "El estreno cinematográfico previsto de Father, Son and the Price of Resistance.",
+      "it": "L'uscita cinematografica prevista di Father, Son and the Price of Resistance."
+    },
+    "id": "father-son-and-the-price-of-resistance-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Focker-in-Law",
+      "es": "Focker-in-Law",
+      "it": "Focker-in-Law"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of Focker-in-Law.",
+      "es": "El estreno cinematográfico previsto de Focker-in-Law.",
+      "it": "L'uscita cinematografica prevista di Focker-in-Law."
+    },
+    "id": "focker-in-law-2-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "From Inside Out – The Architecture of Peter Zumthor",
+      "es": "From Inside Out – The Architecture of Peter Zumthor",
+      "it": "From Inside Out – The Architecture of Peter Zumthor"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of From Inside Out – The Architecture of Peter Zumthor.",
+      "es": "El estreno cinematográfico previsto de From Inside Out – The Architecture of Peter Zumthor.",
+      "it": "L'uscita cinematografica prevista di From Inside Out – The Architecture of Peter Zumthor."
+    },
+    "id": "from-inside-out-the-architecture-of-peter-zumthor-2026"
+  },
+  {
+    "category": "Movie",
+    "localizedNames": {
+      "en": "I Am Martin Parr",
+      "es": "I Am Martin Parr",
+      "it": "I Am Martin Parr"
+    },
+    "allDay": true,
+    "dueDate": "2026-11-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The scheduled theatrical release of I Am Martin Parr.",
+      "es": "El estreno cinematográfico previsto de I Am Martin Parr.",
+      "it": "L'uscita cinematografica prevista di I Am Martin Parr."
+    },
+    "id": "i-am-martin-parr-2026"
   }
 ]
