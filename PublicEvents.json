@@ -1,27 +1,5 @@
 [
   {
-    "id": "grand-theft-auto-vi-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Grand Theft Auto VI",
-      "es": "Grand Theft Auto VI",
-      "it": "Grand Theft Auto VI"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-19",
-    "icon": "gamecontroller.fill",
-    "color": "pink",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The release of Rockstar Games' open-world crime adventure set in Leonida and Vice City.",
-      "es": "El lanzamiento de la aventura criminal de mundo abierto de Rockstar Games ambientada en Leonida y Vice City.",
-      "it": "L'uscita dell'avventura criminale open world di Rockstar Games ambientata a Leonida e Vice City."
-    }
-  },
-  {
     "id": "thanksgiving-us-2026",
     "category": "Holiday",
     "localizedNames": {
@@ -217,28 +195,6 @@
       "en": "A Christian holiday celebrating Easter Sunday.",
       "es": "Una festividad cristiana que celebra el Domingo de Pascua.",
       "it": "Una festività cristiana che celebra la Domenica di Pasqua."
-    }
-  },
-  {
-    "id": "the-hunger-games-sunrise-on-the-reaping-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "The Hunger Games: Sunrise on the Reaping",
-      "es": "Los juegos del hambre: Amanecer en la cosecha",
-      "it": "Hunger Games: L'alba sulla mietitura"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-20",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of The Hunger Games: Sunrise on the Reaping.",
-      "es": "El estreno cinematográfico previsto de Los juegos del hambre: Amanecer en la cosecha.",
-      "it": "L'uscita cinematografica prevista di Hunger Games: L'alba sulla mietitura."
     }
   },
   {
@@ -858,28 +814,6 @@
     }
   },
   {
-    "id": "madden-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Madden",
-      "es": "Madden",
-      "it": "Madden"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-18",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The global Prime Video premiere of the film chronicling John Madden's career.",
-      "es": "El estreno mundial en Prime Video de la película que narra la carrera de John Madden.",
-      "it": "La prima mondiale su Prime Video del film che racconta la carriera di John Madden."
-    }
-  },
-  {
     "id": "hela-of-mice-and-magic-2026",
     "category": "Game",
     "localizedNames": {
@@ -987,28 +921,6 @@
       "en": "The global Prime Video premiere of Amazon MGM Studios' holiday action comedy The Man with the Bag.",
       "es": "El estreno mundial en Prime Video de la comedia de acción navideña The Man with the Bag, de Amazon MGM Studios.",
       "it": "La prima mondiale su Prime Video della commedia d'azione natalizia The Man with the Bag di Amazon MGM Studios."
-    }
-  },
-  {
-    "id": "steps-2026",
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Steps",
-      "es": "Pasos",
-      "it": "Passi"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-20",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled global Netflix release of the animated film Steps.",
-      "es": "El estreno mundial previsto en Netflix de la película animada Pasos.",
-      "it": "L'uscita mondiale prevista su Netflix del film d'animazione Passi."
     }
   },
   {
@@ -1430,28 +1342,6 @@
     }
   },
   {
-    "id": "the-binding-of-isaac-repentance-plus-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "The Binding of Isaac: Repentance+",
-      "es": "The Binding of Isaac: Repentance+",
-      "it": "The Binding of Isaac: Repentance+"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-19",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of The Binding of Isaac: Repentance+.",
-      "es": "El lanzamiento previsto de The Binding of Isaac: Repentance+ para Nintendo Switch 2.",
-      "it": "L'uscita prevista di The Binding of Isaac: Repentance+ per Nintendo Switch 2."
-    }
-  },
-  {
     "id": "the-ascent-ultimate-edition-2026",
     "category": "Game",
     "localizedNames": {
@@ -1498,28 +1388,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Zombie Police: Midsummer Unhappy New Year",
-      "es": "Zombie Police: Midsummer Unhappy New Year",
-      "it": "Zombie Police: Midsummer Unhappy New Year"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-22",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo release of Zombie Police: Midsummer Unhappy New Year.",
-      "es": "El lanzamiento previsto de Zombie Police: Midsummer Unhappy New Year para Nintendo.",
-      "it": "L'uscita prevista di Zombie Police: Midsummer Unhappy New Year per Nintendo."
-    },
-    "id": "zombie-police-midsummer-unhappy-new-year-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "Fall Up",
       "es": "Fall Up",
       "it": "Fall Up"
@@ -1542,28 +1410,6 @@
   {
     "category": "Game",
     "localizedNames": {
-      "en": "Witch the Showdown",
-      "es": "Witch the Showdown",
-      "it": "Witch the Showdown"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-19",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation release of Witch the Showdown.",
-      "es": "El lanzamiento previsto de Witch the Showdown para PlayStation.",
-      "it": "L'uscita prevista di Witch the Showdown per PlayStation."
-    },
-    "id": "witch-the-showdown-2026"
-  },
-  {
-    "category": "Game",
-    "localizedNames": {
       "en": "Azur Promilia",
       "es": "Azur Promilia",
       "it": "Azur Promilia"
@@ -1577,9 +1423,9 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled PlayStation release of Azur Promilia.",
-      "es": "El lanzamiento previsto de Azur Promilia para PlayStation.",
-      "it": "L'uscita prevista di Azur Promilia per PlayStation."
+      "en": "Scheduled launch of Azur Promilia in Japan on PC, iOS, and Android.",
+      "es": "Lanzamiento previsto de Azur Promilia en Japón para PC, iOS y Android.",
+      "it": "Uscita prevista di Azur Promilia in Giappone per PC, iOS e Android."
     },
     "id": "azur-promilia-2026"
   },
@@ -1692,50 +1538,6 @@
       "it": "L'uscita prevista di Million Depth per Nintendo."
     },
     "id": "million-depth-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Guarding Stars",
-      "es": "Guarding Stars",
-      "it": "Guarding Stars"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-18",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Guarding Stars.",
-      "es": "El estreno cinematográfico previsto de Guarding Stars.",
-      "it": "L'uscita cinematografica prevista di Guarding Stars."
-    },
-    "id": "guarding-stars-2026"
-  },
-  {
-    "category": "Movie",
-    "localizedNames": {
-      "en": "Nobody's Violence",
-      "es": "Nobody's Violence",
-      "it": "Nobody's Violence"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-18",
-    "icon": "film.fill",
-    "color": "purple",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled theatrical release of Nobody's Violence.",
-      "es": "El estreno cinematográfico previsto de Nobody's Violence.",
-      "it": "L'uscita cinematografica prevista di Nobody's Violence."
-    },
-    "id": "nobody-s-violence-2026"
   },
   {
     "category": "Game",
@@ -1863,55 +1665,11 @@
     "primaryReminderSeconds": 0,
     "secondaryReminderSeconds": null,
     "localizedNotes": {
-      "en": "The scheduled Nintendo release of Elements Destiny.",
-      "es": "El lanzamiento previsto de Elements Destiny para Nintendo.",
-      "it": "L'uscita prevista di Elements Destiny per Nintendo."
+      "en": "Scheduled PlayStation release of Elements Destiny.",
+      "es": "Lanzamiento previsto de Elements Destiny para PlayStation.",
+      "it": "Uscita prevista di Elements Destiny per PlayStation."
     },
     "id": "elements-destiny-2026"
-  },
-  {
-    "id": "reverie-in-the-moonlight-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Reverie in the Moonlight",
-      "es": "Reverie in the Moonlight",
-      "it": "Reverie in the Moonlight"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-19",
-    "icon": "gamecontroller.fill",
-    "color": "red",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled Nintendo Switch 2 release of Reverie in the Moonlight.",
-      "es": "El lanzamiento previsto de Reverie in the Moonlight para Nintendo Switch 2.",
-      "it": "L'uscita prevista di Reverie in the Moonlight per Nintendo Switch 2."
-    }
-  },
-  {
-    "id": "gothic-3-classic-2026",
-    "category": "Game",
-    "localizedNames": {
-      "en": "Gothic 3 Classic",
-      "es": "Gothic 3 Classic",
-      "it": "Gothic 3 Classic"
-    },
-    "allDay": true,
-    "dueDate": "2026-11-24",
-    "icon": "gamecontroller.fill",
-    "color": "blue",
-    "repeatEvent": "Never",
-    "notifications": false,
-    "primaryReminderSeconds": 0,
-    "secondaryReminderSeconds": null,
-    "localizedNotes": {
-      "en": "The scheduled PlayStation 5 release of Gothic 3 Classic.",
-      "es": "El lanzamiento previsto de Gothic 3 Classic para PlayStation 5.",
-      "it": "L'uscita prevista di Gothic 3 Classic per PlayStation 5."
-    }
   },
   {
     "id": "marupoyo-the-round-chicks-adventure-2026",
@@ -2153,6 +1911,666 @@
       "en": "The scheduled PlayStation 5 and Nintendo Switch 2 release of Witchbrook.",
       "es": "El lanzamiento previsto de Witchbrook para PlayStation 5 y Nintendo Switch 2.",
       "it": "L'uscita prevista di Witchbrook per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "behemoth-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Behemoth!",
+      "es": "Behemoth!",
+      "it": "Behemoth!"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-04",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Behemoth!.",
+      "es": "Estreno previsto de Behemoth! en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Behemoth! nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-gallerist-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Gallerist",
+      "es": "The Gallerist",
+      "it": "The Gallerist"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-04",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Gallerist.",
+      "es": "Estreno previsto de The Gallerist en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Gallerist nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "in-waves-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "In Waves",
+      "es": "In Waves",
+      "it": "In Waves"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-11",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Streaming premiere of In Waves on Netflix.",
+      "es": "Estreno de In Waves en Netflix.",
+      "it": "Debutto in streaming di In Waves su Netflix."
+    }
+  },
+  {
+    "id": "the-debut-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Debut",
+      "es": "The Debut",
+      "it": "The Debut"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-11",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Debut.",
+      "es": "Estreno previsto de The Debut en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Debut nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-angry-birds-movie-3-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Angry Birds Movie 3",
+      "es": "The Angry Birds Movie 3",
+      "it": "The Angry Birds Movie 3"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Angry Birds Movie 3.",
+      "es": "Estreno previsto de The Angry Birds Movie 3 en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Angry Birds Movie 3 nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "mr-irrelevant-2026",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Mr. Irrelevant",
+      "es": "Mr. Irrelevant",
+      "it": "Mr. Irrelevant"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-25",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Mr. Irrelevant.",
+      "es": "Estreno previsto de Mr. Irrelevant en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Mr. Irrelevant nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "ice-age-boiling-point-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Ice Age: Boiling Point",
+      "es": "Ice Age: Boiling Point",
+      "it": "Ice Age: Boiling Point"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-05",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Ice Age: Boiling Point.",
+      "es": "Estreno previsto de Ice Age: Boiling Point en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Ice Age: Boiling Point nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-comeback-king-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Comeback King",
+      "es": "The Comeback King",
+      "it": "The Comeback King"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-05",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Comeback King.",
+      "es": "Estreno previsto de The Comeback King en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Comeback King nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "gatto-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Gatto",
+      "es": "Gatto",
+      "it": "Gatto"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-05",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Gatto.",
+      "es": "Estreno previsto de Gatto en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Gatto nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-thomas-crown-affair-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Thomas Crown Affair",
+      "es": "The Thomas Crown Affair",
+      "it": "The Thomas Crown Affair"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-05",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Thomas Crown Affair.",
+      "es": "Estreno previsto de The Thomas Crown Affair en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Thomas Crown Affair nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-exorcist-martyrs-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Exorcist: Martyrs",
+      "es": "The Exorcist: Martyrs",
+      "it": "The Exorcist: Martyrs"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-12",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Exorcist: Martyrs.",
+      "es": "Estreno previsto de The Exorcist: Martyrs en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Exorcist: Martyrs nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "godzilla-x-kong-supernova-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Godzilla x Kong: Supernova",
+      "es": "Godzilla x Kong: Supernova",
+      "it": "Godzilla x Kong: Supernova"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-26",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Godzilla x Kong: Supernova.",
+      "es": "Estreno previsto de Godzilla x Kong: Supernova en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Godzilla x Kong: Supernova nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "spaceballs-the-new-one-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Spaceballs: The New One",
+      "es": "Spaceballs: The New One",
+      "it": "Spaceballs: The New One"
+    },
+    "allDay": true,
+    "dueDate": "2027-04-23",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Spaceballs: The New One.",
+      "es": "Estreno previsto de Spaceballs: The New One en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Spaceballs: The New One nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-bluey-movie-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Bluey Movie",
+      "es": "The Bluey Movie",
+      "it": "The Bluey Movie"
+    },
+    "allDay": true,
+    "dueDate": "2027-08-06",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Bluey Movie.",
+      "es": "Estreno previsto de The Bluey Movie en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Bluey Movie nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "avengers-secret-wars-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "Avengers: Secret Wars",
+      "es": "Avengers: Secret Wars",
+      "it": "Avengers: Secret Wars"
+    },
+    "allDay": true,
+    "dueDate": "2027-12-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of Avengers: Secret Wars.",
+      "es": "Estreno previsto de Avengers: Secret Wars en los cines de Estados Unidos.",
+      "it": "Uscita prevista di Avengers: Secret Wars nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "the-lord-of-the-rings-the-hunt-for-gollum-2027",
+    "category": "Movie",
+    "localizedNames": {
+      "en": "The Lord of the Rings: The Hunt for Gollum",
+      "es": "The Lord of the Rings: The Hunt for Gollum",
+      "it": "The Lord of the Rings: The Hunt for Gollum"
+    },
+    "allDay": true,
+    "dueDate": "2027-12-17",
+    "icon": "film.fill",
+    "color": "purple",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled U.S. theatrical release of The Lord of the Rings: The Hunt for Gollum.",
+      "es": "Estreno previsto de The Lord of the Rings: The Hunt for Gollum en los cines de Estados Unidos.",
+      "it": "Uscita prevista di The Lord of the Rings: The Hunt for Gollum nelle sale statunitensi."
+    }
+  },
+  {
+    "id": "a-game-about-digging-a-hole-together-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "A Game About Digging A Hole Together",
+      "es": "A Game About Digging A Hole Together",
+      "it": "A Game About Digging A Hole Together"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of A Game About Digging A Hole Together for PlayStation 5 and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de A Game About Digging A Hole Together para PlayStation 5 y Nintendo Switch 2.",
+      "it": "Uscita prevista di A Game About Digging A Hole Together per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "dont-fret-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Don't Fret",
+      "es": "Don't Fret",
+      "it": "Don't Fret"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-08",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Don't Fret for PlayStation 5.",
+      "es": "Lanzamiento previsto de Don't Fret para PlayStation 5.",
+      "it": "Uscita prevista di Don't Fret per PlayStation 5."
+    }
+  },
+  {
+    "id": "sugardew-island-switch-2-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Sugardew Island",
+      "es": "Sugardew Island",
+      "it": "Sugardew Island"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-10",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Sugardew Island for Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Sugardew Island para Nintendo Switch 2.",
+      "it": "Uscita prevista di Sugardew Island per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "elements-destiny-switch-2026",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Elements Destiny",
+      "es": "Elements Destiny",
+      "it": "Elements Destiny"
+    },
+    "allDay": true,
+    "dueDate": "2026-12-15",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Elements Destiny for Nintendo Switch.",
+      "es": "Lanzamiento previsto de Elements Destiny para Nintendo Switch.",
+      "it": "Uscita prevista di Elements Destiny per Nintendo Switch."
+    }
+  },
+  {
+    "id": "romancing-saga-3-destinies-united-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Romancing SaGa 3: Destinies United",
+      "es": "Romancing SaGa 3: Destinies United",
+      "it": "Romancing SaGa 3: Destinies United"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Romancing SaGa 3: Destinies United for PlayStation 5, Nintendo Switch, and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Romancing SaGa 3: Destinies United para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "Uscita prevista di Romancing SaGa 3: Destinies United per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "yu-gi-oh-tag-force-gx-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Yu-Gi-Oh! TAG FORCE GX",
+      "es": "Yu-Gi-Oh! TAG FORCE GX",
+      "it": "Yu-Gi-Oh! TAG FORCE GX"
+    },
+    "allDay": true,
+    "dueDate": "2027-02-16",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Yu-Gi-Oh! TAG FORCE GX for Nintendo Switch and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Yu-Gi-Oh! TAG FORCE GX para Nintendo Switch y Nintendo Switch 2.",
+      "it": "Uscita prevista di Yu-Gi-Oh! TAG FORCE GX per Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "eternal-anima-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Eternal Anima",
+      "es": "Eternal Anima",
+      "it": "Eternal Anima"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Eternal Anima for PlayStation 5 and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Eternal Anima para PlayStation 5 y Nintendo Switch 2.",
+      "it": "Uscita prevista di Eternal Anima per PlayStation 5 e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "trine-6-together-in-time-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Trine 6: Together in Time",
+      "es": "Trine 6: Together in Time",
+      "it": "Trine 6: Together in Time"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-04",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Trine 6: Together in Time for Nintendo Switch and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Trine 6: Together in Time para Nintendo Switch y Nintendo Switch 2.",
+      "it": "Uscita prevista di Trine 6: Together in Time per Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "wo-long-2-wings-of-ember-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Wo Long 2: Wings of Ember",
+      "es": "Wo Long 2: Wings of Ember",
+      "it": "Wo Long 2: Wings of Ember"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-04",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Wo Long 2: Wings of Ember for PlayStation 5.",
+      "es": "Lanzamiento previsto de Wo Long 2: Wings of Ember para PlayStation 5.",
+      "it": "Uscita prevista di Wo Long 2: Wings of Ember per PlayStation 5."
+    }
+  },
+  {
+    "id": "petal-runner-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Petal Runner",
+      "es": "Petal Runner",
+      "it": "Petal Runner"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-08",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Petal Runner for Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de Petal Runner para Nintendo Switch 2.",
+      "it": "Uscita prevista di Petal Runner per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "grave-seasons-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "Grave Seasons",
+      "es": "Grave Seasons",
+      "it": "Grave Seasons"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-09",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of Grave Seasons for PlayStation 5 and Nintendo Switch.",
+      "es": "Lanzamiento previsto de Grave Seasons para PlayStation 5 y Nintendo Switch.",
+      "it": "Uscita prevista di Grave Seasons per PlayStation 5 e Nintendo Switch."
+    }
+  },
+  {
+    "id": "007-first-light-switch-2-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "007 First Light",
+      "es": "007 First Light",
+      "it": "007 First Light"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-18",
+    "icon": "gamecontroller.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of 007 First Light for Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de 007 First Light para Nintendo Switch 2.",
+      "it": "Uscita prevista di 007 First Light per Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "the-apothecary-diaries-the-false-imperial-brother-2027",
+    "category": "Game",
+    "localizedNames": {
+      "en": "The Apothecary Diaries: The False Imperial Brother",
+      "es": "The Apothecary Diaries: The False Imperial Brother",
+      "it": "The Apothecary Diaries: The False Imperial Brother"
+    },
+    "allDay": true,
+    "dueDate": "2027-03-18",
+    "icon": "gamecontroller.fill",
+    "color": "blue",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "Scheduled release of The Apothecary Diaries: The False Imperial Brother for PlayStation 5, Nintendo Switch, and Nintendo Switch 2.",
+      "es": "Lanzamiento previsto de The Apothecary Diaries: The False Imperial Brother para PlayStation 5, Nintendo Switch y Nintendo Switch 2.",
+      "it": "Uscita prevista di The Apothecary Diaries: The False Imperial Brother per PlayStation 5, Nintendo Switch e Nintendo Switch 2."
+    }
+  },
+  {
+    "id": "mens-rugby-world-cup-final-2027",
+    "category": "Special Event",
+    "localizedNames": {
+      "en": "Men's Rugby World Cup Final",
+      "es": "Final de la Copa Mundial de Rugby Masculina",
+      "it": "Finale della Coppa del Mondo di rugby maschile"
+    },
+    "allDay": true,
+    "dueDate": "2027-11-13",
+    "icon": "sportscourt.fill",
+    "color": "red",
+    "repeatEvent": "Never",
+    "notifications": false,
+    "primaryReminderSeconds": 0,
+    "secondaryReminderSeconds": null,
+    "localizedNotes": {
+      "en": "The 2027 Men's Rugby World Cup final at Stadium Australia in Sydney.",
+      "es": "Final de la Copa Mundial de Rugby Masculina de 2027 en el Stadium Australia de Sídney.",
+      "it": "Finale della Coppa del Mondo di rugby maschile 2027 allo Stadium Australia di Sydney."
     }
   }
 ]
